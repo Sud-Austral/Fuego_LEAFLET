@@ -21,6 +21,7 @@ def descarga(fuente):
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
     dfLat2.to_csv(f"Data/{fuente[0]}/Puntos_Diarios_{fuente[0]}.csv")
+    print(url)
     return dfLat2
 
 def proceso():
