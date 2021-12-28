@@ -22,7 +22,7 @@ def descarga(fuente):
         dfDate = df
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
-    dfLat2.to_csv(f"Data/{fuente[0]}/Puntos_Diarios_{fuente[0]}.csv")
+    dfLat2.to_csv(f"Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv")
     
     return dfLat2
 
