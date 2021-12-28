@@ -13,15 +13,17 @@ fuentes = [["https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/cs
 
 def descarga(fuente):
     url = fuente[0]
+    print(url)   
     #url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_7d.csv"
-    df = pd.read_csv("https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_24h.csv")
+    #df = pd.read_csv("https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_24h.csv")
+    df = pd.read_csv(url)
     dfDate = df[df["acq_date"] == datetime.datetime.now().strftime("%Y-%m-%d")]
     if(len(dfDate) > 0):
         dfDate = df
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
     dfLat2.to_csv(f"Data/{fuente[0]}/Puntos_Diarios_{fuente[0]}.csv")
-    print(url)
+    
     return dfLat2
 
 def proceso():
