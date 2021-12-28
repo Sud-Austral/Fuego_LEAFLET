@@ -39,9 +39,9 @@ def getJSON(fuente):
         f = {'acq_date': j["acq_date"],"lat":j["latitude"],"lng":j["longitude"]}
         features2.append(f.copy())
     salida = {"type":"FeatureCollection","features":features}
-    with open(f'Data/{fuente[0]}/heatmap_{fuente[0]}.json', 'w') as file:
+    with open(f'Data/{fuente[1]}/heatmap_{fuente[1]}.json', 'w') as file:
         json.dump(salida, file, indent=4)
-    with open(f'Data/{fuente[0]}/data_{fuente[0]}.json', 'w') as file:
+    with open(f'Data/{fuente[1]}/data_{fuente[1]}.json', 'w') as file:
         json.dump(features2, file, indent=4)
     return True
 
