@@ -12,7 +12,7 @@ def proceso():
         dfDate = df
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
-    dfLat2.to_excel("Data/Puntos_Diarios.xlsx")
+    dfLat2.to_csv("Data/Puntos_Diarios.csv")
     return dfLat2
 
 if __name__ == '__main__':
