@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import sys
 import datetime
+import json
 
 fuentes = [["https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_7d.csv",
             "MODIS"],
@@ -26,9 +27,28 @@ def descarga(fuente):
     
     return dfLat2
 
+def getJSON(fuente):
+    df = descarga(fuente)
+    features = []
+    features2 = []
+    for i, j in df.iterrows():
+        f = {'type': 'Feature', \
+            'geometry': {'type': 'Point', 'coordinates': [j["longitude"], j["latitude"]]}, \
+            'properties': {'acq_date': j["acq_date"]}}
+        features.append(f.copy())
+        f = {'acq_date': j["acq_date"],"lat":j["latitude"],"lng":j["longitude"]}
+        features2.append(f.copy())
+    salida = {"type":"FeatureCollection","features":features}
+    with open(f'Data/{fuente[0]}/heatmap_{fuente[0]}.json', 'w') as file:
+        json.dump(salida, file, indent=4)
+    with open(f'Data/{fuente[0]}/data_{fuente[0]}.json', 'w') as file:
+        json.dump(features2, file, indent=4)
+    return True
+
 def proceso():
     for i in fuentes:
-        descarga(i)
+        #descarga(i)
+        getJSON(i)
 
 if __name__ == '__main__':
     try:
