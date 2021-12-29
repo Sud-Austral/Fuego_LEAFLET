@@ -23,6 +23,10 @@ def descarga(fuente):
         dfDate = df
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
+
+    # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
+    # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
+
     dfLat2.to_csv(f"Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv")
     
     return dfLat2
