@@ -18,9 +18,9 @@ def descarga(fuente):
     #url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_7d.csv"
     #df = pd.read_csv("https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_24h.csv")
     df = pd.read_csv(url)
-    dfDate = df[df["acq_date"] == datetime.datetime.now().strftime("%Y-%m-%d")]
-    if(len(dfDate) > 0):
-        dfDate = df
+    #dfDate = df[df["acq_date"] == datetime.datetime.now().strftime("%Y-%m-%d")]
+    #if(len(dfDate) > 0):
+    dfDate = df
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
 
@@ -28,6 +28,9 @@ def descarga(fuente):
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
 
     dfLat2.to_csv(f"Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv")
+    dfLat2.to_csv(f"Data_Legacy/{fuente[1]}/Puntos_Diarios_{fuente[1]}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv")
+    
+
     
     return dfLat2
 
