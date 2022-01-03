@@ -1833,6 +1833,45 @@
             "properties": {
                 "acq_date": "2022-01-02"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.45633000000001,
+                    -34.10426
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-01-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.95119,
+                    -32.8044
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-01-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.31792,
+                    -23.822210000000002
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-01-02"
+            }
         }
     ]
 }
