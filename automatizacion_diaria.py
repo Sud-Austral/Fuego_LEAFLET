@@ -27,7 +27,7 @@ def descarga(fuente):
 
     hoy = datetime.now().strftime("%Y-%m-%d")
 
-    dfHoy = df[df['acq_date'] == hoy]
+    dfHoy = dfLat2[dfLat2['acq_date'] == hoy]
 
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
