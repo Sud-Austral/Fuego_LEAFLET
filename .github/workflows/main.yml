@@ -30,9 +30,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
-        python automatizacion.py
-        python automatizacion_24h.py
-        python automatizacion_48h.py
+        
         python automatizacion_diaria.py
         
 
