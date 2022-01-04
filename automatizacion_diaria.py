@@ -4,7 +4,6 @@ import pandas as pd
 import sys
 import datetime
 import json
-from datetime import datetime
 
 fuentes = [["https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_48h.csv",
             "MODIS_d"],
@@ -25,7 +24,7 @@ def descarga(fuente):
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
 
-    hoy = datetime.now().strftime("%Y-%m-%d")
+    hoy = datetime.datetime.now().strftime("%Y-%m-%d")
 
     dfHoy = dfLat2[dfLat2['acq_date'] == hoy]
 
