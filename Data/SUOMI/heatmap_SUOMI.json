@@ -12129,6 +12129,32 @@
             "properties": {
                 "acq_date": "2022-01-04"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.35885999999999,
+                    -17.48902
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-01-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.50811,
+                    -32.9309
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-01-04"
+            }
         }
     ]
 }
