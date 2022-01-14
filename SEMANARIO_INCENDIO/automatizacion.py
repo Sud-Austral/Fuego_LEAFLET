@@ -134,5 +134,5 @@ if __name__ == '__main__':
         #ref = pd.read_excel(r"LocalizaGoogle.xlsx")
         #ref = ref[['REGION', 'PROVINCIA', 'COMUNA','Comuna', 'ComunaUpper', 'raw']]
         #dfFinal = dfChile.merge(ref, left_on='Comuna', right_on='Comuna',how="left")
-        print(dfLat2)
+        #print(dfLat2)
     
