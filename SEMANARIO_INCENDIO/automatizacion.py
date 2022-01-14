@@ -26,13 +26,16 @@ def setComuna(x):
 
 def getComunas(df):
     geolocator = Nominatim(user_agent="geoapiExercises")
+    print(1)
     df['Coordenadas'] = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
+    print(2)
     df["Locacion"] = df["Coordenadas"].apply(lambda x: geolocator.reverse(x))
     referencia = ['road', 'city', 'county', 'state', 'country', 'country_code',
        'industrial', 'town', 'isolated_dwelling', 'hamlet', 'postcode',
        'building', 'neighbourhood', 'region', 'suburb', 'amenity',
        'man_made', 'village', 'office', 'historic', 'aeroway', 'tourism',
        'state_district', 'highway']
+    print(3)
     for i in referencia:
         def AgregarColumn(x):
             try:
@@ -40,12 +43,17 @@ def getComunas(df):
             except:
                 return ""
         df[i] = df["Locacion"].apply(lambda x: AgregarColumn(x))
+    print(4)
     dfChile = df[df["country"] == "Chile"]
+    print(5)
     dfChile = dfChile.reset_index()
+    print(6)
     dfChile["Comuna"] = dfChile[["city","town","village","suburb"]].apply(setComuna, axis=1)
     ref = pd.read_excel(r"LocalizaGoogle.xlsx")
+    print(7)
     ref = ref[['REGION', 'PROVINCIA', 'COMUNA','Comuna', 'ComunaUpper', 'raw']]
     dfFinal = dfChile.merge(ref, left_on='Comuna', right_on='Comuna',how="left")
+    print(8)
     return dfFinal
 
 def descarga(fuente):
@@ -94,6 +102,7 @@ def proceso():
         getJSON(i)
 
 if __name__ == '__main__':
+    print(1)
     print("Se inicia")
     try:
         proceso()
