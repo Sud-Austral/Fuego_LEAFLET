@@ -105,13 +105,15 @@ if __name__ == '__main__':
     #        error = sys.exc_info()[1]
     #        print(error)
     print("Se inicia")
+    geolocator = Nominatim(user_agent="geoapiExercises")
     for i in fuentes:
         df = pd.read_csv(i[0])
         dfDate = df
         dfLat = dfDate[dfDate["latitude"] < -16.5]
         dfLat2 = dfLat[dfLat["longitude"] < -69.5]
         dfLat2 = dfLat2.reset_index()
-        dfLat2 = dfLat2.reset_index()
-        dfLat2 = getComunas(dfLat2)
+        #df['Coordenadas'] = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
+        #df["Locacion"] = df["Coordenadas"].apply(lambda x: geolocator.reverse(x))
+    
         print(dfLat2)
     
