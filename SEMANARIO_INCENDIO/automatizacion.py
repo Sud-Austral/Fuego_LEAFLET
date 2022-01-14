@@ -14,6 +14,40 @@ fuentes = [["https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/cs
             ["https://firms.modaps.eosdis.nasa.gov/data/active_fire/noaa-20-viirs-c2/csv/J1_VIIRS_C2_South_America_7d.csv",
             "J1"]]
 
+def setComuna(x):
+    if(x["city"] != ""):
+        return x["city"]
+    elif(x["town"] != ""):
+        return x["town"]
+    elif(x["village"] != ""):
+        return x["village"]
+    else:
+        return x["suburb"]
+
+def getComunas(df):
+    geolocator = Nominatim(user_agent="geoapiExercises")
+    df['Coordenadas'] = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
+    df["Locacion"] = df["Coordenadas"].apply(lambda x: geolocator.reverse(x))
+    referencia = ['road', 'city', 'county', 'state', 'country', 'country_code',
+       'industrial', 'town', 'isolated_dwelling', 'hamlet', 'postcode',
+       'building', 'neighbourhood', 'region', 'suburb', 'amenity',
+       'man_made', 'village', 'office', 'historic', 'aeroway', 'tourism',
+       'state_district', 'highway']
+    for i in referencia:
+        def AgregarColumn(x):
+            try:
+                return x.raw["address"][i]
+            except:
+                return ""
+    df[i] = df["Locacion"].apply(lambda x: AgregarColumn(x))
+    dfChile = df[df["country"] == "Chile"]
+    dfChile = dfChile.reset_index()
+    dfChile["Comuna"] = dfChile[["city","town","village","suburb"]].apply(setComuna, axis=1)
+    ref = pd.read_excel(r"LocalizaGoogle.xlsx")
+    ref = ref[['REGION', 'PROVINCIA', 'COMUNA','Comuna', 'ComunaUpper', 'raw']]
+    dfFinal = dfChile.merge(ref, left_on='Comuna', right_on='Comuna',how="left")
+    return dfFinal
+
 def descarga(fuente):
     url = fuente[0]
     print(url)   
@@ -25,13 +59,12 @@ def descarga(fuente):
     dfDate = df
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
-
+    dfLat2 = getComunas(dfLat2)
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
 
     dfLat2.to_csv(f"Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv")
-    dfLat2.to_csv(f"Data_Legacy/{fuente[1]}/Puntos_Diarios_{fuente[1]}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv")
-    
+    dfLat2.to_csv(f"Data_Legacy/{fuente[1]}/Puntos_Diarios_{fuente[1]}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv")    
 
     
     return dfLat2
