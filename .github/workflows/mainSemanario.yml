@@ -26,12 +26,11 @@ jobs:
         python-version: 3.7
 
     - name: AUTOMATIZACIÓN
-      run: |
+      run: |        
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
-        
-        python automatizacion.py
-        
+        cd SEMANARIO_INCENDIO
+        pip install -r requirements.txt        
+        python automatizacion.py        
 
     - uses: stefanzweifel/git-auto-commit-action@v2
       with:
