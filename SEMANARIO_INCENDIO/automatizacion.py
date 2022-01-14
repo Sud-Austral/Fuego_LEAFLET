@@ -104,6 +104,7 @@ if __name__ == '__main__':
     #    except:
     #        error = sys.exc_info()[1]
     #        print(error)
+    print("Se inicia")
     for i in fuentes:
         df = pd.read_csv(i[0])
         dfDate = df
