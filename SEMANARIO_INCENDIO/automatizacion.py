@@ -94,25 +94,26 @@ def proceso():
         getJSON(i)
 
 if __name__ == '__main__':
-    #try:
-    #    proceso()
-    #    print("Hola todo bien")
-    #except:
-    #    try:
-    #        proceso()
-    #        print("Hola todo bien")
-    #    except:
-    #        error = sys.exc_info()[1]
-    #        print(error)
     print("Se inicia")
-    geolocator = Nominatim(user_agent="geoapiExercises")
-    for i in fuentes:
-        df = pd.read_csv(i[0])
-        dfDate = df
-        dfLat = dfDate[dfDate["latitude"] < -16.5]
-        dfLat2 = dfLat[dfLat["longitude"] < -69.5]
-        dfLat2 = dfLat2.reset_index()
-        dfLat2 = getComunas(dfLat2)
+    try:
+        proceso()
+        print("Hola todo bien")
+    except:
+        try:
+            proceso()
+            print("Hola todo bien")
+        except:
+            error = sys.exc_info()[1]
+            print(error)
+    
+    #geolocator = Nominatim(user_agent="geoapiExercises")
+    #for i in fuentes:
+    #    df = pd.read_csv(i[0])
+    #    dfDate = df
+    #    dfLat = dfDate[dfDate["latitude"] < -16.5]
+    #    dfLat2 = dfLat[dfLat["longitude"] < -69.5]
+    #    dfLat2 = dfLat2.reset_index()
+    #    dfLat2 = getComunas(dfLat2)
         #dfLat2['Coordenadas'] = dfLat2[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
         #dfLat2["Locacion"] = dfLat2["Coordenadas"].apply(lambda x: geolocator.reverse(x))
         #referencia = ['road', 'city', 'county', 'state', 'country', 'country_code',
