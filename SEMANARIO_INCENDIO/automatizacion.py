@@ -62,7 +62,7 @@ def descarga(fuente):
     print(url)   
     #url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_7d.csv"
     #df = pd.read_csv("https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_24h.csv")
-    df = pd.read_csv(url).iloc[:3,:]
+    df = pd.read_csv(url).iloc[:200,:]
     #dfDate = df[df["acq_date"] == datetime.datetime.now().strftime("%Y-%m-%d")]
     #if(len(dfDate) > 0):
     dfDate = df
