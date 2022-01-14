@@ -59,6 +59,7 @@ def descarga(fuente):
     dfDate = df
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
+    dfLat2 = dfLat2.reset_index()
     dfLat2 = getComunas(dfLat2)
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
@@ -93,14 +94,23 @@ def proceso():
         getJSON(i)
 
 if __name__ == '__main__':
-    try:
-        proceso()
-        print("Hola todo bien")
-    except:
-        try:
-            proceso()
-            print("Hola todo bien")
-        except:
-            error = sys.exc_info()[1]
-            print(error)
+    #try:
+    #    proceso()
+    #    print("Hola todo bien")
+    #except:
+    #    try:
+    #        proceso()
+    #        print("Hola todo bien")
+    #    except:
+    #        error = sys.exc_info()[1]
+    #        print(error)
+    for i in fuentes:
+        df = pd.read_csv(i[0])
+        dfDate = df
+        dfLat = dfDate[dfDate["latitude"] < -16.5]
+        dfLat2 = dfLat[dfLat["longitude"] < -69.5]
+        dfLat2 = dfLat2.reset_index()
+        dfLat2 = dfLat2.reset_index()
+        dfLat2 = getComunas(dfLat2)
+        print(dfLat2)
     
