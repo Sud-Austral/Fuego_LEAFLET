@@ -112,8 +112,26 @@ if __name__ == '__main__':
         dfLat = dfDate[dfDate["latitude"] < -16.5]
         dfLat2 = dfLat[dfLat["longitude"] < -69.5]
         dfLat2 = dfLat2.reset_index()
-        dfLat2['Coordenadas'] = dfLat2[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
-        dfLat2["Locacion"] = dfLat2["Coordenadas"].apply(lambda x: geolocator.reverse(x))
-    
+        dfLat2 = getComunas(dfLat2)
+        #dfLat2['Coordenadas'] = dfLat2[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
+        #dfLat2["Locacion"] = dfLat2["Coordenadas"].apply(lambda x: geolocator.reverse(x))
+        #referencia = ['road', 'city', 'county', 'state', 'country', 'country_code',
+        #    'industrial', 'town', 'isolated_dwelling', 'hamlet', 'postcode',
+        #    'building', 'neighbourhood', 'region', 'suburb', 'amenity',
+        #    'man_made', 'village', 'office', 'historic', 'aeroway', 'tourism',
+        #    'state_district', 'highway']
+        #for i in referencia:
+        #    def AgregarColumn(x):
+        #        try:
+        #            return x.raw["address"][i]
+        #        except:
+        #            return ""
+        #    df[i] = df["Locacion"].apply(lambda x: AgregarColumn(x))
+        #dfChile = df[df["country"] == "Chile"]
+        #dfChile = dfChile.reset_index()
+        #dfChile["Comuna"] = dfChile[["city","town","village","suburb"]].apply(setComuna, axis=1)
+        #ref = pd.read_excel(r"LocalizaGoogle.xlsx")
+        #ref = ref[['REGION', 'PROVINCIA', 'COMUNA','Comuna', 'ComunaUpper', 'raw']]
+        #dfFinal = dfChile.merge(ref, left_on='Comuna', right_on='Comuna',how="left")
         print(dfLat2)
     
