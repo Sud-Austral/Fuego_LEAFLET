@@ -112,8 +112,8 @@ if __name__ == '__main__':
         dfLat = dfDate[dfDate["latitude"] < -16.5]
         dfLat2 = dfLat[dfLat["longitude"] < -69.5]
         dfLat2 = dfLat2.reset_index()
-        #df['Coordenadas'] = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
-        #df["Locacion"] = df["Coordenadas"].apply(lambda x: geolocator.reverse(x))
+        dfLat2['Coordenadas'] = dfLat2[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
+        dfLat2["Locacion"] = dfLat2["Coordenadas"].apply(lambda x: geolocator.reverse(x))
     
         print(dfLat2)
     
