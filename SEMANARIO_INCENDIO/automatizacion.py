@@ -26,6 +26,7 @@ def setComuna(x):
 
 def getComunas(df):
     geolocator = Nominatim(user_agent="geoapiExercises")
+    print(df.columns)
     print(1)
     df['Coordenadas'] = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
     print(2)
