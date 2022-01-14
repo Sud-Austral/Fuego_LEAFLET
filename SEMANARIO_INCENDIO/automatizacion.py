@@ -71,8 +71,8 @@ def descarga(fuente):
     dfLat2 = dfLat2.reset_index()
     try:
         dfLat2 = getComunas(dfLat2)
-        dfLat2.to_csv(f"Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv")
-        dfLat2.to_csv(f"Data_Legacy/{fuente[1]}/Puntos_Diarios_{fuente[1]}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv")    
+        dfLat2.to_csv(f"Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv",encoding='utf-8-sig')
+        dfLat2.to_csv(f"Data_Legacy/{fuente[1]}/Puntos_Diarios_{fuente[1]}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv",encoding='utf-8-sig')    
     except:
         error = sys.exc_info()[1]
         print(error)
