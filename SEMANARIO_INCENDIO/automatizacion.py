@@ -93,5 +93,14 @@ def proceso():
         getJSON(i)
 
 if __name__ == '__main__':
-    geolocator = Nominatim(user_agent="geoapiExercises")
-    print("Hola todo bien")
+    try:
+        proceso()
+        print("Hola todo bien")
+    except:
+        try:
+            proceso()
+            print("Hola todo bien")
+        except:
+            error = sys.exc_info()[1]
+            print(error)
+    
