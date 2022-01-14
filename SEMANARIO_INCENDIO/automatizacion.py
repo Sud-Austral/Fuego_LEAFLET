@@ -39,7 +39,7 @@ def getComunas(df):
                 return x.raw["address"][i]
             except:
                 return ""
-    df[i] = df["Locacion"].apply(lambda x: AgregarColumn(x))
+        df[i] = df["Locacion"].apply(lambda x: AgregarColumn(x))
     dfChile = df[df["country"] == "Chile"]
     dfChile = dfChile.reset_index()
     dfChile["Comuna"] = dfChile[["city","town","village","suburb"]].apply(setComuna, axis=1)
