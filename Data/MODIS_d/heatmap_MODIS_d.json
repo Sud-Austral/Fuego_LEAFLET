@@ -1,31 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.37945,
-                    -36.86895
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-01-14"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.4607,
-                    -34.11202
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-01-14"
-            }
-        }
-    ]
+    "features": []
 }
