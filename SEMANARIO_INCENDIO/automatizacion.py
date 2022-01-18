@@ -107,8 +107,14 @@ def proceso():
     #for i in fuentes:
         #descarga(i)
         #getJSON(i)
-    for ruta in ['Data/J1/Puntos_Diarios_J1.csv']:
-        print(pd.read_csv(ruta).columns)
+    #'Data/J1/Puntos_Diarios_J1.csv'
+    salida = []
+    for ruta in ["MODIS","SUOMI","J1"]:
+        file = f'Data/{ruta}/Puntos_Diarios_{ruta}.csv'
+        dfaux = pd.read_csv(ruta)
+        dfaux["Fuente"] =  ruta
+        salida.append(dfaux)
+    pd.concat(salida).to_excel("Data/Consolidado/ConsolidadoPuntosCalor.xlsx", index=False)
     return
 
 if __name__ == '__main__':
