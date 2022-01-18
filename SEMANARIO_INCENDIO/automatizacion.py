@@ -104,9 +104,12 @@ def getJSON(fuente):
     return True
 
 def proceso():
-    for i in fuentes:
+    #for i in fuentes:
         #descarga(i)
-        getJSON(i)
+        #getJSON(i)
+    for ruta in ['Data/J1/Puntos_Diarios_J1.csv']:
+        print(pd.read_csv(ruta).columns)
+    return
 
 if __name__ == '__main__':
     print(1)
