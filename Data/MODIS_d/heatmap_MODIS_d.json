@@ -6,12 +6,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.37945,
-                    -36.86895
+                    -71.34978000000001,
+                    -17.49158
                 ]
             },
             "properties": {
-                "acq_date": "2022-01-14"
+                "acq_date": "2022-01-18"
             }
         },
         {
@@ -19,12 +19,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.4607,
-                    -34.11202
+                    -71.72751,
+                    -41.46667
                 ]
             },
             "properties": {
-                "acq_date": "2022-01-14"
+                "acq_date": "2022-01-18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.46155999999999,
+                    -34.10575
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-01-18"
             }
         }
     ]
