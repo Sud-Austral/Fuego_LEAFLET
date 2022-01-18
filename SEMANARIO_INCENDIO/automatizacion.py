@@ -104,9 +104,9 @@ def getJSON(fuente):
     return True
 
 def proceso():
-    #for i in fuentes:
+    for i in fuentes:
         #descarga(i)
-        #getJSON(i)
+        getJSON(i)
     #'Data/J1/Puntos_Diarios_J1.csv'
     salida = []
     for ruta in ["MODIS","SUOMI","J1"]:
