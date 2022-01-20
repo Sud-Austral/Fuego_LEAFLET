@@ -127,7 +127,8 @@ def saveConsolidado():
         salida2.append(dfaux)
 
     consolidadoUpdate = pd.concat(salida2)
-    consolidadoUpdate = consolidadoUpdate.reset_index()
+    consolidadoUpdate = consolidadoUpdate[consolidadoUpdate["acq_date"].apply(lambda x: x not in consolidado["acq_date"].unique())]
+    #consolidadoUpdate = consolidadoUpdate.reset_index()
     dfDate = consolidadoUpdate
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
@@ -137,6 +138,7 @@ def saveConsolidado():
     except:
         error = sys.exc_info()[1]
         print(error)
+        print("Error en getComunas")
     dfFinal = pd.concat([consolidado,dfLat2])
     dfFinal = dfFinal.reset_index()
     print(dfFinal)
