@@ -118,15 +118,21 @@ def proceso():
     pd.concat(salida).to_excel("Data/Consolidado/ConsolidadoPuntosCalor.xlsx", index=False)
     return
 
+def saveConsolidado():
+    consolidado = pd.read_excel("Consolidado/ConsolidadoPuntosFuego.xlsx")
+    print(consolidado.columns)
+    return 
+
 if __name__ == '__main__':
     print(1)
     print("Se inicia")
     try:
-        proceso()
+        saveConsolidado()
+        #proceso()
         print("Hola todo bien")
     except:
         try:
-            proceso()
+            #proceso()
             print("Hola todo bien")
         except:
             error = sys.exc_info()[1]
