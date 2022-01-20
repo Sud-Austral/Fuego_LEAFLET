@@ -120,7 +120,26 @@ def proceso():
 
 def saveConsolidado():
     consolidado = pd.read_excel("Consolidado/ConsolidadoPuntosFuego.xlsx")
-    print(consolidado.columns)
+    salida2 = []
+    for i in fuentes:
+        dfaux = pd.read_csv(i[0])
+        dfaux["Fuente"] = i[1]
+        salida2.append(dfaux)
+
+    consolidadoUpdate = pd.concat(salida2)
+    consolidadoUpdate = consolidadoUpdate.reset_index()
+    dfDate = consolidadoUpdate
+    dfLat = dfDate[dfDate["latitude"] < -16.5]
+    dfLat2 = dfLat[dfLat["longitude"] < -69.5]
+    dfLat2 = dfLat2.reset_index()
+    try:
+        dfLat2 = getComunas(dfLat2)
+    except:
+        error = sys.exc_info()[1]
+        print(error)
+    dfFinal = pd.concat([consolidado,dfLat2])
+    dfFinal = dfFinal.reset_index()
+    print(dfFinal)
     return 
 
 if __name__ == '__main__':
