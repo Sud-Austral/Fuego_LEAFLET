@@ -155,12 +155,14 @@ if __name__ == '__main__':
         #proceso()
         print("Hola todo bien")
     except:
-        try:
+        error = sys.exc_info()[1]
+        print(error)
+        #try:
             #proceso()
-            print("Hola todo bien")
-        except:
-            error = sys.exc_info()[1]
-            print(error)
+        #    print("Hola todo bien")
+        #except:
+        #    error = sys.exc_info()[1]
+        #    print(error)
     
     #geolocator = Nominatim(user_agent="geoapiExercises")
     #for i in fuentes:
