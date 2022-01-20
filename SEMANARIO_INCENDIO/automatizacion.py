@@ -141,10 +141,10 @@ def saveConsolidado():
         print("Error en getComunas")
     dfFinal = pd.concat([consolidado,dfLat2])
     dfFinal = dfFinal.reset_index()
-    dfFinal2 = dfFinal.drop(columns=["level_0","index","Unnamed: 0"])
-    dfFinal2.to_excel("Consolidado/ConsolidadoPuntosFuego.xlsx", index=False)
+    #dfFinal2 = dfFinal.drop(columns=["level_0","index","Unnamed: 0"])
+    dfFinal.to_excel("Consolidado/ConsolidadoPuntosFuego.xlsx", index=False)
     print("ya deberia estar")
-    print(dfFinal2)
+    print(dfFinal)
     return 
 
 if __name__ == '__main__':
