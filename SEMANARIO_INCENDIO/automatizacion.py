@@ -143,7 +143,7 @@ def saveConsolidado():
     dfFinal = dfFinal.reset_index()
     dfFinal2 = dfFinal.drop(columns=["level_0","index","Unnamed: 0"])
     dfFinal2.to_excel("Consolidado/ConsolidadoPuntosFuego.xlsx", index=False)
-
+    print("ya deberia estar")
     print(dfFinal2)
     return 
 
