@@ -17,6 +17,7 @@ def regiones(region):
     data = pd.read_excel('Incendios_24h/data.xlsx', sheet_name='regiones')
     data = data[data['COD_REGION'] == region]
     
+    data = data.reset_index()
     indx = data.index[0]
     
     return data['REGION'][indx]
@@ -25,6 +26,8 @@ def provincias(prov):
     
     data = pd.read_excel('Incendios_24h/data.xlsx', sheet_name='provincias')
     data = data[data['COD_PROVIN'] == prov]
+    
+    data = data.reset_index()
     
     indx = data.index[0]
     
