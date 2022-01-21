@@ -36,10 +36,10 @@ def descarga(fuente):
 
     df = pd.read_excel(url)
 
-    # df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
-    # df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
+    df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
+    df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
 
-    # df = df[df['Fuente'] == fuente[1]]
+    df = df[df['Fuente'] == fuente[1]]
 
     dfLat2 = df
 
@@ -74,7 +74,10 @@ def getJSON(fuente):
 def proceso():
     for i in fuentes:
         #descarga(i)
-        getJSON(i)
+        # getJSON(i)
+        print(i[1])
+        print(i[0])
+        print(i)
 
 if __name__ == '__main__':
     try:
