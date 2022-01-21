@@ -1,6 +1,11 @@
 name: Descargas Diarias
 
 # Controls when the workflow will run
+# python automatizacion.py
+#python automatizacion_24h.py
+#python automatizacion_48h.py
+#python automatizacion_diaria.py
+#python Incendios_24h/automatizacion_24h.py 
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
@@ -30,13 +35,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
-        python automatizacion.py
-        python automatizacion_24h.py
-        python automatizacion_48h.py
-        python automatizacion_diaria.py
+        
 
         python Incendios_24h/automatizacion_h.py
-        python Incendios_24h/automatizacion_24h.py        
+               
         
 
     - uses: stefanzweifel/git-auto-commit-action@v2

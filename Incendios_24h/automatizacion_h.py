@@ -54,6 +54,7 @@ def descarga(fuente):
     return dfLat2
 
 def getJSON(fuente):
+    print(fuente)
     df = descarga(fuente)
     features = []
     features2 = []
@@ -74,10 +75,10 @@ def getJSON(fuente):
 def proceso():
     for i in fuentes:
         #descarga(i)
-        # getJSON(i)
-        print(i[1])
-        print(i[0])
-        print(i)
+        getJSON(i)
+        # print(i[1])
+        # print(i[0])
+        # print(i)
 
 if __name__ == '__main__':
     try:
