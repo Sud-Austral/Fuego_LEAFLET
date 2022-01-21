@@ -43,7 +43,7 @@ def descarga(fuente):
     if(fuente[1] == 'J1_h'):
         dataFuente = 'J1'
 
-    print(dataFuente)   
+    print('FUENTE: ' + str(dataFuente))
     df = pd.read_excel(url)
 
     df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
