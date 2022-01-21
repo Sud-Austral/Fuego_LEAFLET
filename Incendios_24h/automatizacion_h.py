@@ -6,18 +6,17 @@ import datetime
 import json
 
 fuentes = [["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true",
-            "MODIS"],
+            "MODIS_diario"],
             ["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true",
-            "SUOMI"],
+            "SUOMI_diario"],
             ["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true",
-            "J1"]]
+            "J1_diario"]]
 
 def regiones(region):
     
     data = pd.read_excel('Incendios_24h/data.xlsx', sheet_name='regiones')
     data = data[data['COD_REGION'] == region]
-    
-    data = data.reset_index()
+
     indx = data.index[0]
     
     return data['REGION'][indx]
@@ -26,9 +25,7 @@ def provincias(prov):
     
     data = pd.read_excel('Incendios_24h/data.xlsx', sheet_name='provincias')
     data = data[data['COD_PROVIN'] == prov]
-    
-    data = data.reset_index()
-    
+
     indx = data.index[0]
     
     return data['PROVINCIA'][indx]
