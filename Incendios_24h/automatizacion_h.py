@@ -76,6 +76,8 @@ def getJSON(fuente):
 def proceso():
     for registro in fuentes:
         #descarga(i)
+        print(0)
+        print(registro)
         getJSON(registro)
         # print(i[1])
         # print(i[0])
