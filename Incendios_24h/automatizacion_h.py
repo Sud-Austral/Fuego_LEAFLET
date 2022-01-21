@@ -32,25 +32,14 @@ def provincias(prov):
 
 def descarga(fuente):
     url = fuente[0]
-    dataFuente = ''
+    print("FUENTE H: " + fuente[1])
 
-    if(fuente[1] == 'MODIS'):
-        dataFuente = 'MODIS'
-
-    if(fuente[1] == 'SUOMI'):
-        dataFuente = 'SUOMI'
-
-    if(fuente[1] == 'J1'):
-        dataFuente = 'J1'
-
-    print('FUENTE H: ' + str(dataFuente))   
-    
     df = pd.read_excel(url)
 
     # df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
     # df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
 
-    df = df[df['Fuente'] == dataFuente]
+    # df = df[df['Fuente'] == fuente[1]]
 
     dfLat2 = df
 
