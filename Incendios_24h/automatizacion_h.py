@@ -32,7 +32,7 @@ def provincias(prov):
 
 def descarga(fuente):
     url = fuente[0]
-    print("FUENTE H: " + fuente[1])
+    # print("FUENTE H: " + fuente[1])
 
     df = pd.read_excel(url)
 
@@ -54,6 +54,7 @@ def descarga(fuente):
     return dfLat2
 
 def getJSON(fuente):
+    print(1)
     print(fuente)
     df = descarga(fuente)
     features = []
