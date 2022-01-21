@@ -34,7 +34,6 @@ def descarga(fuente):
     url = fuente[0]
 
     df = pd.read_excel(url)
-    df = df[df['acq_date'] == today]
 
     df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
     df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
@@ -48,8 +47,6 @@ def descarga(fuente):
 
     dfLat2.to_csv(f"Incendios_24h/Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv")
     dfLat2.to_csv(f"Incendios_24h/Data_Legacy/{fuente[1]}/Puntos_Diarios_{fuente[1]}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv")
-    
-
     
     return dfLat2
 
