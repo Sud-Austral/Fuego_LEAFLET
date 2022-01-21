@@ -35,9 +35,8 @@ jobs:
         python automatizacion_48h.py
         python automatizacion_diaria.py
 
-        python Incendios_24h/automatizacion_24h.py
         python Incendios_24h/automatizacion_h.py
-        
+        python Incendios_24h/automatizacion_24h.py        
         
 
     - uses: stefanzweifel/git-auto-commit-action@v2

@@ -33,10 +33,7 @@ def provincias(prov):
 def descarga(fuente):
     url = fuente[0]
     dataFuente = fuente[1]
-
-    # print(url)   
-    
-
+    print('FUENTE H' + str(dataFuente))
     df = pd.read_excel(url)
 
     df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
@@ -46,8 +43,6 @@ def descarga(fuente):
 
     dfLat2 = df
 
-    # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
-    # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
 
     dfLat2.to_csv(f"Incendios_24h/Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv")
     dfLat2.to_csv(f"Incendios_24h/Data_Legacy/{fuente[1]}/Puntos_Diarios_{fuente[1]}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv")
