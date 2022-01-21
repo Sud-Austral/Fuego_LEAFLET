@@ -20,9 +20,7 @@ def descarga(fuente):
     df = pd.read_csv(url)
     #dfDate = df[df["acq_date"] == datetime.datetime.now().strftime("%Y-%m-%d")]
     #if(len(dfDate) > 0):
-    dfDate = df
-    dfLat = dfDate[dfDate["latitude"] < -16.5]
-    dfLat2 = dfLat[dfLat["longitude"] < -69.5]
+    dfLat2 = df
 
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
