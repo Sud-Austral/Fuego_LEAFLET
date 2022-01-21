@@ -18,6 +18,9 @@ def descarga(fuente):
     #url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_7d.csv"
     #df = pd.read_csv("https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_24h.csv")
     df = pd.read_excel(url)
+
+    print('COLUMNAS')
+    print(df.columns)
     #dfDate = df[df["acq_date"] == datetime.datetime.now().strftime("%Y-%m-%d")]
     #if(len(dfDate) > 0):
     dfLat2 = df
