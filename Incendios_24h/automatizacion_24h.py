@@ -28,8 +28,8 @@ def descarga(fuente):
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
 
-    dfLat2.to_csv(f"Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv")
-    dfLat2.to_csv(f"Data_Legacy/{fuente[1]}/Puntos_Diarios_{fuente[1]}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv")
+    dfLat2.to_csv(f"Incendios_24h/Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv")
+    dfLat2.to_csv(f"Incendios_24h/Data_Legacy/{fuente[1]}/Puntos_Diarios_{fuente[1]}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv")
     
 
     
@@ -47,9 +47,9 @@ def getJSON(fuente):
         f = {'acq_date': j["acq_date"],"lat":j["latitude"],"lng":j["longitude"]}
         features2.append(f.copy())
     salida = {"type":"FeatureCollection","features":features}
-    with open(f'Data/{fuente[1]}/heatmap_{fuente[1]}.json', 'w') as file:
+    with open(f'Incendios_24h/Data/{fuente[1]}/heatmap_{fuente[1]}.json', 'w') as file:
         json.dump(salida, file, indent=4)
-    with open(f'Data/{fuente[1]}/data_{fuente[1]}.json', 'w') as file:
+    with open(f'Incendios_24h/Data/{fuente[1]}/data_{fuente[1]}.json', 'w') as file:
         json.dump(features2, file, indent=4)
     return True
 
