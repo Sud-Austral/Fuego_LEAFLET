@@ -27,6 +27,9 @@ def provincias(prov):
     return data['PROVINCIA'][indx]
 
 def descarga(fuente):
+    print(fuente)
+    print(fuentesLink)
+    
     url = fuentesLink
 
     df = pd.read_excel(url)
