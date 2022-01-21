@@ -44,9 +44,6 @@ def descarga(fuente):
         dataFuente = 'J1'
 
     # print(url)   
-    
-    today = str(datetime.datetime.today())[0:10]
-
     df = pd.read_excel(url)
 
     df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
