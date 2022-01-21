@@ -43,7 +43,7 @@ def descarga(fuente):
     if(fuente[1] == 'J1_24h'):
         dataFuente = 'J1'
 
-    print('FUENTE 24' + str(dataFuente))   
+    print('FUENTE 24: ' + str(dataFuente))   
     
     today = str(datetime.datetime.today())[0:10]
 
