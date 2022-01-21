@@ -45,13 +45,10 @@ def descarga(fuente):
 
     print('FUENTE H: ' + str(dataFuente))   
     
-    today = str(datetime.datetime.today())[0:10]
-
     df = pd.read_excel(url)
-    df = df[df['acq_date'] <= today]
 
-    df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
-    df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
+    # df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
+    # df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
 
     df = df[df['Fuente'] == dataFuente]
 
