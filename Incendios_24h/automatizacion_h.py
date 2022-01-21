@@ -6,11 +6,11 @@ import datetime
 import json
 
 fuentes = [["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true",
-            "MODIS"],
+            "MODIS_24h"],
             ["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true",
-            "SUOMI"],
+            "SUOMI_24h"],
             ["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true",
-            "J1"]]
+            "J1_24h"]]
 
 def regiones(region):
     
@@ -32,11 +32,23 @@ def provincias(prov):
 
 def descarga(fuente):
     url = fuente[0]
-    dataFuente = str(fuente[1])
+    dataFuente = ''
 
-    print('FUENTE H: ' + str(dataFuente))
+    if(fuente[1] == 'MODIS_24h'):
+        dataFuente = 'MODIS'
+
+    if(fuente[1] == 'SUOMI_24h'):
+        dataFuente = 'SUOMI'
+
+    if(fuente[1] == 'J1_24h'):
+        dataFuente = 'J1'
+
+    print('FUENTE H: ' + str(dataFuente))   
+    
+    today = str(datetime.datetime.today())[0:10]
 
     df = pd.read_excel(url)
+    df = df[df['acq_date'] == today]
 
     df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
     df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
@@ -44,7 +56,9 @@ def descarga(fuente):
     df = df[df['Fuente'] == dataFuente]
 
     dfLat2 = df
-    print('COLUMNAS: ' + dfLat2.columns)
+
+    # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
+    # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
 
     dfLat2.to_csv(f"Incendios_24h/Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv")
     dfLat2.to_csv(f"Incendios_24h/Data_Legacy/{fuente[1]}/Puntos_Diarios_{fuente[1]}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv")
