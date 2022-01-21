@@ -63,7 +63,7 @@ def getJSON(fuente):
             'geometry': {'type': 'Point', 'coordinates': [j["longitude"], j["latitude"]]}, \
             'properties': {'acq_date': j["acq_date"]}}
         features.append(f.copy())
-        f = {'acq_date': j["acq_date"],"lat":j["latitude"],"lng":j["longitude"]}
+        f = {'acq_date': j["acq_date"],"lat":j["latitude"],"lng":j["longitude"], "location": j["Locacion"], "region": j["NOM_REGION"], "provincia": j["NOM_PROVINCIA"], "comuna": j["Comuna"]}
         features2.append(f.copy())
     salida = {"type":"FeatureCollection","features":features}
     with open(f'Incendios_24h/Data/{fuente[1]}/heatmap_{fuente[1]}.json', 'w') as file:
