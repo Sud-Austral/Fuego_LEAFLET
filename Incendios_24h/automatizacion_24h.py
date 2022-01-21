@@ -32,6 +32,17 @@ def provincias(prov):
 
 def descarga(fuente):
     url = fuente[0]
+    dataFuente = ''
+
+    if(fuente[1] == 'MODIS_24h'):
+        dataFuente = 'MODIS'
+
+    if(fuente[1] == 'SUOMI_24h'):
+        dataFuente = 'SUOMI'
+
+    if(fuente[1] == 'J1_24h'):
+        dataFuente = 'J1'
+
     # print(url)   
     
     today = str(datetime.datetime.today())[0:10]
@@ -41,6 +52,8 @@ def descarga(fuente):
 
     df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
     df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
+
+    df = df[df['Fuente'] == dataFuente]
 
     dfLat2 = df
 
