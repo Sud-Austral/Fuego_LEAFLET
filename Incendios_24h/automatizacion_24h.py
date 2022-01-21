@@ -12,6 +12,24 @@ fuentes = [["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_IN
             ["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true'",
             "J1_24h"]]
 
+def regiones(region):
+    
+    data = pd.read_excel('Incendios_24h/data.xlsx', sheet_name='regiones')
+    data = data[data['COD_REGION'] == region]
+    
+    indx = data.index[0]
+    
+    return data['REGION'][indx]
+
+def provincias(prov):
+    
+    data = pd.read_excel('Incendios_24h/data.xlsx', sheet_name='provincias')
+    data = data[data['COD_PROVIN'] == prov]
+    
+    indx = data.index[0]
+    
+    return data['PROVINCIA'][indx]
+
 def descarga(fuente):
     url = fuente[0]
     # print(url)   
@@ -20,6 +38,9 @@ def descarga(fuente):
 
     df = pd.read_excel(url)
     df = df[df['acq_date'] == today]
+
+    df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
+    df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
 
     dfLat2 = df
 
