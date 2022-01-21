@@ -36,7 +36,7 @@ jobs:
         python automatizacion_diaria.py
 
         python Incendios_24h/automatizacion_24h.py
-        python Incendios_24h/automatizacion.py
+        python Incendios_24h/automatizacion_h.py
         
         
 

@@ -6,11 +6,11 @@ import datetime
 import json
 
 fuentes = [["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true'",
-            "MODIS_h"],
+            "MODIS"],
             ["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true'",
-            "SUOMI_h"],
+            "SUOMI"],
             ["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true'",
-            "J1_h"]]
+            "J1"]]
 
 def regiones(region):
     
@@ -32,18 +32,11 @@ def provincias(prov):
 
 def descarga(fuente):
     url = fuente[0]
-    dataFuente = ''
+    dataFuente = fuente[1]
 
-    if(fuente[1] == 'MODIS_h'):
-        dataFuente = 'MODIS'
+    # print(url)   
+    
 
-    if(fuente[1] == 'SUOMI_h'):
-        dataFuente = 'SUOMI'
-
-    if(fuente[1] == 'J1_h'):
-        dataFuente = 'J1'
-
-    print('FUENTE: ' + str(dataFuente))
     df = pd.read_excel(url)
 
     df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
