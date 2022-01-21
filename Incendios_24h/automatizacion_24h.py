@@ -14,15 +14,13 @@ fuentes = [["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_IN
 
 def descarga(fuente):
     url = fuente[0]
-    print(url)   
-    #url = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_7d.csv"
-    #df = pd.read_csv("https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_South_America_24h.csv")
-    df = pd.read_excel(url)
+    # print(url)   
+    
+    today = str(datetime.datetime.today())[0:10]
 
-    print('COLUMNAS')
-    print(df.columns)
-    #dfDate = df[df["acq_date"] == datetime.datetime.now().strftime("%Y-%m-%d")]
-    #if(len(dfDate) > 0):
+    df = pd.read_excel(url)
+    df = df[df['acq_date'] == today]
+
     dfLat2 = df
 
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
