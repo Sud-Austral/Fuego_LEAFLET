@@ -15,20 +15,32 @@ fuentes = [["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_IN
 def regiones(region):
     
     data = pd.read_excel('Incendios_24h/data.xlsx', sheet_name='regiones')
-    data = data[data['COD_REGION'] == region]
-    
-    indx = data.index[0]
-    
-    return data['REGION'][indx]
+
+    try:
+        data = data[data['COD_REGION'] == region]
+        indx = data.index[0]
+        
+        resultado = data['REGION'][indx]
+
+    except: 
+        resultado = ''
+
+    return resultado
 
 def provincias(prov):
     
     data = pd.read_excel('Incendios_24h/data.xlsx', sheet_name='provincias')
-    data = data[data['COD_PROVIN'] == prov]
+
+    try:
+        data = data[data['COD_PROVIN'] == prov]
+        indx = data.index[0]
+
+        resultado = data['PROVINCIA'][indx]
+
+    except:
+        resultado = ''
     
-    indx = data.index[0]
-    
-    return data['PROVINCIA'][indx]
+    return resultado
 
 def descarga(fuente):
     url = fuente[0]
