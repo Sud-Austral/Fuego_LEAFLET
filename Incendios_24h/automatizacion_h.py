@@ -85,11 +85,4 @@ def proceso():
         getJSON(i)
 
 if __name__ == '__main__':
-    try:
-        proceso()
-    except:
-        try:
-            proceso()
-        except:
-            error = sys.exc_info()[1]
-            print(error)
+    proceso()
