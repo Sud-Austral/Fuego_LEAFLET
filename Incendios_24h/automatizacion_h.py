@@ -51,7 +51,6 @@ def descarga(fuente):
         dataFuente = 'J1'
 
     print('FUENTE: ' + str(dataFuente))   
-    
 
     dfDatas = pd.read_excel('https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true')
     dfAux = dfDatas[dfDatas['Column1'] != '299']
