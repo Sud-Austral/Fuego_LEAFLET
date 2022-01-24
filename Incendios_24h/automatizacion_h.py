@@ -55,9 +55,6 @@ def descarga(fuente):
 
     dfData = pd.read_excel('https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true')
 
-    dfData1 = dfData[dfData['Column1'] != '299']
-    dfData2 = dfData1[dfData1['Column1'] != '300']
-
     dfData2 = dfData2[dfData2['Fuente'] == dataFuente]
 
     dfData2['NOM_REGION'] = dfData2['REGION'].apply(lambda x: regiones(x))
