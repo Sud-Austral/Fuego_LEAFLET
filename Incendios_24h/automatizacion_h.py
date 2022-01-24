@@ -18,7 +18,7 @@ def regiones(region):
         resultado = data['REGION'][indx]
 
     except: 
-        resultado = 'Null'
+        resultado = ' '
 
     return resultado
 
@@ -33,7 +33,7 @@ def provincias(prov):
         resultado = data['PROVINCIA'][indx]
 
     except:
-        resultado = 'Null'
+        resultado = ' '
     
     return resultado
 
@@ -59,7 +59,7 @@ def descarga(fuente):
     dfData['NOM_REGION'] = dfData['REGION'].apply(lambda x: regiones(x))
     dfData['NOM_PROVINCIA'] = dfData['PROVINCIA'].apply(lambda x: provincias(x))
 
-    dfData['Comuna'].fillna(' ')
+    dfData.fillna(' ')
 
     dfLat2 = dfData
 
