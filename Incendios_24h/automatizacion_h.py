@@ -53,9 +53,11 @@ def descarga(fuente):
     print('FUENTE: ' + str(dataFuente))   
 
     dfDatas = pd.read_excel('https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true')
-    dfAux = dfDatas[dfDatas['Column1'] != '299']
 
-    dfData = dfAux[dfAux['Fuente'] == dataFuente]
+    dfAux = dfDatas[dfDatas['Coordenadas'] != '-27.12613,-109.28293000000001']
+    dfAux2 = dfAux[dfAux['Coordenadas'] != '-27.126920000000002,-109.27901000000001']
+
+    dfData = dfAux2[dfAux2['Fuente'] == dataFuente]
 
     dfData['NOM_REGION'] = dfData['REGION'].apply(lambda x: regiones(x))
     dfData['NOM_PROVINCIA'] = dfData['PROVINCIA'].apply(lambda x: provincias(x))
