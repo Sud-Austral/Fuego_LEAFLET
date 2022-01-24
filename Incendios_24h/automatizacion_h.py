@@ -53,8 +53,10 @@ def descarga(fuente):
     print('FUENTE: ' + str(dataFuente))   
     
 
-    dfData = pd.read_excel('https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true')
-    dfData = dfData[dfData['Fuente'] == dataFuente]
+    dfDatas = pd.read_excel('https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true')
+    dfAux = dfDatas[dfDatas['Column1'] != '299']
+
+    dfData = dfAux[dfAux['Fuente'] == dataFuente]
 
     dfData['NOM_REGION'] = dfData['REGION'].apply(lambda x: regiones(x))
     dfData['NOM_PROVINCIA'] = dfData['PROVINCIA'].apply(lambda x: provincias(x))
