@@ -47,15 +47,15 @@ def descarga(fuente):
     
     today = str(datetime.datetime.today())[0:10]
 
-    df = pd.read_excel(url)
-    df = df[df['Fuente'] == dataFuente]
+    dfData = pd.read_excel(url)
+    dfData = dfData[dfData['Fuente'] == dataFuente]
 
-    df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
-    df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
+    dfData['NOM_REGION'] = dfData['REGION'].apply(lambda x: regiones(x))
+    dfData['NOM_PROVINCIA'] = dfData['PROVINCIA'].apply(lambda x: provincias(x))
 
     
 
-    dfLat2 = df
+    dfLat2 = dfData
 
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
