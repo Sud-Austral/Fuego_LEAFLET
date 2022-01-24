@@ -48,12 +48,12 @@ def descarga(fuente):
     today = str(datetime.datetime.today())[0:10]
 
     df = pd.read_excel(url)
-    df = df[df['acq_time'] == '607']
+    df = df[df['Fuente'] == dataFuente]
 
     df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
     df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
 
-    df = df[df['Fuente'] == dataFuente]
+    
 
     dfLat2 = df
 
