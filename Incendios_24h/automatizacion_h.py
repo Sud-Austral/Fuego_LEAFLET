@@ -5,7 +5,7 @@ import sys
 import datetime
 import json
 
-fuentes = ['MODIS_fuente', 'SUOMI_fuente', 'J1_fuente']
+fuentes = ['J1_fuente', 'SUOMI_fuente', 'MODIS_fuente']
 
 def regiones(region):
     
