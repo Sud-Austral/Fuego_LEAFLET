@@ -6,11 +6,11 @@ import datetime
 import json
 
 fuentes = [["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true",
-            "MODIS_24h"],
+            "MODIS_fuente"],
             ["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true",
-            "SUOMI_24h"],
+            "SUOMI_fuente"],
             ["https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true",
-            "J1_24h"]]
+            "J1_fuente"]]
 
 def regiones(region):
     
@@ -34,16 +34,16 @@ def descarga(fuente):
     url = fuente[0]
     dataFuente = ''
 
-    if(fuente[1] == 'MODIS_24h'):
+    if(fuente[1] == 'MODIS_fuente'):
         dataFuente = 'MODIS'
 
-    if(fuente[1] == 'SUOMI_24h'):
+    if(fuente[1] == 'SUOMI_fuente'):
         dataFuente = 'SUOMI'
 
-    if(fuente[1] == 'J1_24h'):
+    if(fuente[1] == 'J1_fuente'):
         dataFuente = 'J1'
 
-    print('FUENTE 24: ' + str(dataFuente))   
+    print('FUENTE: ' + str(dataFuente))   
     
     today = str(datetime.datetime.today())[0:10]
 
