@@ -35,7 +35,7 @@ def provincias(prov):
     except:
         resultado = ''
     
-    return data['PROVINCIA'][indx]
+    return resultado
 
 def descarga(fuente):
     print('FUENTEEE: ' + fuente)
