@@ -54,14 +54,18 @@ def descarga(fuente):
     
 
     dfData = pd.read_excel('https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true')
-    dfData = dfData[dfData['Fuente'] == dataFuente]
 
-    dfData['NOM_REGION'] = dfData['REGION'].apply(lambda x: regiones(x))
-    dfData['NOM_PROVINCIA'] = dfData['PROVINCIA'].apply(lambda x: provincias(x))
+    dfData1 = dfData[dfData['Column1'] != '299']
+    dfData2 = dfData1[dfData1['Column1'] != '300']
 
-    dfData = dfData.drop(dfData[dfData['299'] == True].index)
+    dfData2 = dfData2[dfData2['Fuente'] == dataFuente]
 
-    dfLat2 = dfData1
+    dfData2['NOM_REGION'] = dfData2['REGION'].apply(lambda x: regiones(x))
+    dfData2['NOM_PROVINCIA'] = dfData2['PROVINCIA'].apply(lambda x: provincias(x))
+
+    
+
+    dfLat2 = dfData2
 
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
