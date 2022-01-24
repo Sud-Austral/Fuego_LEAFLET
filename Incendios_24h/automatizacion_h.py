@@ -59,7 +59,8 @@ def descarga(fuente):
     dfData['NOM_REGION'] = dfData['REGION'].apply(lambda x: regiones(x))
     dfData['NOM_PROVINCIA'] = dfData['PROVINCIA'].apply(lambda x: provincias(x))
 
-    dfData.fillna(' ')
+    dfData = dfData[dfData['Column1'] != 299]
+    dfData = dfData[dfData['Column1'] != 300]
 
     dfLat2 = dfData
 
