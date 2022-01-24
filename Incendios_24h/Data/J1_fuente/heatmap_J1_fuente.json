@@ -3893,32 +3893,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -109.28293,
-                    -27.12613
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-01-08"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -109.27901,
-                    -27.12692
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-01-08"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -70.38159,
                     -23.55534
                 ]
