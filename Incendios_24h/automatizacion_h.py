@@ -59,6 +59,8 @@ def descarga(fuente):
     dfData['NOM_REGION'] = dfData['REGION'].apply(lambda x: regiones(x))
     dfData['NOM_PROVINCIA'] = dfData['PROVINCIA'].apply(lambda x: provincias(x))
 
+    dfData['Comuna'].fillna(' ')
+
     dfLat2 = dfData
 
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
