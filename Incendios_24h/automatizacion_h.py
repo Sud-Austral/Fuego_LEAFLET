@@ -26,7 +26,7 @@ def provincias(prov):
     return data['PROVINCIA'][indx]
 
 def descarga(fuente):
-
+    print('FUENTEEE: ' + fuente)
     dataFuente = ''
 
     if(fuente == 'MODIS_fuente'):
@@ -40,7 +40,6 @@ def descarga(fuente):
 
     print('FUENTE: ' + str(dataFuente))   
     
-    today = str(datetime.datetime.today())[0:10]
 
     dfData = pd.read_excel('https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true')
     dfData = dfData[dfData['Fuente'] == dataFuente]
@@ -53,8 +52,8 @@ def descarga(fuente):
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
 
-    dfLat2.to_csv(f"Incendios_24h/Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv")
-    dfLat2.to_csv(f"Incendios_24h/Data_Legacy/{fuente[1]}/Puntos_Diarios_{fuente[1]}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv")
+    dfLat2.to_csv(f"Incendios_24h/Data/{fuente}/Puntos_Diarios_{fuente}.csv")
+    dfLat2.to_csv(f"Incendios_24h/Data_Legacy/{fuente}/Puntos_Diarios_{fuente}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv")
     
 
     
