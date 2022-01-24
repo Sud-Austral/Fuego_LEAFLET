@@ -23,7 +23,7 @@ def regiones(region):
         resultado = data['REGION'][indx]
 
     except: 
-        resultado = ''
+        resultado = 'Null'
 
     return resultado
 
@@ -38,7 +38,7 @@ def provincias(prov):
         resultado = data['PROVINCIA'][indx]
 
     except:
-        resultado = ''
+        resultado = 'Null'
     
     return resultado
 
