@@ -60,9 +60,8 @@ def descarga(fuente):
     dfData['NOM_PROVINCIA'] = dfData['PROVINCIA'].apply(lambda x: provincias(x))
 
     dfData1 = dfData[dfData['Column1'] != '299']
-    dfData2 = dfData[dfData['Column1'] != '300']
 
-    dfLat2 = dfData2
+    dfLat2 = dfData1
 
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
