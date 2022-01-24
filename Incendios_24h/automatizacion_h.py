@@ -44,8 +44,8 @@ def descarga(fuente):
     dfData = pd.read_excel('https://github.com/Sud-Austral/Fuego_LEAFLET/blob/main/SEMANARIO_INCENDIO/Consolidado/ConsolidadoPuntosFuego.xlsx?raw=true')
     dfData = dfData[dfData['Fuente'] == dataFuente]
 
-    dfData['NOM_REGION'] = dfData['REGION'].apply(lambda x: regiones(x))
-    dfData['NOM_PROVINCIA'] = dfData['PROVINCIA'].apply(lambda x: provincias(x))
+    # dfData['NOM_REGION'] = dfData['REGION'].apply(lambda x: regiones(x))
+    # dfData['NOM_PROVINCIA'] = dfData['PROVINCIA'].apply(lambda x: provincias(x))
 
     dfLat2 = dfData
 
