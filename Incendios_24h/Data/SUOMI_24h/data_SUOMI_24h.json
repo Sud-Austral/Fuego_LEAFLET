@@ -1,1 +1,632 @@
-[]
+[
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75129,
+        "lng": -69.8106,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75328,
+        "lng": -69.80334,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75356,
+        "lng": -69.82124,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75557,
+        "lng": -69.8139,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75151999999999,
+        "lng": -69.82868,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75756,
+        "lng": -69.80664,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.74339000000001,
+        "lng": -69.87729,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.74547,
+        "lng": -69.86974000000001,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75574,
+        "lng": -69.83224,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75781,
+        "lng": -69.82468,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75984,
+        "lng": -69.81724,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.7413,
+        "lng": -69.88493000000001,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75161,
+        "lng": -69.84732,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75364,
+        "lng": -69.83989,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.74558,
+        "lng": -69.88831,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.74766999999999,
+        "lng": -69.88065,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75996,
+        "lng": -69.83577,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76201,
+        "lng": -69.82828,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.74978,
+        "lng": -69.87297,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75793,
+        "lng": -69.84318,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.74989,
+        "lng": -69.89155,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76027,
+        "lng": -69.8536,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.7623,
+        "lng": -69.84619,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76427,
+        "lng": -69.83895,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.74782,
+        "lng": -69.8991,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.752,
+        "lng": -69.88385,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76456999999999,
+        "lng": -69.85686,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76659,
+        "lng": -69.84946,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75416999999999,
+        "lng": -69.89491,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75838,
+        "lng": -69.87949,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76474,
+        "lng": -69.87524,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.7606,
+        "lng": -69.8904,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.7627,
+        "lng": -69.88271999999999,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76682,
+        "lng": -69.86764000000001,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76702,
+        "lng": -69.88592,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76492,
+        "lng": -69.89362,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76289000000001,
+        "lng": -69.85370999999999,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76494,
+        "lng": -69.8463,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75026,
+        "lng": -69.89893000000001,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75234,
+        "lng": -69.89149,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.7609,
+        "lng": -69.87948,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.75883,
+        "lng": -69.88693,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76302,
+        "lng": -69.87189000000001,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76512,
+        "lng": -69.86437,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76313,
+        "lng": -69.89021,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76523,
+        "lng": -69.88266999999999,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76730999999999,
+        "lng": -69.87518,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -53.76126,
+        "lng": -69.91566,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -27.35711,
+        "lng": -70.22031,
+        "location": "Cruce Ruta 31 Ch - Llano Lo Mart\u00ednez, Tierra Amarilla, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -27.41488,
+        "lng": -70.26513,
+        "location": "Pasaje 7, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -32.78762,
+        "lng": -71.48724,
+        "location": "Central Quintero, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -32.78852,
+        "lng": -71.48451,
+        "location": "Central Quintero, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -33.2944,
+        "lng": -70.72854,
+        "location": "DHL, Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -33.29815,
+        "lng": -70.72918,
+        "location": "Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -34.10587,
+        "lng": -70.45645999999999,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -35.07534,
+        "lng": -71.5329,
+        "location": "Villa Prat, Sagrada Familia, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "Villa Prat"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -35.09491,
+        "lng": -71.5575,
+        "location": "Villa Prat, Sagrada Familia, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "Villa Prat"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -35.09861,
+        "lng": -71.55802,
+        "location": "Villa Prat, Sagrada Familia, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "Villa Prat"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -36.39505,
+        "lng": -71.52831,
+        "location": "Parral, Provincia de Linares, Regi\u00f3n del Maule, 3630000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Parral"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -36.3944,
+        "lng": -71.5337,
+        "location": "Parral, Provincia de Linares, Regi\u00f3n del Maule, 3630000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Parral"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -36.39881,
+        "lng": -71.52883,
+        "location": "Parral, Provincia de Linares, Regi\u00f3n del Maule, 3630000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Parral"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -36.39816,
+        "lng": -71.53421,
+        "location": "Parral, Provincia de Linares, Regi\u00f3n del Maule, 3630000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Parral"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -36.40192,
+        "lng": -71.53474,
+        "location": "Parral, Provincia de Linares, Regi\u00f3n del Maule, 3630000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Parral"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -36.86806,
+        "lng": -71.37864,
+        "location": "Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, 3880000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -36.86719,
+        "lng": -71.3793,
+        "location": "Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, 3880000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -37.51369,
+        "lng": -72.65664,
+        "location": "\u00c1rea de Almacenamiento de Combustible, 3 Poniente, CMPC Planta Santa Fe, Nacimiento, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 455000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Nacimiento"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -38.03270999999999,
+        "lng": -72.52173,
+        "location": "Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -38.037,
+        "lng": -72.5172,
+        "location": "Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -23.78305,
+        "lng": -70.31778,
+        "location": "Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-02-02",
+        "lat": -23.82373,
+        "lng": -70.31483,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    }
+]
