@@ -1,1 +1,506 @@
-[]
+[
+    {
+        "acq_date": "2022-02-06",
+        "lat": -32.80373,
+        "lng": -70.95314,
+        "location": "Caletera Autopista los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -32.75769,
+        "lng": -71.477,
+        "location": "Cruce Ruta 5 (Quinquimo) - Papudo - Cruce Ruta 64 (Re\u00f1aca Alto), Loncura Bajo, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -34.10498,
+        "lng": -70.45438,
+        "location": "Fundicion de Caletones, Tramo 3, Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -34.10425,
+        "lng": -70.45866,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -34.79020999999999,
+        "lng": -70.85647,
+        "location": "Chimbarongo, Provincia de Colchagua, Regi\u00f3n del Libertador General Bernardo O'Higgins, 3090000, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "COLCHAGUA",
+        "comuna": "Chimbarongo"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -35.62936,
+        "lng": -71.5052,
+        "location": "Cinco Caminos, Yerbas Buenas, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Yerbas Buenas"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -36.8643,
+        "lng": -71.37829,
+        "location": "Coihueco, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "Coihueco"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -36.86766,
+        "lng": -71.37908,
+        "location": "Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, 3880000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -36.73803,
+        "lng": -73.12375,
+        "location": "Avenida Juan Antonio R\u00edos, Libertad, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -37.10609,
+        "lng": -73.13257,
+        "location": "Cruce Ruta 156 (Tricauco) - Cruce Ruta 160 (Colcura), Casas Viejas, Lota, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Lota"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -37.78046,
+        "lng": -72.2365,
+        "location": "Cruce Q-955 (Las Fincas) - Cruce Q-955 (El Peumal), Mulch\u00e9n, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Mulch\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -37.78046,
+        "lng": -72.2365,
+        "location": "Cruce Q-955 (Las Fincas) - Cruce Q-955 (El Peumal), Mulch\u00e9n, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Mulch\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -37.74377,
+        "lng": -72.58264,
+        "location": "Tijeral, Renaico, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Renaico"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -37.83299,
+        "lng": -73.33518000000001,
+        "location": "Cruce P-560 (Pulebu) - Cruce P-602 (Reputo), Comunidad Maricoi Cayul\u00e9n, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -37.83299,
+        "lng": -73.33518000000001,
+        "location": "Cruce P-560 (Pulebu) - Cruce P-602 (Reputo), Comunidad Maricoi Cayul\u00e9n, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -37.83204,
+        "lng": -73.34031999999999,
+        "location": "Cruce P-560 (Pulebu) - Cruce P-602 (Reputo), Comunidad Maricoi Cayul\u00e9n, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -37.83204,
+        "lng": -73.34031999999999,
+        "location": "Cruce P-560 (Pulebu) - Cruce P-602 (Reputo), Comunidad Maricoi Cayul\u00e9n, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -37.98958,
+        "lng": -73.0803,
+        "location": "Los Sauces - San Ram\u00f3n - Pur\u00e9n, Pur\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Pur\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.24675999999999,
+        "lng": -72.83195,
+        "location": "Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.2476,
+        "lng": -72.82731,
+        "location": "Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.19852,
+        "lng": -73.39511999999999,
+        "location": "Tir\u00faa, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Tir\u00faa"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.2455,
+        "lng": -73.49812,
+        "location": "Cruce P-60-R (Peleco) - Tir\u00faa - Tranapuente - Cruce S-40, Sector: Peleco - L\u00edmite Regional, Comunidad Colcuma, Quidico, Tir\u00faa, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Tir\u00faa"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.35745,
+        "lng": -73.38686,
+        "location": "Tir\u00faa, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Tir\u00faa"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.36994,
+        "lng": -73.35888,
+        "location": "Cruce P-950-R (La Campana) - Cruce R-658 (Matraqu\u00edn), Tir\u00faa, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Tir\u00faa"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.61071,
+        "lng": -72.85694000000001,
+        "location": "Las Toscas - Carrerine, Comunidad Antonio Painemal, Cholchol, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cholchol"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.61585,
+        "lng": -72.8684,
+        "location": "Las Toscas - Carrerine, Comunidad Antonio Painemal, Cholchol, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cholchol"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.61669000000001,
+        "lng": -72.86366,
+        "location": "Las Toscas - Carrerine, Comunidad Antonio Painemal, Cholchol, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cholchol"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.61725999999999,
+        "lng": -72.87012,
+        "location": "Las Toscas - Carrerine, Comunidad Antonio Painemal, Cholchol, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cholchol"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.61810999999999,
+        "lng": -72.86539,
+        "location": "Las Toscas - Carrerine, Comunidad Antonio Painemal, Cholchol, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cholchol"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.62067,
+        "lng": -72.87111999999999,
+        "location": "Las Toscas - Carrerine, Comunidad Antonio Painemal, Cholchol, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cholchol"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.6258,
+        "lng": -72.86265999999999,
+        "location": "Chol Chol - Quelche, Comunidad Mulato Chihuaihue, Cholchol, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cholchol"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.76515999999999,
+        "lng": -72.54234,
+        "location": "Comunidad Painecura Sandoval, Padre Las Casas, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 4780000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.76772,
+        "lng": -72.54796999999999,
+        "location": "El Sauce - Mira Caut\u00edn - Truf Truf, Comunidad Lleuvul Sandoval, Padre Las Casas, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 4780000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.76939,
+        "lng": -72.53844000000001,
+        "location": "Comunidad Juan Alberto Quidel, Padre Las Casas, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 4780000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.76689,
+        "lng": -72.55271,
+        "location": "El Sauce - Mira Caut\u00edn - Truf Truf, Padre Las Casas, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 4780000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.76856,
+        "lng": -72.54321,
+        "location": "Comunidad Painecura Sandoval, Padre Las Casas, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 4780000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.77112,
+        "lng": -72.54885999999999,
+        "location": "El Sauce - Mira Caut\u00edn - Truf Truf, Comunidad Lleuvul Sandoval, Padre Las Casas, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 4780000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.77278,
+        "lng": -72.53936,
+        "location": "Comunidad Juan Alberto Quidel, Padre Las Casas, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 4780000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.77029,
+        "lng": -72.55364,
+        "location": "Padre Las Casas, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 4780000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -38.77195,
+        "lng": -72.5441,
+        "location": "Comunidad Painecura Sandoval, Padre Las Casas, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 4780000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -39.41921,
+        "lng": -71.94112,
+        "location": "Villarrica, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Villarrica"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -53.74616,
+        "lng": -69.89273,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -53.75614,
+        "lng": -69.83287,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -53.76811,
+        "lng": -69.86824,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -53.77189,
+        "lng": -69.86936,
+        "location": "Timaukel, Provincia de Tierra del Fuego, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "TIERRA DEL FUEGO",
+        "comuna": "Timaukel"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -18.46483,
+        "lng": -70.24799,
+        "location": "Arica, Provincia de Arica, Regi\u00f3n de Arica y Parinacota, Chile",
+        "region": "REGI\u00d3N DE ARICA Y PARINACOTA",
+        "provincia": "ARICA",
+        "comuna": "Arica"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -18.46409,
+        "lng": -70.25191,
+        "location": "Relleno Sanitario, Arica, Provincia de Arica, Regi\u00f3n de Arica y Parinacota, 1020759, Chile",
+        "region": "REGI\u00d3N DE ARICA Y PARINACOTA",
+        "provincia": "ARICA",
+        "comuna": "Arica"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -23.78467,
+        "lng": -70.32122,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -23.82012,
+        "lng": -70.31854,
+        "location": "Acceso Fundici\u00f3n Altonorte, Fundici\u00f3n Altonorte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -23.82102,
+        "lng": -70.31371999999999,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -23.82386,
+        "lng": -70.31931,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -23.82475,
+        "lng": -70.31449,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -27.35859,
+        "lng": -70.22395999999999,
+        "location": "Cruce Ruta 31 CH - Observatorio Los C\u00f3ndores, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -27.41372,
+        "lng": -70.2587,
+        "location": "Cruce Ruta 31 CH - Fundici\u00f3n Paipote - Cruce C-33, Tierra Amarilla, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -27.42081,
+        "lng": -70.26031,
+        "location": "Arquitecto, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1580000, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-02-06",
+        "lat": -27.42164,
+        "lng": -70.25571,
+        "location": "Cruce Ruta 31 CH - Fundici\u00f3n Paipote - Cruce C-33, Tierra Amarilla, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Tierra Amarilla"
+    }
+]
