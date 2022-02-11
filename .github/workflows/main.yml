@@ -2,8 +2,8 @@ name: Descargas Diarias
 
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
-  # push:
-    # branches: [ main ]
+  push:
+    branches: [ main ]
 
   schedule:
     - cron:  '0 0 * * *'
@@ -11,6 +11,9 @@ on:
     - cron:  '0 6 * * *'
     - cron:  '0 9 * * *'
     - cron:  '0 12 * * *'
+    - cron:  '0 15 * * *'
+    - cron:  '0 18 * * *'
+    - cron:  '0 21 * * *'
 
 jobs:
   build:
