@@ -124,10 +124,8 @@ def proceso():
 
 def saveConsolidado():
     diaActual = datetime.datetime.now().strftime("%Y-%m-%d")
-    diaAnterior = (datetime.datetime.now() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
-    diasSacados = [diaActual, diaAnterior]
     consolidado = pd.read_excel("Consolidado/ConsolidadoPuntosFuego.xlsx")
-    consolidado = consolidado[consolidado["acq_date"].apply(lambda x: x not in diasSacados)]
+    consolidado = consolidado[consolidado["acq_date"].apply(lambda x: x != diaActual)]
     print("Tamaño Consolidado")
     print(len(consolidado))
     salida2 = []
@@ -140,7 +138,7 @@ def saveConsolidado():
     consolidadoUpdate = pd.concat(salida2)
     #consolidadoUpdate = consolidadoUpdate[consolidadoUpdate["acq_date"].apply(lambda x: x not in consolidado["acq_date"].unique())]
     
-    consolidadoUpdate = consolidadoUpdate[consolidadoUpdate["acq_date"].apply(lambda x: x in  diasSacados)]
+    consolidadoUpdate = consolidadoUpdate[consolidadoUpdate["acq_date"].apply(lambda x: x == diaActual)]
     #consolidadoUpdate = consolidadoUpdate.reset_index()
     dfDate = consolidadoUpdate
     dfLat = dfDate[dfDate["latitude"] < -16.5]

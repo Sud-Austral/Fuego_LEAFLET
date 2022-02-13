@@ -58,13 +58,16 @@ def descarga(fuente):
     print('FUENTE 24: ' + str(dataFuente))   
     
     today = str(datetime.datetime.today())[0:10]
+    yesterday = (datetime.datetime.now() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
 
+    new_today = [today,yesterday]
     dfDatas = pd.read_excel(url)
 
     dfAux = dfDatas[dfDatas['Coordenadas'] != '-27.12613,-109.28293000000001']
     dfAux2 = dfAux[dfAux['Coordenadas'] != '-27.126920000000002,-109.27901000000001']
 
-    df = dfAux2[dfAux2['acq_date'] == today]
+    ##df = dfAux2[dfAux2['acq_date'] == today]
+    df = dfAux2[dfAux2['acq_date'].apply(lambda x: x in new_today)]
     print("a")
     df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
     print("b")
