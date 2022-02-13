@@ -65,17 +65,18 @@ def descarga(fuente):
     dfAux2 = dfAux[dfAux['Coordenadas'] != '-27.126920000000002,-109.27901000000001']
 
     df = dfAux2[dfAux2['acq_date'] == today]
-
+    print("a")
     df['NOM_REGION'] = df['REGION'].apply(lambda x: regiones(x))
+    print("b")
     df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
-
+    print("c")
     df = df[df['Fuente'] == dataFuente]
-
+    print("d")
     dfLat2 = df
-
+    print("e")
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
-
+    print(dfLat2)
     dfLat2.to_csv(f"Incendios_24h/Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv")
     dfLat2.to_csv(f"Incendios_24h/Data_Legacy/{fuente[1]}/Puntos_Diarios_{fuente[1]}_{datetime.datetime.now().strftime('%Y-%m-%d')}.csv")
     
