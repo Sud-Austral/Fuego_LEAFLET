@@ -70,9 +70,9 @@ def descarga(fuente):
     print("b")
     df['NOM_PROVINCIA'] = df['PROVINCIA'].apply(lambda x: provincias(x))
     print("c")
-    df = df[df['Fuente'] == dataFuente]
+    #df = df[df['Fuente'] == dataFuente]
     print("d")
-    dfLat2 = df
+    dfLat2 = df.reset_index()
     print("e")
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
