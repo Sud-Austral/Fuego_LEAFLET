@@ -31,6 +31,7 @@ def getComunas(df):
     #prin
     #df['Coordenadas'] = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
     coordenadas = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
+    df.assign(Coordenadas = coordenadas)
     print(2)
     df["Locacion"] = df["Coordenadas"].apply(lambda x: geolocator.reverse(x))
     referencia = ['road', 'city', 'county', 'state', 'country', 'country_code',
