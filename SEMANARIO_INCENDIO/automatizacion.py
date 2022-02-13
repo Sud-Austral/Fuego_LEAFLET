@@ -26,7 +26,7 @@ def setComuna(x):
 
 def getComunas(df):
     geolocator = Nominatim(user_agent="geoapiExercises")
-    #prin
+    print(len(df))
     df['Coordenadas'] = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
     #coordenadas = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
     #df.assign(Coordenadas = coordenadas)
@@ -126,6 +126,7 @@ def saveConsolidado():
     diaActual = datetime.datetime.now().strftime("%Y-%m-%d")
     consolidado = pd.read_excel("Consolidado/ConsolidadoPuntosFuego.xlsx")
     consolidado = consolidado[consolidado["acq_date"].apply(lambda x: x != diaActual)]
+    print("Tamaño Consolidado")
     print(len(consolidado))
     salida2 = []
     print(2)

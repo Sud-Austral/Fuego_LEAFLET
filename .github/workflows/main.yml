@@ -30,19 +30,18 @@ jobs:
       with:
         python-version: 3.7
 
-        #python automatizacion.py
-        #python automatizacion_24h.py
-        #python automatizacion_48h.py
-        #python automatizacion_diaria.py
-        #python Incendios_24h/automatizacion_h.py
+        
     - name: AUTOMATIZACIÓN
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
-        
-        python Incendios_24h/automatizacion_24h.py
-        
+        python automatizacion.py
+        python automatizacion_24h.py
+        python automatizacion_48h.py
+        python automatizacion_diaria.py
+        python Incendios_24h/automatizacion_h.py
+        python Incendios_24h/automatizacion_24h.py      
                
         
 
