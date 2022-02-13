@@ -26,13 +26,10 @@ def setComuna(x):
 
 def getComunas(df):
     geolocator = Nominatim(user_agent="geoapiExercises")
-    print(df.columns)
-
-    print(len(df))
     #prin
-    #df['Coordenadas'] = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
-    coordenadas = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
-    df.assign(Coordenadas = coordenadas)
+    df['Coordenadas'] = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
+    #coordenadas = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
+    #df.assign(Coordenadas = coordenadas)
     print(2)
     df["Locacion"] = df["Coordenadas"].apply(lambda x: geolocator.reverse(x))
     referencia = ['road', 'city', 'county', 'state', 'country', 'country_code',
@@ -127,10 +124,11 @@ def proceso():
 
 def saveConsolidado():
     consolidado = pd.read_excel("Consolidado/ConsolidadoPuntosFuego.xlsx")
+    consolidado = consolidado[consolidado["acq_date"].apply(lambda x: x != diaActual)]
+    print(len(consolidado))
     salida2 = []
     print(2)
     for i in fuentes:
-        print(i[1])
         dfaux = pd.read_csv(i[0])
         dfaux["Fuente"] = i[1]
         salida2.append(dfaux)
@@ -144,7 +142,6 @@ def saveConsolidado():
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
     dfLat2 = dfLat2.reset_index()
-    print(len(consolidadoUpdate))
     try:
         dfLat2 = getComunas(dfLat2)
     except:
