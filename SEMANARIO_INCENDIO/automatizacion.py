@@ -136,12 +136,15 @@ def saveConsolidado():
         salida2.append(dfaux)
 
     consolidadoUpdate = pd.concat(salida2)
-    consolidadoUpdate = consolidadoUpdate[consolidadoUpdate["acq_date"].apply(lambda x: x not in consolidado["acq_date"].unique())]
+    #consolidadoUpdate = consolidadoUpdate[consolidadoUpdate["acq_date"].apply(lambda x: x not in consolidado["acq_date"].unique())]
+    diaActual = datetime.datetime.now().strftime("%Y-%m-%d")
+    consolidadoUpdate = consolidadoUpdate[consolidadoUpdate["acq_date"].apply(lambda x: x == diaActual)]
     #consolidadoUpdate = consolidadoUpdate.reset_index()
     dfDate = consolidadoUpdate
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
     dfLat2 = dfLat2.reset_index()
+    print(len(consolidadoUpdate))
     try:
         dfLat2 = getComunas(dfLat2)
     except:
