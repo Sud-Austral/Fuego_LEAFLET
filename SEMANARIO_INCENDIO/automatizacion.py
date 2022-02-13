@@ -123,6 +123,7 @@ def proceso():
     return
 
 def saveConsolidado():
+    diaActual = datetime.datetime.now().strftime("%Y-%m-%d")
     consolidado = pd.read_excel("Consolidado/ConsolidadoPuntosFuego.xlsx")
     consolidado = consolidado[consolidado["acq_date"].apply(lambda x: x != diaActual)]
     print(len(consolidado))
@@ -135,7 +136,7 @@ def saveConsolidado():
 
     consolidadoUpdate = pd.concat(salida2)
     #consolidadoUpdate = consolidadoUpdate[consolidadoUpdate["acq_date"].apply(lambda x: x not in consolidado["acq_date"].unique())]
-    diaActual = datetime.datetime.now().strftime("%Y-%m-%d")
+    
     consolidadoUpdate = consolidadoUpdate[consolidadoUpdate["acq_date"].apply(lambda x: x == diaActual)]
     #consolidadoUpdate = consolidadoUpdate.reset_index()
     dfDate = consolidadoUpdate
