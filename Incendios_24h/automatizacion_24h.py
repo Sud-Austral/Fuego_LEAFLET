@@ -72,7 +72,7 @@ def descarga(fuente):
     print("c")
     #df = df[df['Fuente'] == dataFuente]
     print("d")
-    dfLat2 = df.reset_index()
+    dfLat2 = df  #.reset_index()
     print("e")
     # AQUÍ SE PODRÍA AGREGAR LA INFORMACIÓN CALLE, COMUNA, PROVINCIA, REGIÓN.
     # CALLE, COMUNA, PROVINCIA, REGIÓN (INCLUIR JSON)
