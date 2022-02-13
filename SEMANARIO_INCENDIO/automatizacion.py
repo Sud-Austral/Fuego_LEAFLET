@@ -127,7 +127,9 @@ def proceso():
 def saveConsolidado():
     consolidado = pd.read_excel("Consolidado/ConsolidadoPuntosFuego.xlsx")
     salida2 = []
+    print(2)
     for i in fuentes:
+        print(i[1])
         dfaux = pd.read_csv(i[0])
         dfaux["Fuente"] = i[1]
         salida2.append(dfaux)
