@@ -69,6 +69,9 @@ def descarga(fuente):
     dfLat = dfDate[dfDate["latitude"] < -16.5]
     dfLat2 = dfLat[dfLat["longitude"] < -69.5]
     dfLat2 = dfLat2.reset_index()
+    print("Tamaño descarga")
+    print(fuente[1])
+    print(len(dfLat2))
     try:
         dfLat2 = getComunas(dfLat2)
         dfLat2.to_csv(f"Data/{fuente[1]}/Puntos_Diarios_{fuente[1]}.csv",encoding='utf-8-sig')
