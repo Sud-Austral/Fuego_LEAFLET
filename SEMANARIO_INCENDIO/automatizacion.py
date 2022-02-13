@@ -28,8 +28,9 @@ def getComunas(df):
     geolocator = Nominatim(user_agent="geoapiExercises")
     print(df.columns)
     print(1)
-    print(df.columns)
+    #prin
     #df['Coordenadas'] = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
+    coordenadas = df[['latitude', 'longitude']].apply(lambda x: f'{x.latitude},{x.longitude}', axis=1)
     print(2)
     df["Locacion"] = df["Coordenadas"].apply(lambda x: geolocator.reverse(x))
     referencia = ['road', 'city', 'county', 'state', 'country', 'country_code',
