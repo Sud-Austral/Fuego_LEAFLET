@@ -9490,6 +9490,19 @@
             "properties": {
                 "acq_date": "2022-02-14"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.88986,
+                    -22.31721
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-14"
+            }
         }
     ]
 }
