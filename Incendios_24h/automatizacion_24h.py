@@ -58,9 +58,9 @@ def descarga(fuente):
     print('FUENTE 24: ' + str(dataFuente))   
     
     today = str(datetime.datetime.today())[0:10]
-    yesterday = (datetime.datetime.now() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
+    #yesterday = (datetime.datetime.now() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
 
-    new_today = [today,yesterday]
+    new_today = [today]#,yesterday]
     
     dfDatas = pd.read_excel(url)
 
