@@ -143,7 +143,7 @@ def saveConsolidado():
     #consolidadoUpdate = consolidadoUpdate.reset_index()
     dfDate = consolidadoUpdate
     dfLat = dfDate[dfDate["latitude"] < -16.5]
-    dfLat2 = dfLat[dfLat["longitude"] < -69.5]
+    dfLat2 = dfLat[dfLat["longitude"] < -65.5]
     dfLat2 = dfLat2.reset_index()
     try:
         dfLat2 = getComunas(dfLat2)
