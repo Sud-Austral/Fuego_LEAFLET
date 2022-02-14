@@ -136,8 +136,86 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -68.88986,
+                    -22.31721
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.88631,
+                    -22.31514
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.88715,
+                    -22.31868
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.73101,
+                    -23.36133
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -70.31685999999999,
                     -23.82415
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.47843,
+                    -26.43157
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.47908000000001,
+                    -26.43506
                 ]
             },
             "properties": {
@@ -4010,6 +4088,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -68.88543,
+                    -22.31567
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -70.31998,
                     -23.78336
                 ]
@@ -4038,6 +4129,32 @@
                 "coordinates": [
                     -70.30832,
                     -23.79119
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.47916,
+                    -26.43382
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.47583,
+                    -26.4341
                 ]
             },
             "properties": {
@@ -5013,6 +5130,19 @@
                 "coordinates": [
                     -72.63546,
                     -38.48455
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.8866,
+                    -22.31635
                 ]
             },
             "properties": {
