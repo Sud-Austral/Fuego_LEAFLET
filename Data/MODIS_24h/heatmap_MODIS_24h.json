@@ -611,6 +611,84 @@
             "properties": {
                 "acq_date": "2022-02-16"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.09481,
+                    -36.62707
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.09966,
+                    -36.615520000000004
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.34019,
+                    -37.4714
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.34576,
+                    -37.47708
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.97270999999999,
+                    -38.38727
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.93095,
+                    -38.38928
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-16"
+            }
         }
     ]
 }
