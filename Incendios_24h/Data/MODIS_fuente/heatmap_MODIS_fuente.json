@@ -10283,6 +10283,32 @@
             "properties": {
                 "acq_date": "2022-02-16"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.88577,
+                    -22.31761
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.94367,
+                    -38.37806
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-16"
+            }
         }
     ]
 }
