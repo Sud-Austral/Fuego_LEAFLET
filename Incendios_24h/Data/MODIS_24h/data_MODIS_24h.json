@@ -115,5 +115,68 @@
         "region": "REGI\u00d3N DE ANTOFAGASTA",
         "provincia": "ANTOFAGASTA",
         "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-02-20",
+        "lat": -27.41116,
+        "lng": -70.25726,
+        "location": "Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-02-20",
+        "lat": -36.75743,
+        "lng": -73.09879000000001,
+        "location": "El Tamarindo, Las Amapolas, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4300329, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-02-20",
+        "lat": -37.48025999999999,
+        "lng": -73.34491,
+        "location": "Iglesia del Se\u00f1or de Chile, 115, 21 de Mayo, Poblaci\u00f3n Ram\u00f3n Rabal, Curanilahue, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Curanilahue"
+    },
+    {
+        "acq_date": "2022-02-20",
+        "lat": -37.48195,
+        "lng": -73.32932,
+        "location": "Pasaje 19, Poblaci\u00f3n Rayen Antu, Curanilahue, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Curanilahue"
+    },
+    {
+        "acq_date": "2022-02-20",
+        "lat": -37.78006,
+        "lng": -73.54424,
+        "location": "Los \u00c1lamos, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, 4380000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Los \u00c1lamos"
+    },
+    {
+        "acq_date": "2022-02-20",
+        "lat": -38.09984,
+        "lng": -72.03584000000001,
+        "location": "Cruce Longitudinal (Collipulli) - Termas de Pemehue, Fundo Santa Rosa de Curaco, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-20",
+        "lat": -38.73844,
+        "lng": -72.94700999999999,
+        "location": "834, Los Filtros, Poblaci\u00f3n El Alto, Nueva Imperial, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Nueva Imperial"
     }
 ]
