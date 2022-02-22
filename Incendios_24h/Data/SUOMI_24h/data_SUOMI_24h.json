@@ -1,1 +1,2234 @@
-[]
+[
+    {
+        "acq_date": "2022-02-22",
+        "lat": -32.79955,
+        "lng": -70.95749,
+        "location": "Cruce Ruta 60 CH (Chagres) - Cruce E-615 (Catemu), Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -32.80143,
+        "lng": -70.95087,
+        "location": "Autopista Los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -32.79793,
+        "lng": -70.95543,
+        "location": "Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -32.80424,
+        "lng": -70.95798,
+        "location": "Cruce Ruta 60 CH (Chagres) - Cruce E-615 (Catemu), Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -33.29385,
+        "lng": -70.73196,
+        "location": "DHL, Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -34.10551,
+        "lng": -70.46061,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -34.10712,
+        "lng": -70.45488,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.05069,
+        "lng": -71.91154,
+        "location": "Mulch\u00e9n, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 0000444, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Mulch\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.05069,
+        "lng": -71.91154,
+        "location": "Mulch\u00e9n, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 0000444, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Mulch\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.05638,
+        "lng": -71.91453,
+        "location": "Muclh\u00e9n - Jaula, Sector: L\u00edmite Regional - Jaula, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.65866,
+        "lng": -73.46427,
+        "location": "Trihueco, Los \u00c1lamos, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Los \u00c1lamos"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.66059,
+        "lng": -73.4579,
+        "location": "Cruce Ruta 160 (Los \u00c1lamos) - Sara de Lebu - Pangue, Trihueco, Los \u00c1lamos, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, 4380000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Los \u00c1lamos"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.6574,
+        "lng": -73.46197,
+        "location": "Trihueco, Los \u00c1lamos, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Los \u00c1lamos"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.03863,
+        "lng": -72.45078000000001,
+        "location": "Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.04037,
+        "lng": -72.44485999999999,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.04209,
+        "lng": -72.439,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11279,
+        "lng": -72.24284,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11448,
+        "lng": -72.23706,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11203,
+        "lng": -72.26836,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11367,
+        "lng": -72.26269,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11698,
+        "lng": -72.25131999999999,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11864,
+        "lng": -72.2456,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11457,
+        "lng": -72.28251999999999,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11623,
+        "lng": -72.27682,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12283,
+        "lng": -72.25406,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12451,
+        "lng": -72.24829,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12041,
+        "lng": -72.28538,
+        "location": "Santa Luc\u00eda de Huequi, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12537,
+        "lng": -72.26827,
+        "location": "Santa Josefina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12702,
+        "lng": -72.26257,
+        "location": "Santa Josefina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.03874,
+        "lng": -72.44498,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.04049000000001,
+        "lng": -72.43913,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.04224,
+        "lng": -72.4333,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.04459,
+        "lng": -72.44797,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11229,
+        "lng": -72.24361,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.114,
+        "lng": -72.23785,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11142,
+        "lng": -72.26898,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11309,
+        "lng": -72.26334,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11646,
+        "lng": -72.25202,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11814,
+        "lng": -72.24633,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11985,
+        "lng": -72.24058000000001,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.1156,
+        "lng": -72.27738000000001,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12231,
+        "lng": -72.25473000000001,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12401,
+        "lng": -72.24902,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11975,
+        "lng": -72.28589000000001,
+        "location": "Santa Luc\u00eda de Huequi, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12479,
+        "lng": -72.26888000000001,
+        "location": "Santa Josefina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12648,
+        "lng": -72.2632,
+        "location": "Santa Josefina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12895,
+        "lng": -72.27735,
+        "location": "Pailahueque - Fundo Callin, Palermo, Pailahueque, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13398,
+        "lng": -72.26035,
+        "location": "Pailahueque - Fundo Callin, Palermo, Pailahueque, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13774,
+        "lng": -72.8767,
+        "location": "Comunidad Hueico Lautaro, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13977,
+        "lng": -72.86986999999999,
+        "location": "Comunidad Hueico Lautaro, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13427,
+        "lng": -72.87553,
+        "location": "Comunidad Hueico Lautaro, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.1363,
+        "lng": -72.86884,
+        "location": "Comunidad Hueico Lautaro, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.14013,
+        "lng": -72.87888000000001,
+        "location": "Comunidad Hueico Lautaro, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.14223,
+        "lng": -72.87196,
+        "location": "Comunidad Hueico Lautaro, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.27650999999999,
+        "lng": -72.90460999999999,
+        "location": "El Membrillo, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.27147,
+        "lng": -72.90713000000001,
+        "location": "El Membrillo, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.27338,
+        "lng": -72.90083,
+        "location": "El Membrillo, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.279,
+        "lng": -72.90491999999999,
+        "location": "El Membrillo, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.27745,
+        "lng": -72.91005,
+        "location": "Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.76652,
+        "lng": -71.61291,
+        "location": "Melipeuco - Laguna Galletu\u00e9 por China Muerta, Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.77030999999999,
+        "lng": -71.6218,
+        "location": "Melipeuco - Laguna Galletu\u00e9 por China Muerta, Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.77200999999999,
+        "lng": -71.6159,
+        "location": "Melipeuco - Laguna Galletu\u00e9 por China Muerta, Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.77498,
+        "lng": -71.60556,
+        "location": "Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.76878,
+        "lng": -71.62714,
+        "location": "Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.77431,
+        "lng": -71.62999,
+        "location": "Cascada Truful Truful, Truful Truful, Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.77605,
+        "lng": -71.6239,
+        "location": "Melipeuco - Laguna Galletu\u00e9 por China Muerta, Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.77839,
+        "lng": -71.61579,
+        "location": "Melipeuco - Laguna Galletu\u00e9 por China Muerta, Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -40.43262,
+        "lng": -73.34054,
+        "location": "Chanco - Planch\u00f3n - Anchiqueumo, San Juan de la Costa, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "San Juan de la Costa"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -40.43678,
+        "lng": -73.34879000000001,
+        "location": "Chanco - Planch\u00f3n - Anchiqueumo, San Juan de la Costa, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "San Juan de la Costa"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -40.43497,
+        "lng": -73.35479000000001,
+        "location": "Cancha Larga - Huitrapulli, San Juan de la Costa, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "San Juan de la Costa"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -40.73003,
+        "lng": -72.99096,
+        "location": "Cancura, Osorno, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "Osorno"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -40.73569000000001,
+        "lng": -72.99371,
+        "location": "Puerto Octay, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "Puerto Octay"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -22.3163,
+        "lng": -68.88083,
+        "location": "zona enfriador peque\u00f1o, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -23.78283,
+        "lng": -70.31773000000001,
+        "location": "Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -23.82303,
+        "lng": -70.31738,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -23.82315,
+        "lng": -70.31746,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -27.41385,
+        "lng": -70.26299,
+        "location": "Cruce Ruta 31 CH - Fundici\u00f3n Paipote - Cruce C-33, Tierra Amarilla, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -28.48044,
+        "lng": -71.24806,
+        "location": "Villa Guacolda, Huasco, Provincia de Huasco, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "HUASCO",
+        "comuna": "Huasco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -32.75639,
+        "lng": -71.47734,
+        "location": "Cruce Ruta 5 (Quinquimo) - Papudo - Cruce Ruta 64 (Re\u00f1aca Alto), Loncura Bajo, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -32.76150999999999,
+        "lng": -71.47794,
+        "location": "Cruce Ruta 5 (Quinquimo) - Papudo - Cruce Ruta 64 (Re\u00f1aca Alto), Loncura Bajo, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -33.29644,
+        "lng": -70.73167,
+        "location": "Ruta 5 Norte, Chicauma, Lampa, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Lampa"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -33.29673,
+        "lng": -70.72774,
+        "location": "Autopista Nororiente, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -33.29294,
+        "lng": -70.72863000000001,
+        "location": "DHL, Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -33.29832,
+        "lng": -70.72916,
+        "location": "Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -34.10574,
+        "lng": -70.45975,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.93855,
+        "lng": -72.28588,
+        "location": "Chancahue - Salto de Chancahue, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.93830999999999,
+        "lng": -72.28963,
+        "location": "Chancahue - Salto de Chancahue, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.9388,
+        "lng": -72.2821,
+        "location": "Chancahue - Salto de Chancahue, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.93953,
+        "lng": -72.27069,
+        "location": "Mulito, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.94345999999999,
+        "lng": -72.29026999999999,
+        "location": "Ruca\u00f1anco - Mininco, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.9437,
+        "lng": -72.28656,
+        "location": "Variante Chancahue, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.94395,
+        "lng": -72.28275,
+        "location": "Chancahue - Salto de Chancahue, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.9469,
+        "lng": -72.31716999999999,
+        "location": "Victoria Unida, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.94766,
+        "lng": -72.3055,
+        "location": "Choin Lafkenche, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.9479,
+        "lng": -72.30176,
+        "location": "Choin Lafkenche, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.94815,
+        "lng": -72.29811,
+        "location": "Choin Lafkenche, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.95204,
+        "lng": -72.31779,
+        "location": "Victoria Unida, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.95156,
+        "lng": -72.32516,
+        "location": "Victoria Unida, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.9518,
+        "lng": -72.32151999999999,
+        "location": "Victoria Unida, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.95229,
+        "lng": -72.314,
+        "location": "Victoria Unida, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.9533,
+        "lng": -72.29868,
+        "location": "Choin Lafkenche, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.95355,
+        "lng": -72.2949,
+        "location": "Choin Lafkenche, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.95378,
+        "lng": -72.2913,
+        "location": "Ruca\u00f1anco - Mininco, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.95719,
+        "lng": -72.31838,
+        "location": "Victoria Unida, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.95744000000001,
+        "lng": -72.31461999999999,
+        "location": "Victoria Unida, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.95894000000001,
+        "lng": -72.29182,
+        "location": "Choin Lafkenche, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.95918,
+        "lng": -72.28819,
+        "location": "Ruca\u00f1anco - Mininco, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.97882,
+        "lng": -72.4573,
+        "location": "Collipulli - Loncomahuida, Loncomahuida, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.97979,
+        "lng": -72.44318,
+        "location": "Bajo Malleco, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.98337,
+        "lng": -72.46599,
+        "location": "Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.98390999999999,
+        "lng": -72.45819,
+        "location": "Limpeo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.9844,
+        "lng": -72.45111999999999,
+        "location": "Limpeo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.98489,
+        "lng": -72.44406,
+        "location": "Limpeo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.98842,
+        "lng": -72.46733,
+        "location": "Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.98898,
+        "lng": -72.4593,
+        "location": "Limpeo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.98949,
+        "lng": -72.45201999999999,
+        "location": "Limpeo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.00277,
+        "lng": -72.40948,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.00304000000001,
+        "lng": -72.40555,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.03859,
+        "lng": -71.95863,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.03894,
+        "lng": -71.95347,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.03827,
+        "lng": -71.96347,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.98472,
+        "lng": -72.46675,
+        "location": "Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.98522,
+        "lng": -72.45881999999999,
+        "location": "Limpeo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.98567,
+        "lng": -72.45167,
+        "location": "Limpeo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.98611,
+        "lng": -72.44466,
+        "location": "Limpeo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.99028,
+        "lng": -72.46011999999999,
+        "location": "Limpeo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -37.99075999999999,
+        "lng": -72.45264,
+        "location": "Limpeo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.00403,
+        "lng": -72.40615,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.00378,
+        "lng": -72.41008000000001,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.03698,
+        "lng": -71.95794000000001,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.03728,
+        "lng": -71.9528,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.04245,
+        "lng": -71.95488,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.01424,
+        "lng": -72.40805,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.01936,
+        "lng": -72.40878000000001,
+        "location": "Ruta 5 Sur, Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.06305,
+        "lng": -71.96423,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.06327,
+        "lng": -71.96056,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.03400999999999,
+        "lng": -72.42165,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.03425,
+        "lng": -72.41794,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.03877,
+        "lng": -72.42782,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.03828,
+        "lng": -72.43526,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.03913,
+        "lng": -72.42225,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.04242,
+        "lng": -72.45052,
+        "location": "Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.04291,
+        "lng": -72.44321,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.0434,
+        "lng": -72.43585999999999,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.04389,
+        "lng": -72.42846999999999,
+        "location": "Ancapi\u00f1ancucheo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.04803,
+        "lng": -72.44371,
+        "location": "Ancapi\u00f1ancucheo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.04852,
+        "lng": -72.43639,
+        "location": "Ancapi\u00f1ancucheo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.04754000000001,
+        "lng": -72.45106,
+        "location": "Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.09931,
+        "lng": -72.05875,
+        "location": "Cruce Longitudinal (Collipulli) - Termas de Pemehue, Fundo Santa Rosa de Curaco, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.09956,
+        "lng": -72.05495,
+        "location": "Cruce Longitudinal (Collipulli) - Termas de Pemehue, Fundo Santa Rosa de Curaco, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.10405,
+        "lng": -72.06694,
+        "location": "Cruce Longitudinal (Collipulli) - Termas de Pemehue, Fundo Santa Rosa de Curaco, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.10429,
+        "lng": -72.06311,
+        "location": "Cruce Longitudinal (Collipulli) - Termas de Pemehue, Fundo Santa Rosa de Curaco, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.10454,
+        "lng": -72.0593,
+        "location": "Cruce Longitudinal (Collipulli) - Termas de Pemehue, Fundo Santa Rosa de Curaco, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.10952,
+        "lng": -72.06369000000001,
+        "location": "Cruce Longitudinal (Collipulli) - Termas de Pemehue, Fundo Santa Rosa de Curaco, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11347,
+        "lng": -72.24123,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11551,
+        "lng": -72.21093,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11575999999999,
+        "lng": -72.20715,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11864,
+        "lng": -72.24184,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.1189,
+        "lng": -72.23808000000001,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12097,
+        "lng": -72.28421999999999,
+        "location": "Santa Luc\u00eda de Huequi, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12356,
+        "lng": -72.24625,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12381,
+        "lng": -72.24251,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12407,
+        "lng": -72.23875,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.1251,
+        "lng": -72.22366,
+        "location": "Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12822,
+        "lng": -72.25441,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12847,
+        "lng": -72.25066,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12873,
+        "lng": -72.24691999999999,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12899,
+        "lng": -72.24318000000001,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12924,
+        "lng": -72.23943,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.1295,
+        "lng": -72.23565,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13002,
+        "lng": -72.22807,
+        "location": "Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13028,
+        "lng": -72.22425,
+        "location": "Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13183,
+        "lng": -72.20144,
+        "location": "Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13209000000001,
+        "lng": -72.19763,
+        "location": "Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13235,
+        "lng": -72.1938,
+        "location": "Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11401,
+        "lng": -72.24365,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11424,
+        "lng": -72.23988,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11611,
+        "lng": -72.20952,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11448,
+        "lng": -72.23611,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11588,
+        "lng": -72.21333,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11634,
+        "lng": -72.20573,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11942,
+        "lng": -72.24051999999999,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11683,
+        "lng": -72.28239,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11895,
+        "lng": -72.24807,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11919,
+        "lng": -72.24429,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.11965,
+        "lng": -72.23674,
+        "location": "Santa Mar\u00eda, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12413,
+        "lng": -72.24873000000001,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12436,
+        "lng": -72.24495999999999,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12459,
+        "lng": -72.2412,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12482,
+        "lng": -72.23743,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12175,
+        "lng": -72.28674000000001,
+        "location": "Santa Luc\u00eda de Huequi, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12199,
+        "lng": -72.28294,
+        "location": "Santa Luc\u00eda de Huequi, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12341,
+        "lng": -72.2601,
+        "location": "Santa Josefina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12365,
+        "lng": -72.25629,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12389,
+        "lng": -72.25251,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12506,
+        "lng": -72.23366999999999,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12529,
+        "lng": -72.22989,
+        "location": "Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12553,
+        "lng": -72.2261,
+        "location": "Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12577,
+        "lng": -72.22229,
+        "location": "Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12906,
+        "lng": -72.25312,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.1293,
+        "lng": -72.24937,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12953,
+        "lng": -72.24562,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12977,
+        "lng": -72.24186999999999,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13,
+        "lng": -72.23810999999999,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12859,
+        "lng": -72.26068000000001,
+        "location": "Pailahueque - Fundo Callin, Palermo, Pailahueque, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.12883,
+        "lng": -72.25688000000001,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13024,
+        "lng": -72.23431,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13047,
+        "lng": -72.23051,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13071,
+        "lng": -72.2267,
+        "location": "Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13237,
+        "lng": -72.20003,
+        "location": "Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13261,
+        "lng": -72.19621,
+        "location": "Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.16028,
+        "lng": -72.41344000000001,
+        "location": "Victoria, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Victoria"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.16055,
+        "lng": -72.40939,
+        "location": "Victoria, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Victoria"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.1343,
+        "lng": -72.8689,
+        "location": "Comunidad Hueico Lautaro, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13480999999999,
+        "lng": -72.86169,
+        "location": "Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.16547,
+        "lng": -72.41315999999999,
+        "location": "Victoria, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Victoria"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.16574,
+        "lng": -72.40912,
+        "location": "Ercilla - Victoria por Fundo El Cielo, Quilaco, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.13929,
+        "lng": -72.86966,
+        "location": "Comunidad Hueico Lautaro, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.1443,
+        "lng": -72.87018,
+        "location": "Comunidad Hueico Lautaro, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.23583,
+        "lng": -72.61805,
+        "location": "Rinconada, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.23633,
+        "lng": -72.61055999999999,
+        "location": "Rinconada, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.23533,
+        "lng": -72.62555,
+        "location": "Rinconada, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.23682,
+        "lng": -72.6032,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.24041,
+        "lng": -72.62608,
+        "location": "Rinconada, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.24092,
+        "lng": -72.61849000000001,
+        "location": "Rinconada, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.24142,
+        "lng": -72.61097,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.24191,
+        "lng": -72.60370999999999,
+        "location": "Quichamahuida, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.2455,
+        "lng": -72.62649,
+        "location": "Las Vegas, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.24601,
+        "lng": -72.61886,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.24651,
+        "lng": -72.61139,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.24699,
+        "lng": -72.60422,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.2511,
+        "lng": -72.61934000000001,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.25159,
+        "lng": -72.61204000000001,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.25208,
+        "lng": -72.60476,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.25258,
+        "lng": -72.59728,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.25716,
+        "lng": -72.60545,
+        "location": "Victoria - Traigu\u00e9n - Los Sauces - Huequ\u00e9n, El Valle, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.97982,
+        "lng": -71.99096999999999,
+        "location": "Huerere - Curacalco Bajo, Qui\u00f1enchique, Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.98485,
+        "lng": -71.99573000000001,
+        "location": "Huerere - Curacalco Bajo, Qui\u00f1enchique, Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.9851,
+        "lng": -71.99181,
+        "location": "Huerere - Curacalco Bajo, Qui\u00f1enchique, Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.9836,
+        "lng": -71.99334,
+        "location": "Huerere - Curacalco Bajo, Qui\u00f1enchique, Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.98383,
+        "lng": -71.98954,
+        "location": "Huerere - Curacalco Bajo, Qui\u00f1enchique, Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.98866,
+        "lng": -71.9982,
+        "location": "Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -38.98888,
+        "lng": -71.99435,
+        "location": "Qui\u00f1enchique, Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -40.4342,
+        "lng": -73.35377,
+        "location": "Cancha Larga - Huitrapulli, San Juan de la Costa, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "San Juan de la Costa"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -40.43468,
+        "lng": -73.34679,
+        "location": "Chanco - Planch\u00f3n - Anchiqueumo, San Juan de la Costa, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "San Juan de la Costa"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -40.43918,
+        "lng": -73.35458,
+        "location": "Cancha Larga - Huitrapulli, San Juan de la Costa, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "San Juan de la Costa"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -40.43966,
+        "lng": -73.34748,
+        "location": "Chanco - Planch\u00f3n - Anchiqueumo, San Juan de la Costa, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "San Juan de la Costa"
+    },
+    {
+        "acq_date": "2022-02-22",
+        "lat": -40.73148,
+        "lng": -72.99308,
+        "location": "Cancura, Osorno, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "Osorno"
+    }
+]
