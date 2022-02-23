@@ -1,1 +1,803 @@
-[]
+[
+    {
+        "acq_date": "2022-02-23",
+        "lat": -22.31487,
+        "lng": -68.88887,
+        "location": "Torre de refrigeraci\u00f3n, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -22.31594,
+        "lng": -68.88362,
+        "location": "zona enfriador peque\u00f1o, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -22.31776,
+        "lng": -68.88596,
+        "location": "Torre de refrigeraci\u00f3n, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -26.42988,
+        "lng": -69.47921,
+        "location": "6 Norte, Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -26.43437,
+        "lng": -69.48001,
+        "location": "Bernardo O'Higgins, Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -27.35504,
+        "lng": -70.22068,
+        "location": "Ruta 31 CH, Planta Inacesa, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -28.47816,
+        "lng": -71.24802,
+        "location": "Cruce Ruta 5 (Vallenar) - Puerto Guacolda, Central termoel\u00e9ctrica Guacolda, Huasco, Provincia de Huasco, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "HUASCO",
+        "comuna": "Huasco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -32.80052,
+        "lng": -70.95383000000001,
+        "location": "Cruce Ruta 60 CH (Chagres) - Cruce E-615 (Catemu), Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -33.29391,
+        "lng": -70.72904,
+        "location": "DHL, Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -34.10548,
+        "lng": -70.45648,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -34.10458,
+        "lng": -70.46077,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -34.43678,
+        "lng": -71.42188,
+        "location": "Peralillo, Provincia de Colchagua, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "COLCHAGUA",
+        "comuna": "Peralillo"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -36.86308,
+        "lng": -71.38186,
+        "location": "Coihueco, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "Coihueco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -36.8641,
+        "lng": -71.37714,
+        "location": "Coihueco, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "Coihueco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.42276,
+        "lng": -72.34586,
+        "location": "Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 4440000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.42381,
+        "lng": -72.34116,
+        "location": "Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 4440000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.91986,
+        "lng": -72.31951,
+        "location": "Asentamiento Chancahua, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.92295,
+        "lng": -72.32538000000001,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.92394,
+        "lng": -72.32082,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.92495,
+        "lng": -72.31621,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.93915,
+        "lng": -72.31099,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.71795,
+        "lng": -73.43007,
+        "location": "Cruce P-60-R (Antihuala) - Licauqu\u00e9n - Ca\u00f1ete, Tucapel, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, 4390000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.71795,
+        "lng": -73.43007,
+        "location": "Cruce P-60-R (Antihuala) - Licauqu\u00e9n - Ca\u00f1ete, Tucapel, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, 4390000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.81725,
+        "lng": -73.29800999999999,
+        "location": "Comunidad Luis Antilil, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.81725,
+        "lng": -73.29800999999999,
+        "location": "Comunidad Luis Antilil, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.82171,
+        "lng": -73.29861,
+        "location": "Comunidad Luis Antilil, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.82171,
+        "lng": -73.29861,
+        "location": "Comunidad Luis Antilil, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.82288,
+        "lng": -73.29346,
+        "location": "Comunidad Luis Antilil, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.82288,
+        "lng": -73.29346,
+        "location": "Comunidad Luis Antilil, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.82057,
+        "lng": -73.30364,
+        "location": "Comunidad Luis Antilil, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.82057,
+        "lng": -73.30364,
+        "location": "Comunidad Luis Antilil, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.82615,
+        "lng": -73.29930999999999,
+        "location": "Comunidad Luis Antilil, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.82615,
+        "lng": -73.29930999999999,
+        "location": "Comunidad Luis Antilil, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.8273,
+        "lng": -73.29427,
+        "location": "Comunidad Luis Antilil, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -37.8273,
+        "lng": -73.29427,
+        "location": "Comunidad Luis Antilil, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.11684,
+        "lng": -72.08048000000001,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.14473,
+        "lng": -72.20449,
+        "location": "Pailahueque - Fundo Callin, Palermo, Pailahueque, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.14571,
+        "lng": -72.19997,
+        "location": "Pailahueque - Fundo Callin, Palermo, Pailahueque, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.1467,
+        "lng": -72.19546,
+        "location": "Pailahueque - Fundo Callin, Palermo, Pailahueque, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.101,
+        "lng": -72.60394000000001,
+        "location": "Los Sauces, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Los Sauces"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.10203,
+        "lng": -72.59921,
+        "location": "Los Sauces, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Los Sauces"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.10402,
+        "lng": -72.61028,
+        "location": "Estaci\u00f3n Santa Rosa - Bifurcaci\u00f3n Quilqu\u00e9n - Renaico, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.10505999999999,
+        "lng": -72.60552,
+        "location": "Estaci\u00f3n Santa Rosa - Bifurcaci\u00f3n Quilqu\u00e9n - Renaico, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.10609,
+        "lng": -72.60081,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.10917,
+        "lng": -72.6069,
+        "location": "Estaci\u00f3n Santa Rosa - Bifurcaci\u00f3n Quilqu\u00e9n - Renaico, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.12427,
+        "lng": -72.87949,
+        "location": "Los Sauces - Lumaco por Las Rosas, Comunidad Hueico Viuda de Paillama, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.12843,
+        "lng": -72.8809,
+        "location": "Los Sauces - Lumaco por Las Rosas, Comunidad Hueico Viuda de Paillama, Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.22581,
+        "lng": -72.6205,
+        "location": "Rinconada, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.2309,
+        "lng": -72.61729,
+        "location": "Rinconada, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.22989,
+        "lng": -72.62196,
+        "location": "Rinconada, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.23499,
+        "lng": -72.61873,
+        "location": "Rinconada, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.22705,
+        "lng": -72.6179,
+        "location": "Rinconada, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.23112,
+        "lng": -72.61935,
+        "location": "Rinconada, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.23522,
+        "lng": -72.62077,
+        "location": "Rinconada, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.26063,
+        "lng": -72.64513000000001,
+        "location": "Victoria - Traigu\u00e9n - Los Sauces - Huequ\u00e9n, El Valle, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, 4730000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.27003,
+        "lng": -72.6028,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.27723,
+        "lng": -72.59016,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.27619,
+        "lng": -72.59486,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.2813,
+        "lng": -72.59163000000001,
+        "location": "P\u00faa - Quino - Traigu\u00e9n, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.29443,
+        "lng": -72.61171999999999,
+        "location": "La Esperanza, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.19922,
+        "lng": -73.16037,
+        "location": "Contulmo, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Contulmo"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.20377,
+        "lng": -73.14005,
+        "location": "Contulmo, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Contulmo"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.20489,
+        "lng": -73.13509,
+        "location": "Contulmo, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Contulmo"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.20350999999999,
+        "lng": -73.16144,
+        "location": "Contulmo, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Contulmo"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.20465,
+        "lng": -73.15635999999999,
+        "location": "Contulmo, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Contulmo"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.20779,
+        "lng": -73.16256,
+        "location": "Contulmo, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Contulmo"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.20893,
+        "lng": -73.15746,
+        "location": "Contulmo, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Contulmo"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.21321,
+        "lng": -73.15857,
+        "location": "Contulmo, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Contulmo"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.21207,
+        "lng": -73.16369,
+        "location": "Contulmo, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Contulmo"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.2163,
+        "lng": -73.16499,
+        "location": "Contulmo, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Contulmo"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.21511,
+        "lng": -73.16032,
+        "location": "Contulmo, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Contulmo"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.21934,
+        "lng": -73.16164,
+        "location": "Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.41982,
+        "lng": -72.76635999999999,
+        "location": "Poblaci\u00f3n Agust\u00edn Contreras, Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 5030000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.41966,
+        "lng": -72.7683,
+        "location": "Poblaci\u00f3n Agust\u00edn Contreras, Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 5030000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.54894,
+        "lng": -72.4024,
+        "location": "Lautaro, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 4860000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Lautaro"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.5479,
+        "lng": -72.40717,
+        "location": "Lautaro, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 4860000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Lautaro"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.77148,
+        "lng": -71.59657,
+        "location": "Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.78751,
+        "lng": -71.63421,
+        "location": "Melipeuco - Laguna Galletu\u00e9 por China Muerta, Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.78896,
+        "lng": -71.62741,
+        "location": "Melipeuco - Laguna Galletu\u00e9 por China Muerta, Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.79275,
+        "lng": -71.62903,
+        "location": "Melipeuco - Laguna Galletu\u00e9 por China Muerta, Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.79132,
+        "lng": -71.63575,
+        "location": "Melipeuco - Laguna Galletu\u00e9 por China Muerta, Melipeuco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Melipeuco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.80229,
+        "lng": -72.47448,
+        "location": "Padre Las Casas, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.80321,
+        "lng": -72.47024,
+        "location": "Padre Las Casas, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -38.80538,
+        "lng": -72.48012,
+        "location": "Padre Las Casas, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -39.15168,
+        "lng": -73.04845,
+        "location": "Cruce Ruta S-70 - Villa Boldos - Colonia Caupolic\u00e1n, San Roque, Villa Los Boldos, Tolt\u00e9n, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Tolt\u00e9n"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -40.10425,
+        "lng": -72.95518,
+        "location": "Cruce Ruta 206 (Paillaco) - Yerbas Buenas - Cruce T-732 (Pichirropulli), La Luma, Paillaco, Provincia de Valdivia, Regi\u00f3n de Los R\u00edos, Chile",
+        "region": "REGI\u00d3N DE LOS R\u00cdOS",
+        "provincia": "VALDIVIA",
+        "comuna": "Paillaco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -40.11131,
+        "lng": -72.9426,
+        "location": "Las Lomas, Paillaco, Provincia de Valdivia, Regi\u00f3n de Los R\u00edos, Chile",
+        "region": "REGI\u00d3N DE LOS R\u00cdOS",
+        "provincia": "VALDIVIA",
+        "comuna": "Paillaco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -40.11639,
+        "lng": -72.93907,
+        "location": "Las Lomas, Paillaco, Provincia de Valdivia, Regi\u00f3n de Los R\u00edos, Chile",
+        "region": "REGI\u00d3N DE LOS R\u00cdOS",
+        "provincia": "VALDIVIA",
+        "comuna": "Paillaco"
+    },
+    {
+        "acq_date": "2022-02-23",
+        "lat": -40.11745999999999,
+        "lng": -72.93414,
+        "location": "Las Lomas, Paillaco, Provincia de Valdivia, Regi\u00f3n de Los R\u00edos, Chile",
+        "region": "REGI\u00d3N DE LOS R\u00cdOS",
+        "provincia": "VALDIVIA",
+        "comuna": "Paillaco"
+    }
+]
