@@ -10933,6 +10933,84 @@
             "properties": {
                 "acq_date": "2022-02-24"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.19073,
+                    -35.17866
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.17174,
+                    -33.41543
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.68993,
+                    -30.86155
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.26136,
+                    -27.41585
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.35879,
+                    -17.49171
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.50828,
+                    -35.4645
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-24"
+            }
         }
     ]
 }
