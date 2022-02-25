@@ -28002,6 +28002,32 @@
             "properties": {
                 "acq_date": "2022-02-24"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.39676000000001,
+                    -27.15264
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.39725,
+                    -27.148979999999998
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-02-24"
+            }
         }
     ]
 }
