@@ -1586,6 +1586,19 @@
             "properties": {
                 "acq_date": "2022-03-01"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.87631,
+                    -29.19158
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-01"
+            }
         }
     ]
 }

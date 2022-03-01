@@ -1078,5 +1078,374 @@
         "region": "REGI\u00d3N DE ANTOFAGASTA",
         "provincia": "ANTOFAGASTA",
         "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -37.22124,
+        "lng": -72.23015,
+        "location": "Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -37.22052,
+        "lng": -72.23183,
+        "location": "Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -36.87999,
+        "lng": -71.96764,
+        "location": "Puente Urrutia, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -36.91097,
+        "lng": -72.40736,
+        "location": "Liucura Alto, Quill\u00f3n, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Quill\u00f3n"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -36.71799,
+        "lng": -72.92106,
+        "location": "San Jos\u00e9 Penamar - Primera Agua, Penco, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Penco"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -36.71844,
+        "lng": -72.92558000000001,
+        "location": "San Jos\u00e9 Penamar - Primera Agua, Penco, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Penco"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -36.71346,
+        "lng": -72.91745,
+        "location": "Santa Guacolda, Tom\u00e9, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Tom\u00e9"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -36.71433,
+        "lng": -72.92625,
+        "location": "San Jos\u00e9 Penamar - Primera Agua, Penco, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Penco"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -36.71389,
+        "lng": -72.92188,
+        "location": "Dichoco, Penco, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Penco"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -36.7098,
+        "lng": -72.9226,
+        "location": "El Pino, Tom\u00e9, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Tom\u00e9"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -35.64605,
+        "lng": -71.42223,
+        "location": "Colb\u00fan, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Colb\u00fan"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -35.64538,
+        "lng": -71.45052,
+        "location": "Yerbas Buenas, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Yerbas Buenas"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -35.646,
+        "lng": -71.45605,
+        "location": "La Laguna, Yerbas Buenas, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Yerbas Buenas"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -35.64647,
+        "lng": -71.45267,
+        "location": "Yerbas Buenas, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Yerbas Buenas"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -35.6427,
+        "lng": -71.45333000000001,
+        "location": "La Laguna, Yerbas Buenas, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Yerbas Buenas"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -35.48565,
+        "lng": -71.6571,
+        "location": "Bahama\u00b4s, Ruta 5 Sur, Maule, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Maule"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -35.1092,
+        "lng": -71.20249,
+        "location": "Pichingal, Molina, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Molina"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -35.10551,
+        "lng": -71.20316,
+        "location": "Pichingal, Molina, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Molina"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -35.10612,
+        "lng": -71.20845,
+        "location": "La Turbina, Pichingal, Molina, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Molina"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -34.77563,
+        "lng": -71.92675,
+        "location": "Cruce Ruta I-72 - San Pedro de Alc\u00e1ntara - El Peral, Rar\u00edn, Paredones, Provincia de Cardenal Caro, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CARDENAL CARO",
+        "comuna": "Paredones"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -34.77182,
+        "lng": -71.92741,
+        "location": "Cruce Ruta I-72 - San Pedro de Alc\u00e1ntara - El Peral, Rar\u00edn, Paredones, Provincia de Cardenal Caro, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CARDENAL CARO",
+        "comuna": "Paredones"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -34.55997,
+        "lng": -71.57552,
+        "location": "Ranquilhue, Pumanque, Provincia de Colchagua, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "COLCHAGUA",
+        "comuna": "Pumanque"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.09834,
+        "lng": -71.5554,
+        "location": "Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.09893,
+        "lng": -71.56038000000001,
+        "location": "Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.09408,
+        "lng": -71.55112,
+        "location": "Jos\u00e9 Santos Ossa, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.09526,
+        "lng": -71.56109000000001,
+        "location": "Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.09042,
+        "lng": -71.55183000000001,
+        "location": "Jos\u00e9 Santos Ossa, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.09101,
+        "lng": -71.55691,
+        "location": "Jos\u00e9 Santos Ossa, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.09161,
+        "lng": -71.56189,
+        "location": "Jos\u00e9 Santos Ossa, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.09219,
+        "lng": -71.56676,
+        "location": "Alto del Puerto, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.1004,
+        "lng": -71.55767,
+        "location": "Camino La P\u00f3lvora, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.09673,
+        "lng": -71.55838,
+        "location": "Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.09246,
+        "lng": -71.55415,
+        "location": "Jos\u00e9 Santos Ossa, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.09307,
+        "lng": -71.55915,
+        "location": "Jos\u00e9 Santos Ossa, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.08942,
+        "lng": -71.55995,
+        "location": "Jos\u00e9 Santos Ossa, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.09003,
+        "lng": -71.56487,
+        "location": "Alto del Puerto, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.08577,
+        "lng": -71.56071999999999,
+        "location": "Jos\u00e9 Santos Ossa, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -33.08637,
+        "lng": -71.56564,
+        "location": "Jos\u00e9 Santos Ossa, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -32.80296,
+        "lng": -70.95049,
+        "location": "Autopista Los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -21.90437,
+        "lng": -68.4837,
+        "location": "Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-03-01",
+        "lat": -18.74363,
+        "lng": -69.26431,
+        "location": "Cruce A-95 (Chilcaya) - Cruce A-319 (Castilluma), Itiza, Putre, Provincia de Parinacota, Regi\u00f3n de Arica y Parinacota, Chile",
+        "region": "REGI\u00d3N DE ARICA Y PARINACOTA",
+        "provincia": "PARINACOTA",
+        "comuna": "Putre"
     }
 ]
