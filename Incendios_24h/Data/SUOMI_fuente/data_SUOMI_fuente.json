@@ -54430,5 +54430,383 @@
         "region": "REGI\u00d3N DE ARICA Y PARINACOTA",
         "provincia": "PARINACOTA",
         "comuna": "Putre"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -23.3614,
+        "lng": -67.73210999999999,
+        "location": "San Pedro de Atacama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "San Pedro de Atacama"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -23.36479,
+        "lng": -67.73264,
+        "location": "San Pedro de Atacama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "San Pedro de Atacama"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -23.77921,
+        "lng": -70.31689,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -23.82145,
+        "lng": -70.31743,
+        "location": "Acceso Fundici\u00f3n Altonorte, Fundici\u00f3n Altonorte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -23.82519,
+        "lng": -70.31818,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -26.43157,
+        "lng": -69.47878,
+        "location": "Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -26.43506,
+        "lng": -69.47944,
+        "location": "Bernardo O'Higgins, Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -27.35782,
+        "lng": -70.22308000000001,
+        "location": "Cruce Ruta 31 CH - Observatorio Los C\u00f3ndores, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -27.41988,
+        "lng": -70.25861,
+        "location": "Cha\u00f1arcillo, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -28.48032,
+        "lng": -71.25029,
+        "location": "Villa Guacolda, Huasco, Provincia de Huasco, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "HUASCO",
+        "comuna": "Huasco"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -32.80193,
+        "lng": -70.95451,
+        "location": "Cruce Ruta 60 CH (Chagres) - Cruce E-615 (Catemu), Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -32.80271,
+        "lng": -70.95006,
+        "location": "Autopista Los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -32.75954,
+        "lng": -71.47784,
+        "location": "Cruce Ruta 5 (Quinquimo) - Papudo - Cruce Ruta 64 (Re\u00f1aca Alto), Loncura Bajo, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -33.15247,
+        "lng": -70.89623,
+        "location": "Amancay, Tiltil, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Tiltil"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -33.09285,
+        "lng": -71.56398,
+        "location": "Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -33.09203,
+        "lng": -71.56846,
+        "location": "Alto del Puerto, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -33.09366,
+        "lng": -71.55943,
+        "location": "Jos\u00e9 Santos Ossa, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 2390382, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -33.09554,
+        "lng": -71.56924000000001,
+        "location": "Camino La P\u00f3lvora, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -33.09636,
+        "lng": -71.56474,
+        "location": "Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -33.09717,
+        "lng": -71.56021,
+        "location": "Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -33.09903,
+        "lng": -71.57011,
+        "location": "Camino La P\u00f3lvora, Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -33.09985,
+        "lng": -71.56559,
+        "location": "Placilla de Pe\u00f1uelas, Valpara\u00edso, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Valpara\u00edso"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -33.29373,
+        "lng": -70.72939000000001,
+        "location": "DHL, Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -33.29713,
+        "lng": -70.73021999999999,
+        "location": "Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -34.38233,
+        "lng": -70.94208,
+        "location": "Las Pataguas - Millaray, Los Nogales, Quinta de Tilcoco, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Quinta de Tilcoco"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -34.40794,
+        "lng": -71.86508,
+        "location": "Pichilemu, Provincia de Cardenal Caro, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CARDENAL CARO",
+        "comuna": "Pichilemu"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -34.40823,
+        "lng": -71.86228,
+        "location": "Pichilemu, Provincia de Cardenal Caro, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CARDENAL CARO",
+        "comuna": "Pichilemu"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -35.37996,
+        "lng": -71.64683000000001,
+        "location": "Cruce Ruta 5 (Alto Pangue) - Cruce K-60 (Puente R\u00edo Claro), Talca, Provincia de Talca, Regi\u00f3n del Maule, 346000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Talca"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -35.48896,
+        "lng": -71.68813,
+        "location": "Callej\u00f3n Unihue, Maule, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Maule"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -35.60527,
+        "lng": -71.52292,
+        "location": "Los Casta\u00f1os, San Clemente, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "San Clemente"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -36.86612,
+        "lng": -71.37762,
+        "location": "Coihueco, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "Coihueco"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -36.70733,
+        "lng": -72.91771999999999,
+        "location": "El Pino, Tom\u00e9, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Tom\u00e9"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -36.71171,
+        "lng": -72.91386,
+        "location": "Primer Agua, Penco, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Penco"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -36.71259000000001,
+        "lng": -72.90906,
+        "location": "Primer Agua, Penco, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Penco"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -36.71521,
+        "lng": -72.91481,
+        "location": "Primer Agua, Penco, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Penco"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -36.71955,
+        "lng": -72.93135,
+        "location": "San Jos\u00e9 Penamar - Primera Agua, Penco, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Penco"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -36.7182,
+        "lng": -72.93388,
+        "location": "San Jos\u00e9 Penamar - Primera Agua, Penco, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Penco"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -36.71912,
+        "lng": -72.92896,
+        "location": "San Jos\u00e9 Penamar - Primera Agua, Penco, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Penco"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -36.72956,
+        "lng": -72.93215,
+        "location": "Penco, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Penco"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -37.05281,
+        "lng": -73.13322,
+        "location": "Compa\u00f1\u00eda de Lota, Coronel, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Coronel"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -37.7567,
+        "lng": -72.86971,
+        "location": "Bifurcaci\u00f3n Ca\u00f1ete por Rucapill\u00e1n, Angol, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Angol"
+    },
+    {
+        "acq_date": "2022-03-02",
+        "lat": -37.76016,
+        "lng": -72.87064000000001,
+        "location": "Fundo Rucalemu, La Paz Chica - La Paz, Angol, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Angol"
     }
 ]
