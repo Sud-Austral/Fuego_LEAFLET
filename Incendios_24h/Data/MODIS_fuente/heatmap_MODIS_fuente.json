@@ -20761,6 +20761,84 @@
             "properties": {
                 "acq_date": "2022-03-01"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.55371,
+                    -33.1005
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5726,
+                    -33.10226
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.57431,
+                    -33.09042
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.48003,
+                    -26.43684
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.3196,
+                    -23.8208
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.53008,
+                    -35.60569
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-02"
+            }
         }
     ]
 }
