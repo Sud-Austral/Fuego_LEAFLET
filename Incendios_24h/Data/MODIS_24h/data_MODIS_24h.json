@@ -1,1 +1,29 @@
-[]
+[
+    {
+        "acq_date": "2022-03-05",
+        "lat": -34.10743,
+        "lng": -70.45728000000001,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-05",
+        "lat": -32.75825,
+        "lng": -71.47802,
+        "location": "Cruce Ruta 5 (Quinquimo) - Papudo - Cruce Ruta 64 (Re\u00f1aca Alto), Loncura Bajo, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-03-05",
+        "lat": -36.39988,
+        "lng": -72.06896,
+        "location": "Camino P\u00fablico, San Carlos, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Carlos"
+    }
+]
