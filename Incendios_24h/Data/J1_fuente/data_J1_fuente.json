@@ -49615,5 +49615,41 @@
         "region": "REGI\u00d3N DEL BIOB\u00cdO",
         "provincia": "ARAUCO",
         "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-03-06",
+        "lat": -27.2291,
+        "lng": -70.65514,
+        "location": "Caldera, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Caldera"
+    },
+    {
+        "acq_date": "2022-03-06",
+        "lat": -22.32002,
+        "lng": -68.88318000000001,
+        "location": "Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-03-06",
+        "lat": -31.03889,
+        "lng": -71.55075,
+        "location": "El Granado, Ovalle, Provincia de Limar\u00ed, Regi\u00f3n de Coquimbo, Chile",
+        "region": "REGI\u00d3N DE COQUIMBO",
+        "provincia": "LIMAR\u00cd",
+        "comuna": "Ovalle"
+    },
+    {
+        "acq_date": "2022-03-06",
+        "lat": -31.0426,
+        "lng": -71.55287,
+        "location": "El Granado, Ovalle, Provincia de Limar\u00ed, Regi\u00f3n de Coquimbo, Chile",
+        "region": "REGI\u00d3N DE COQUIMBO",
+        "provincia": "LIMAR\u00cd",
+        "comuna": "Ovalle"
     }
 ]
