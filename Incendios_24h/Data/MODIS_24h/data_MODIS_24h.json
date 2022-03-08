@@ -25,5 +25,50 @@
         "region": "REGI\u00d3N DEL MAULE",
         "provincia": "LINARES",
         "comuna": "Parral"
+    },
+    {
+        "acq_date": "2022-03-08",
+        "lat": -22.31712,
+        "lng": -68.88999,
+        "location": "Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-03-08",
+        "lat": -22.32345,
+        "lng": -68.89514,
+        "location": "Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-03-08",
+        "lat": -33.92198,
+        "lng": -71.5551,
+        "location": "Cruce G-62-I - El Prado - Cruce G-80-I (La Manga), Sector: El Yali - L\u00edmite Regional (La Manga), El Prado, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "El Prado"
+    },
+    {
+        "acq_date": "2022-03-08",
+        "lat": -33.93208,
+        "lng": -71.59528,
+        "location": "San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "MELIPILLA",
+        "comuna": "San Pedro"
+    },
+    {
+        "acq_date": "2022-03-08",
+        "lat": -33.93224,
+        "lng": -71.55966,
+        "location": "Cruce G-62-I (Ninhue) - Cruce G-804, Nihue Bajo, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "MELIPILLA",
+        "comuna": "San Pedro"
     }
 ]
