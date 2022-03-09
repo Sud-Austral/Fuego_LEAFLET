@@ -21996,6 +21996,71 @@
             "properties": {
                 "acq_date": "2022-03-08"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.08434,
+                    -35.17502
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.10053,
+                    -35.17665
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.09109000000001,
+                    -35.1717
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.10719,
+                    -35.17341
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.54313,
+                    -33.92485
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-09"
+            }
         }
     ]
 }
