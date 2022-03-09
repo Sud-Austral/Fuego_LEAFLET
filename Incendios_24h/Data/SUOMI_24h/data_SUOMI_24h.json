@@ -1,1 +1,407 @@
-[]
+[
+    {
+        "acq_date": "2022-03-09",
+        "lat": -19.91621,
+        "lng": -69.70430999999999,
+        "location": "Huara, Provincia del Tamarugal, Regi\u00f3n de Tarapac\u00e1, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "Huara"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -20.77168,
+        "lng": -68.7411,
+        "location": "Pica, Provincia del Tamarugal, Regi\u00f3n de Tarapac\u00e1, Chile",
+        "region": "REGI\u00d3N DE TARAPAC\u00c1",
+        "provincia": "TAMARUGAL",
+        "comuna": "Pica"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -21.06582,
+        "lng": -69.01472,
+        "location": "Pozo Almonte, Provincia del Tamarugal, Regi\u00f3n de Tarapac\u00e1, 100000, Chile",
+        "region": "REGI\u00d3N DE TARAPAC\u00c1",
+        "provincia": "TAMARUGAL",
+        "comuna": "Pozo Almonte"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -21.68886,
+        "lng": -69.4312,
+        "location": "Mar\u00eda Elena, Provincia de Tocopilla, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "TOCOPILLA",
+        "comuna": "Mar\u00eda Elena"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -22.25101,
+        "lng": -68.53223,
+        "location": "Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -23.47297,
+        "lng": -67.27597,
+        "location": "San Pedro de Atacama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "San Pedro de Atacama"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -23.4356,
+        "lng": -69.47354,
+        "location": "Sierra Gorda, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, 1390000, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Sierra Gorda"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -23.78209,
+        "lng": -70.32092,
+        "location": "Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -23.82229,
+        "lng": -70.31864,
+        "location": "Acceso Fundici\u00f3n Altonorte, Fundici\u00f3n Altonorte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -25.2314,
+        "lng": -70.07941,
+        "location": "Cruce Ruta 5 (Oficina Chile) - Cruce B-750 (Oficina Santa Luisa), Taltal, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Taltal"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -25.75438,
+        "lng": -70.27381,
+        "location": "Cruce Ruta 5 - Minera Altamira, Taltal, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Taltal"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -26.42971,
+        "lng": -69.48108,
+        "location": "6 Norte, Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -26.4307,
+        "lng": -69.47684,
+        "location": "Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -26.43517,
+        "lng": -69.48203000000001,
+        "location": "3 Norte, Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -26.64768,
+        "lng": -69.77776,
+        "location": "Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, 1500000, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -26.53939,
+        "lng": -70.54482,
+        "location": "Cha\u00f1aral, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, 1490000, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Cha\u00f1aral"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -27.41489,
+        "lng": -70.26165999999999,
+        "location": "Cruce Ruta 31 CH - Fundici\u00f3n Paipote - Cruce C-33, Tierra Amarilla, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -27.41392,
+        "lng": -70.25912,
+        "location": "Cruce Ruta 31 CH - Fundici\u00f3n Paipote - Cruce C-33, Tierra Amarilla, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -28.34656,
+        "lng": -70.48026,
+        "location": "Vallenar, Provincia de Huasco, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "HUASCO",
+        "comuna": "Vallenar"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -28.47827,
+        "lng": -71.24876,
+        "location": "Villa Guacolda, Huasco, Provincia de Huasco, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "HUASCO",
+        "comuna": "Huasco"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -28.47831,
+        "lng": -71.25023,
+        "location": "Villa Guacolda, Huasco, Provincia de Huasco, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "HUASCO",
+        "comuna": "Huasco"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -29.60638,
+        "lng": -71.2525,
+        "location": "Cruce Ruta 5 (Quebrada Honda) - El Maray, El Maray, La Higuera, Provincia de Elqui, Regi\u00f3n de Coquimbo, Chile",
+        "region": "REGI\u00d3N DE COQUIMBO",
+        "provincia": "ELQUI",
+        "comuna": "La Higuera"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -31.60221,
+        "lng": -71.10419,
+        "location": "Cruce D-81 (Illapel) - Car\u00e9n - Las Burras, Angelm\u00f3, Colonia Alta, Asiento Viejo, Illapel, Provincia de Choapa, Regi\u00f3n de Coquimbo, 1930000, Chile",
+        "region": "REGI\u00d3N DE COQUIMBO",
+        "provincia": "CHOAPA",
+        "comuna": "Illapel"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -32.80191,
+        "lng": -70.95449,
+        "location": "Cruce Ruta 60 CH (Chagres) - Cruce E-615 (Catemu), Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -32.80279,
+        "lng": -70.95085999999999,
+        "location": "Autopista Los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -32.78753,
+        "lng": -71.48732,
+        "location": "Central Quintero, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.2923,
+        "lng": -70.72785999999999,
+        "location": "Camino Coquimbo, Las Mercedes, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.59617,
+        "lng": -70.66837,
+        "location": "Colegio Eliodoro Matte, Avenida Balmaceda, San Bernardo, Provincia de Maipo, Regi\u00f3n Metropolitana de Santiago, 648, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "SANTIAGO",
+        "comuna": "San Bernardo"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.55904,
+        "lng": -70.84317,
+        "location": "La Primavera Condominio, La Primavera, Padre Hurtado, Provincia de Talagante, Regi\u00f3n Metropolitana de Santiago, 9720028, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "SANTIAGO",
+        "comuna": "Padre Hurtado"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.70917,
+        "lng": -71.44745999999999,
+        "location": "San Antonio, Provincia de San Antonio, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN ANTONIO",
+        "comuna": "San Antonio"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.91708,
+        "lng": -71.54018,
+        "location": "Cruce G-62-I - El Prado - Cruce G-80-I (La Manga), Sector: El Yali - L\u00edmite Regional (La Manga), El Prado, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "El Prado"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.91961,
+        "lng": -71.55225,
+        "location": "Cruce G-62-I - El Prado - Cruce G-80-I (La Manga), Sector: El Yali - L\u00edmite Regional (La Manga), El Prado, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "El Prado"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.92046,
+        "lng": -71.54876999999999,
+        "location": "Cruce G-62-I - El Prado - Cruce G-80-I (La Manga), Sector: El Yali - L\u00edmite Regional (La Manga), El Prado, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "El Prado"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.9213,
+        "lng": -71.54529000000001,
+        "location": "Cruce G-62-I - El Prado - Cruce G-80-I (La Manga), Sector: El Yali - L\u00edmite Regional (La Manga), El Prado, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "El Prado"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.92215,
+        "lng": -71.54181,
+        "location": "Cruce G-62-I - El Prado - Cruce G-80-I (La Manga), Sector: El Yali - L\u00edmite Regional (La Manga), El Prado, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "El Prado"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.91708,
+        "lng": -71.54253,
+        "location": "Cruce G-62-I - El Prado - Cruce G-80-I (La Manga), Sector: El Yali - L\u00edmite Regional (La Manga), El Prado, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "El Prado"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.91794,
+        "lng": -71.53911,
+        "location": "Cruce G-62-I - El Prado - Cruce G-80-I (La Manga), Sector: El Yali - L\u00edmite Regional (La Manga), El Prado, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "El Prado"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.91954,
+        "lng": -71.55459,
+        "location": "Cruce G-62-I - El Prado - Cruce G-80-I (La Manga), Sector: El Yali - L\u00edmite Regional (La Manga), El Prado, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "El Prado"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.92041,
+        "lng": -71.5511,
+        "location": "Cruce G-62-I - El Prado - Cruce G-80-I (La Manga), Sector: El Yali - L\u00edmite Regional (La Manga), El Prado, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "El Prado"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.92128,
+        "lng": -71.54762,
+        "location": "Cruce G-62-I - El Prado - Cruce G-80-I (La Manga), Sector: El Yali - L\u00edmite Regional (La Manga), El Prado, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "El Prado"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -33.92215,
+        "lng": -71.54415,
+        "location": "Cruce G-62-I - El Prado - Cruce G-80-I (La Manga), Sector: El Yali - L\u00edmite Regional (La Manga), El Prado, San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "El Prado"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -34.82135,
+        "lng": -71.29715,
+        "location": "Teno, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Teno"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -35.17051,
+        "lng": -71.09276,
+        "location": "Lomas de Upeo, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -35.17509,
+        "lng": -71.09525,
+        "location": "Cruce J-65 (Cuesta Potrero Grande) - Upeo - Monte Oscuro, Potrero Grande, Villa Cordillera, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-09",
+        "lat": -35.30048,
+        "lng": -72.20094,
+        "location": "Carrizal - Ca\u00f1ete, Constituci\u00f3n, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Constituci\u00f3n"
+    }
+]
