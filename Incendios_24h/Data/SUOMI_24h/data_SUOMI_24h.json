@@ -1,1 +1,938 @@
-[]
+[
+    {
+        "acq_date": "2022-03-11",
+        "lat": -22.31637,
+        "lng": -68.88566999999999,
+        "location": "Torre de refrigeraci\u00f3n, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -23.36331,
+        "lng": -67.73127,
+        "location": "San Pedro de Atacama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "San Pedro de Atacama"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -23.36278,
+        "lng": -67.73578,
+        "location": "San Pedro de Atacama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "San Pedro de Atacama"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -23.33664,
+        "lng": -69.83999,
+        "location": "Baquedano, Sierra Gorda, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "Baquedano"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -23.34043,
+        "lng": -69.84058,
+        "location": "Baquedano, Sierra Gorda, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "Baquedano"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -23.33961,
+        "lng": -69.8431,
+        "location": "Baquedano, Sierra Gorda, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "Baquedano"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -23.34023,
+        "lng": -69.83821,
+        "location": "Baquedano, Sierra Gorda, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "Baquedano"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -23.7837,
+        "lng": -70.31706,
+        "location": "Petrobras, Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -23.82281,
+        "lng": -70.31564,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -27.41384,
+        "lng": -70.26246,
+        "location": "Cruce Ruta 31 CH - Fundici\u00f3n Paipote - Cruce C-33, Tierra Amarilla, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -27.41838,
+        "lng": -70.25773000000001,
+        "location": "Cha\u00f1arcillo, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -32.80021,
+        "lng": -70.95161999999999,
+        "location": "Autopista Los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -32.80421,
+        "lng": -70.95228,
+        "location": "Caletera Autopista los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -32.78628,
+        "lng": -71.48765999999999,
+        "location": "Central Quintero, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -33.15032,
+        "lng": -70.83366,
+        "location": "Camino Cerro Blanco, Polpaico, Tiltil, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Tiltil"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -33.29275,
+        "lng": -70.72789,
+        "location": "Camino Coquimbo, Las Mercedes, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -33.29683,
+        "lng": -70.72851999999999,
+        "location": "Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -34.95926,
+        "lng": -71.11667,
+        "location": "Avenida Libertad, Cordillera, Luxemburgo, Romeral, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Romeral"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -34.96333,
+        "lng": -71.11731999999999,
+        "location": "Avenida Ram\u00f3n Freire, Villa Nuestra Se\u00f1ora del Pilar, Luxemburgo, Romeral, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Romeral"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -35.06197,
+        "lng": -71.23066999999999,
+        "location": "Cruce K-15 (Entre R\u00edos) - R\u00edo Lontu\u00e9, Entre R\u00edos, Molina, Provincia de Curic\u00f3, Regi\u00f3n del Maule, 338000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Molina"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.45052,
+        "lng": -72.7701,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.45126,
+        "lng": -72.76385,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.4551,
+        "lng": -72.76428,
+        "location": "Cruce Ruta 126 S (Puente Matadero) - Calabozo - Montenegro - Cruce N-14-O (Vegas de Itata), Montenegro, Perales, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.45436,
+        "lng": -72.77053000000001,
+        "location": "Cruce Ruta 126 S (Puente Matadero) - Calabozo - Montenegro - Cruce N-14-O (Vegas de Itata), Montenegro, Perales, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.45893,
+        "lng": -72.76486,
+        "location": "Cruce Ruta 126 S (Puente Matadero) - Calabozo - Montenegro - Cruce N-14-O (Vegas de Itata), Montenegro, Perales, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.46727,
+        "lng": -72.76025,
+        "location": "Cruce N-216 (Calabozo) - Cruce N-232-O (Toroico), El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.46794000000001,
+        "lng": -72.75453,
+        "location": "Cruce N-216 (Calabozo) - Cruce N-232-O (Toroico), El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.46861,
+        "lng": -72.74884,
+        "location": "Cruce N-216 (Calabozo) - Cruce N-232-O (Toroico), El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47108,
+        "lng": -72.76096,
+        "location": "Cruce N-216 (Calabozo) - Cruce N-232-O (Toroico), El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47174,
+        "lng": -72.75532,
+        "location": "Cruce N-216 (Calabozo) - Cruce N-232-O (Toroico), El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47242,
+        "lng": -72.74958000000001,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47487,
+        "lng": -72.76188,
+        "location": "Cruce N-216 (Calabozo) - Cruce N-232-O (Toroico), El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47624,
+        "lng": -72.75024,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47694,
+        "lng": -72.74436,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47555,
+        "lng": -72.75610999999999,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.48005999999999,
+        "lng": -72.75092,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.48076,
+        "lng": -72.74498,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47935,
+        "lng": -72.7569,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.46644000000001,
+        "lng": -72.74920999999999,
+        "location": "Cruce N-216 (Calabozo) - Cruce N-232-O (Toroico), El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.46896,
+        "lng": -72.76143,
+        "location": "Cruce N-216 (Calabozo) - Cruce N-232-O (Toroico), El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.4696,
+        "lng": -72.75574,
+        "location": "Cruce N-216 (Calabozo) - Cruce N-232-O (Toroico), El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47025,
+        "lng": -72.75004,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47277,
+        "lng": -72.76225,
+        "location": "Cruce N-216 (Calabozo) - Cruce N-232-O (Toroico), El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47341,
+        "lng": -72.75655,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47405999999999,
+        "lng": -72.75076,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47472,
+        "lng": -72.7449,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47788,
+        "lng": -72.75144,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47855,
+        "lng": -72.74548,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.47721,
+        "lng": -72.75738,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.4817,
+        "lng": -72.75214,
+        "location": "El Calabozo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.48237,
+        "lng": -72.74616999999999,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.48303,
+        "lng": -72.74035,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.48619,
+        "lng": -72.7469,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.48686,
+        "lng": -72.74095,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.48552,
+        "lng": -72.75282,
+        "location": "Cruce Ruta 126 S (Coelemu) - Toroico - Cruce N-14-O (Burca), El Rosal, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.48935,
+        "lng": -72.75349,
+        "location": "Cruce Ruta 126 S (Coelemu) - Toroico - Cruce N-14-O (Burca), El Rosal, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.49001,
+        "lng": -72.74764,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.49067,
+        "lng": -72.74172,
+        "location": "Cruce Ruta 126 S (Coelemu) - Toroico - Cruce N-14-O (Burca), El Rosal, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.49135,
+        "lng": -72.73573,
+        "location": "Cruce Ruta 126 S (Coelemu) - Toroico - Cruce N-14-O (Burca), El Rosal, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.49317,
+        "lng": -72.75412,
+        "location": "Cruce Ruta 126 S (Coelemu) - Toroico - Cruce N-14-O (Burca), El Rosal, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.49449,
+        "lng": -72.74245,
+        "location": "Cruce Ruta 126 S (Coelemu) - Toroico - Cruce N-14-O (Burca), El Rosal, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.49382,
+        "lng": -72.74835999999999,
+        "location": "Cruce Ruta 126 S (Coelemu) - Toroico - Cruce N-14-O (Burca), El Rosal, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.497,
+        "lng": -72.75468000000001,
+        "location": "Cruce Ruta 126 S (Coelemu) - Toroico - Cruce N-14-O (Burca), El Rosal, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.499,
+        "lng": -72.73706999999999,
+        "location": "Cruce Ruta 126 S (Coelemu) - Toroico - Cruce N-14-O (Burca), El Rosal, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.49635,
+        "lng": -72.76051,
+        "location": "Pirum\u00e1vida, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.49765,
+        "lng": -72.74895,
+        "location": "Cruce Ruta 126 S (Coelemu) - Toroico - Cruce N-14-O (Burca), El Rosal, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.49832,
+        "lng": -72.7431,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.50085,
+        "lng": -72.75515,
+        "location": "Pirum\u00e1vida, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.5015,
+        "lng": -72.74943,
+        "location": "Tropez\u00f3n, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.50216,
+        "lng": -72.74358000000001,
+        "location": "Tropez\u00f3n, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.50284,
+        "lng": -72.7376,
+        "location": "Tropez\u00f3n, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.50469,
+        "lng": -72.75565,
+        "location": "Pirum\u00e1vida, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.50852,
+        "lng": -72.75627,
+        "location": "Cruce Ruta 126 S (Tropez\u00f3n) - Pirum\u00e1vida - El Ajenjo, Pirum\u00e1vida, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.50917,
+        "lng": -72.75052,
+        "location": "Tropez\u00f3n, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.50985,
+        "lng": -72.74467,
+        "location": "Tropez\u00f3n, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.51234,
+        "lng": -72.75693000000001,
+        "location": "Cruce Ruta 126 S (Tropez\u00f3n) - Pirum\u00e1vida - El Ajenjo, Pirum\u00e1vida, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.51300999999999,
+        "lng": -72.75114,
+        "location": "Cruce Ruta 126 S (Tropez\u00f3n) - Pirum\u00e1vida - El Ajenjo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.51367,
+        "lng": -72.74531,
+        "location": "Cruce Ruta 126 S (Tropez\u00f3n) - Pirum\u00e1vida - El Ajenjo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.51434,
+        "lng": -72.73945,
+        "location": "Cruce Ruta 126 S (Tropez\u00f3n) - Pirum\u00e1vida - El Ajenjo, Tropez\u00f3n, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.51617,
+        "lng": -72.75761999999999,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.51682,
+        "lng": -72.75183,
+        "location": "Cruce Ruta 126 S (Tropez\u00f3n) - Pirum\u00e1vida - El Ajenjo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.51749,
+        "lng": -72.74606,
+        "location": "Cruce Ruta 126 S (Tropez\u00f3n) - Pirum\u00e1vida - El Ajenjo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.51998,
+        "lng": -72.75833,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.52761,
+        "lng": -72.75975,
+        "location": "Tubul, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.52896,
+        "lng": -72.74807,
+        "location": "Guarilihue Bajo Norte, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.53143,
+        "lng": -72.76048,
+        "location": "Tubul, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.53345,
+        "lng": -72.74298,
+        "location": "Ruta Los Conquistadores, Guarilihue Bajo Norte, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.53524,
+        "lng": -72.76128,
+        "location": "Tubul, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.53727,
+        "lng": -72.74369,
+        "location": "Ruta Los Conquistadores, Guarilihue Bajo Norte, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.53905,
+        "lng": -72.76201,
+        "location": "El Tabl\u00f3n, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.54108,
+        "lng": -72.74449,
+        "location": "Ruta Los Conquistadores, Guarilihue Bajo Norte, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.54175,
+        "lng": -72.73872,
+        "location": "Cruce Ruta 126 S (Puente Burca) - Huarilihue - Cruce O-66-N (Casas Quemadas), Guarilihue Bajo, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.54489,
+        "lng": -72.74526999999999,
+        "location": "Ruta Los Conquistadores, Guarilihue Bajo Norte, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.54557,
+        "lng": -72.73946,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.54422,
+        "lng": -72.75106,
+        "location": "Ruta Los Conquistadores, Guarilihue Bajo Norte, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.54871,
+        "lng": -72.74603,
+        "location": "Ruta Los Conquistadores, Guarilihue Bajo Norte, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.54804,
+        "lng": -72.75182,
+        "location": "Ruta Los Conquistadores, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.54938,
+        "lng": -72.74025,
+        "location": "Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.74443,
+        "lng": -73.13004000000001,
+        "location": "Puerto Huachipato, Avenida Juan Antonio R\u00edos, Libertad, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.74333,
+        "lng": -73.13073,
+        "location": "Puerto Huachipato, Avenida Juan Antonio R\u00edos, Libertad, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -36.74397,
+        "lng": -73.12517,
+        "location": "Avenida Gran Breta\u00f1a, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -37.20215,
+        "lng": -72.60178,
+        "location": "Llahuilo, R\u00edo Claro, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -37.48324,
+        "lng": -72.41074,
+        "location": "Ruta 180, Villa Pulmahue, Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 8340422, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-03-11",
+        "lat": -37.48717,
+        "lng": -72.41141999999999,
+        "location": "Ruta 180, Villa Pulmahue, Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 8340422, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    }
+]
