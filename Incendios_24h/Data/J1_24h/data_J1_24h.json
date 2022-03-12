@@ -916,5 +916,32 @@
         "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
         "provincia": "CAUT\u00cdN",
         "comuna": "Temuco"
+    },
+    {
+        "acq_date": "2022-03-12",
+        "lat": -20.42587,
+        "lng": -69.51706999999999,
+        "location": "Calera, Pica, Provincia del Tamarugal, Regi\u00f3n de Tarapac\u00e1, 100000, Chile",
+        "region": "REGI\u00d3N DE TARAPAC\u00c1",
+        "provincia": "TAMARUGAL",
+        "comuna": "Pica"
+    },
+    {
+        "acq_date": "2022-03-12",
+        "lat": -20.08137,
+        "lng": -68.84765,
+        "location": "Pica, Provincia del Tamarugal, Regi\u00f3n de Tarapac\u00e1, Chile",
+        "region": "REGI\u00d3N DE TARAPAC\u00c1",
+        "provincia": "TAMARUGAL",
+        "comuna": "Pica"
+    },
+    {
+        "acq_date": "2022-03-12",
+        "lat": -26.47576,
+        "lng": -69.50779,
+        "location": "Los Sapos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
     }
 ]
