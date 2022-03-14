@@ -187,5 +187,536 @@
         "region": "REGI\u00d3N DE ANTOFAGASTA",
         "provincia": "ANTOFAGASTA",
         "comuna": "Taltal"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -39.22935,
+        "lng": -72.48148,
+        "location": "Septima Faja, Villarrica, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Villarrica"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -39.23101,
+        "lng": -72.49308,
+        "location": "S-669, Gorbea, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Gorbea"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -39.23101,
+        "lng": -72.49308,
+        "location": "S-669, Gorbea, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Gorbea"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.87283,
+        "lng": -72.6266,
+        "location": "Cruce Longitudinal (Quepe) - Boroa - Almagro, Comunidad Juan Huenchual, Quepe, Freire, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Freire"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.87448,
+        "lng": -72.63816,
+        "location": "Comunidad Francisco Pilla\u00f1ir, Freire, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Freire"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.72831,
+        "lng": -72.20288000000001,
+        "location": "Curaco - Santa B\u00e1rbara, Prados de Mendoza, Vilc\u00fan, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Vilc\u00fan"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.40206,
+        "lng": -72.0498,
+        "location": "Victoria, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Victoria"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.40377,
+        "lng": -72.06129,
+        "location": "Fundo Buenos Aires, Victoria, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Victoria"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.38061,
+        "lng": -72.03123000000001,
+        "location": "Victoria, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Victoria"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.38232,
+        "lng": -72.0427,
+        "location": "Curacaut\u00edn - Estero Pehuenco por Colonia San Antonio, Curacaut\u00edn, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Curacaut\u00edn"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.36767,
+        "lng": -72.25497,
+        "location": "Cullinco, Victoria, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Victoria"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.32018,
+        "lng": -72.68616999999999,
+        "location": "Traigu\u00e9n - Galvarino, Alto Chufqu\u00e9n, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.32182,
+        "lng": -72.69762,
+        "location": "Traigu\u00e9n - Galvarino, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.14706,
+        "lng": -72.26093,
+        "location": "Palermo, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.11438,
+        "lng": -72.2924,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.10619000000001,
+        "lng": -72.28791,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.10787,
+        "lng": -72.29933,
+        "location": "R-525 Ercilla - La Monta\u00f1a, Ernestina, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -38.05092,
+        "lng": -72.54395,
+        "location": "Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.95565,
+        "lng": -72.21254,
+        "location": "Asentamiento El Progreso, El Progreso, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.9331,
+        "lng": -72.3124,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.90662,
+        "lng": -72.50095,
+        "location": "Ruta 182, Marilu\u00e1n, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.90828,
+        "lng": -72.51234000000001,
+        "location": "Ruta 182, Marilu\u00e1n, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.69607,
+        "lng": -73.40895,
+        "location": "Cruce P-60-R (Antihuala) - Licauqu\u00e9n - Ca\u00f1ete, Tucapel, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, 4390000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.69607,
+        "lng": -73.40895,
+        "location": "Cruce P-60-R (Antihuala) - Licauqu\u00e9n - Ca\u00f1ete, Tucapel, Ca\u00f1ete, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, 4390000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Ca\u00f1ete"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.20298,
+        "lng": -72.59769,
+        "location": "Llahuilo, R\u00edo Claro, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.20464,
+        "lng": -72.60897,
+        "location": "Cruce Q-768 (Puente Perales) - Cruce Q-754 (R\u00edo Claro), Llahuilo, R\u00edo Claro, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.19397,
+        "lng": -72.59979,
+        "location": "Llahuilo, R\u00edo Claro, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.19562,
+        "lng": -72.61107,
+        "location": "Llahuilo, R\u00edo Claro, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.18495,
+        "lng": -72.60188000000001,
+        "location": "Llahuilo, R\u00edo Claro, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.18660999999999,
+        "lng": -72.61317,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.17593,
+        "lng": -72.60399,
+        "location": "Santa Rosa de Choihue, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -37.17759,
+        "lng": -72.61527,
+        "location": "Cruce Q-754 (R\u00edo Claro) - Cerro Parra, Santa Rosa de Choihue, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.99234000000001,
+        "lng": -72.79839,
+        "location": "Cruce Q-60-O (Yumbel) - Cruce Q-60-O (Hualqui), El Mait\u00e9n, Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.98148,
+        "lng": -72.78434,
+        "location": "El Mait\u00e9n, Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.98311,
+        "lng": -72.79558,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 418000000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.98475,
+        "lng": -72.80681,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 418000000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.97082,
+        "lng": -72.77518,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 418000000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.97246,
+        "lng": -72.78641999999999,
+        "location": "El Mait\u00e9n, Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.9741,
+        "lng": -72.79765,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.97574,
+        "lng": -72.80888,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.96181,
+        "lng": -72.77726,
+        "location": "Quillaim\u00e1vida, Florida, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Florida"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.96345,
+        "lng": -72.7885,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.96509,
+        "lng": -72.79972,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.96673,
+        "lng": -72.81096,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.9528,
+        "lng": -72.77934,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.95444000000001,
+        "lng": -72.79057,
+        "location": "El Manzano, Florida, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Florida"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.95608,
+        "lng": -72.80179,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 418000000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.95772,
+        "lng": -72.81302,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.94543,
+        "lng": -72.79263,
+        "location": "El Manzano, Florida, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Florida"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.94707,
+        "lng": -72.80386,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.9487,
+        "lng": -72.81509,
+        "location": "Hualqui, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Hualqui"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.93642,
+        "lng": -72.7947,
+        "location": "Florida, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Florida"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.6772,
+        "lng": -72.41346,
+        "location": "Chill\u00e1n, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, LAS LILAS DE COLLIGUAY, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Chill\u00e1n"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.67889,
+        "lng": -72.42471,
+        "location": "Chill\u00e1n, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Chill\u00e1n"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.23146,
+        "lng": -70.87834000000001,
+        "location": "Colb\u00fan, Provincia de Linares, Regi\u00f3n del Maule, 3610000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Colb\u00fan"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.23327,
+        "lng": -70.88932,
+        "location": "Colb\u00fan, Provincia de Linares, Regi\u00f3n del Maule, 3610000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Colb\u00fan"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.46236,
+        "lng": -72.75955,
+        "location": "Cruce Ruta 126 S (Puente Matadero) - Calabozo - Montenegro - Cruce N-14-O (Vegas de Itata), Montenegro, Perales, Coelemu, Provincia de Itata, Regi\u00f3n de \u00d1uble, 3970000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Coelemu"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -36.17319000000001,
+        "lng": -71.18021,
+        "location": "Longav\u00ed, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Longav\u00ed"
+    },
+    {
+        "acq_date": "2022-03-14",
+        "lat": -32.27756,
+        "lng": -71.27544,
+        "location": "La Ligua, Provincia de Petorca, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "PETORCA",
+        "comuna": "La Ligua"
     }
 ]
