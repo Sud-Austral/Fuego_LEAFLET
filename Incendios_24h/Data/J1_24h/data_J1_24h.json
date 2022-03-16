@@ -1,1 +1,398 @@
-[]
+[
+    {
+        "acq_date": "2022-03-16",
+        "lat": -32.80207,
+        "lng": -70.95094,
+        "location": "Autopista Los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -33.2952,
+        "lng": -70.72865,
+        "location": "Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -34.84109,
+        "lng": -71.07406999999999,
+        "location": "La Esmeralda, Teno, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Teno"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -34.84321,
+        "lng": -71.07597,
+        "location": "La Esmeralda, Teno, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Teno"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -36.19934,
+        "lng": -71.96281,
+        "location": "Parral, Provincia de Linares, Regi\u00f3n del Maule, 3630000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Parral"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -36.86542,
+        "lng": -71.38115,
+        "location": "Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, 3880000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -36.903,
+        "lng": -71.89928,
+        "location": "El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -36.90418,
+        "lng": -71.89349,
+        "location": "El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.02908,
+        "lng": -72.63329,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.03035,
+        "lng": -72.62716999999999,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.03163,
+        "lng": -72.64090999999999,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.03291,
+        "lng": -72.63476999999999,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.03418,
+        "lng": -72.62867,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.03545,
+        "lng": -72.62252,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.03673,
+        "lng": -72.6164,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.03799,
+        "lng": -72.61032,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.03675,
+        "lng": -72.63623,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.03801,
+        "lng": -72.63013000000001,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.03929,
+        "lng": -72.62396,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.04057,
+        "lng": -72.61780999999999,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.03547,
+        "lng": -72.64236,
+        "location": "Traigu\u00e9n, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.04184,
+        "lng": -72.61169,
+        "location": "Cruce Q-630 (Las Nieves) - El Parr\u00f3n - Perigallo, Butataro, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.04441,
+        "lng": -72.61926,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.04569,
+        "lng": -72.61304,
+        "location": "Cruce Q-630 (Las Nieves) - El Parr\u00f3n - Perigallo, Butataro, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.05866,
+        "lng": -72.63025999999999,
+        "location": "Traigu\u00e9n, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.05989,
+        "lng": -72.62434,
+        "location": "Traigu\u00e9n, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.05729,
+        "lng": -72.63094,
+        "location": "Traigu\u00e9n, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.05855,
+        "lng": -72.62504,
+        "location": "Traigu\u00e9n, Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.10109,
+        "lng": -72.61944,
+        "location": "Yumbel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Yumbel"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.97663,
+        "lng": -72.21871999999999,
+        "location": "Asentamiento El Progreso, El Progreso, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -37.97781,
+        "lng": -72.21295,
+        "location": "Asentamiento El Progreso, El Progreso, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -38.05613,
+        "lng": -72.23354,
+        "location": "Libertad Campesina, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -38.05732,
+        "lng": -72.22775,
+        "location": "Libertad Campesina, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -38.05987,
+        "lng": -72.23473,
+        "location": "Libertad Campesina, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -38.06106,
+        "lng": -72.22894000000001,
+        "location": "Libertad Campesina, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -38.28059,
+        "lng": -72.15696,
+        "location": "Quino Norte, Victoria, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Victoria"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -38.21515,
+        "lng": -72.72972,
+        "location": "Traigu\u00e9n - Lumaco - Capit\u00e1n Pastene - Quidico, sector: Traigu\u00e9n - L\u00edmite Regional, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -38.21895,
+        "lng": -72.73098,
+        "location": "Traigu\u00e9n - Lumaco - Capit\u00e1n Pastene - Quidico, sector: Traigu\u00e9n - L\u00edmite Regional, Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -38.73388,
+        "lng": -72.31244000000001,
+        "location": "Comunidad Juan Pichunleo, Vilc\u00fan, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Vilc\u00fan"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -38.83363,
+        "lng": -73.06152,
+        "location": "Llaullauqu\u00e9n, Nueva Imperial, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Nueva Imperial"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -41.27869,
+        "lng": -73.59273,
+        "location": "Fresia, Provincia de Llanquihue, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "LLANQUIHUE",
+        "comuna": "Fresia"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -23.78236,
+        "lng": -70.3185,
+        "location": "Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -26.42995,
+        "lng": -69.47665,
+        "location": "Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-03-16",
+        "lat": -26.43402,
+        "lng": -69.47736,
+        "location": "Bernardo O'Higgins, Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    }
+]
