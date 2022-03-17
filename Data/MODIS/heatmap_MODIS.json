@@ -6890,6 +6890,45 @@
             "properties": {
                 "acq_date": "2022-03-17"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.59357,
+                    -38.887570000000004
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.60167,
+                    -38.8848
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.38641,
+                    -38.35877
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-17"
+            }
         }
     ]
 }
