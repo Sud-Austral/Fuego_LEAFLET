@@ -1,1 +1,452 @@
-[]
+[
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.61979,
+        "lng": -73.45456,
+        "location": "Vigueras, Los \u00c1lamos, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, 4380000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Los \u00c1lamos"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.61992,
+        "lng": -73.45223,
+        "location": "Vigueras, Los \u00c1lamos, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, 4380000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Los \u00c1lamos"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.61793,
+        "lng": -73.45868,
+        "location": "Ram\u00f3n Freire, Los \u00c1lamos, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Los \u00c1lamos"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.98546,
+        "lng": -72.35765,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.98713,
+        "lng": -72.35200999999999,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.98879,
+        "lng": -72.34638000000001,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.99132,
+        "lng": -72.3604,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.993,
+        "lng": -72.35471,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.99466,
+        "lng": -72.3491,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -38.03299000000001,
+        "lng": -72.40021,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -38.03468,
+        "lng": -72.39442,
+        "location": "Ercilla - Chocombe Grande, Chocombre Grande, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -38.0405,
+        "lng": -72.39733000000001,
+        "location": "Ruta 5 Sur, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -38.03214000000001,
+        "lng": -72.40029,
+        "location": "Pidima, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -38.03386,
+        "lng": -72.39454,
+        "location": "Ercilla - Chocombe Grande, Chocombre Grande, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -38.03968,
+        "lng": -72.3974,
+        "location": "Ruta 5 Sur, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -38.43508,
+        "lng": -72.54284,
+        "location": "Perquenco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Perquenco"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -38.51659,
+        "lng": -72.58238,
+        "location": "Coihueco, Lautaro, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Lautaro"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -38.51817,
+        "lng": -72.57703000000001,
+        "location": "Comunidad Nicol\u00e1s Leiva, Lautaro, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Lautaro"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -32.79721,
+        "lng": -70.95544,
+        "location": "Galvarino, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -34.1061,
+        "lng": -70.4595,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -34.10413,
+        "lng": -70.4623,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -34.10575,
+        "lng": -70.4566,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -23.77785,
+        "lng": -70.32086,
+        "location": "Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -23.78279,
+        "lng": -70.32155999999999,
+        "location": "Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -23.82352,
+        "lng": -70.31498,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -23.82287,
+        "lng": -70.3212,
+        "location": "Acceso Fundici\u00f3n Altonorte, Fundici\u00f3n Altonorte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -23.82448,
+        "lng": -70.3157,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -28.47993,
+        "lng": -71.24869,
+        "location": "Villa Guacolda, Huasco, Provincia de Huasco, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "HUASCO",
+        "comuna": "Huasco"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -32.80074,
+        "lng": -70.95336999999999,
+        "location": "Autopista Los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -32.78732,
+        "lng": -71.486,
+        "location": "Central Quintero, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -33.29723,
+        "lng": -70.73116,
+        "location": "Ruta 5 Norte, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -33.29751,
+        "lng": -70.72721,
+        "location": "Autopista Nororiente, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -34.10296,
+        "lng": -70.45788,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -34.10852,
+        "lng": -70.45729,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -36.21907,
+        "lng": -71.44363,
+        "location": "Cruce L-551 (Chalet Quemado) - Lomas de V\u00e1squez, Loma de V\u00e1squez, Longav\u00ed, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Longav\u00ed"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -36.21932,
+        "lng": -71.4399,
+        "location": "Cruce L-551 (Chalet Quemado) - Lomas de V\u00e1squez, Loma de V\u00e1squez, Longav\u00ed, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Longav\u00ed"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.47261,
+        "lng": -72.38934,
+        "location": "Planta de Tratamiento de Aguas Servidas Los \u00c1ngeles, Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 8340422, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.62129,
+        "lng": -73.45614,
+        "location": "Vigueras, Los \u00c1lamos, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, 4380000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Los \u00c1lamos"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.98654000000001,
+        "lng": -72.35733,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.98678,
+        "lng": -72.35353,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.98703,
+        "lng": -72.34973000000001,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.99191,
+        "lng": -72.35414,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.99216,
+        "lng": -72.35033,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.99166,
+        "lng": -72.35793000000001,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.99241,
+        "lng": -72.34653,
+        "location": "Comunidad Caill\u00edn, Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -37.99728,
+        "lng": -72.35095,
+        "location": "Collipulli, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -38.04064,
+        "lng": -72.39721,
+        "location": "Ruta 5 Sur, Ercilla, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Ercilla"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -38.51942,
+        "lng": -72.5783,
+        "location": "Comunidad Nicol\u00e1s Leiva, Lautaro, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Lautaro"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -38.83331,
+        "lng": -73.06219,
+        "location": "Llaullauqu\u00e9n, Nueva Imperial, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Nueva Imperial"
+    },
+    {
+        "acq_date": "2022-03-18",
+        "lat": -39.49869,
+        "lng": -72.58185999999999,
+        "location": "Cruce Ruta 203 CH (La Pe\u00f1a) - Cruce T-125 (Lumaco), Comunidad Pochoco, Lanco, Provincia de Valdivia, Regi\u00f3n de Los R\u00edos, Chile",
+        "region": "REGI\u00d3N DE LOS R\u00cdOS",
+        "provincia": "VALDIVIA",
+        "comuna": "Lanco"
+    }
+]
