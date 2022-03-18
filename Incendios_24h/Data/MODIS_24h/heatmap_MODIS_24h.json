@@ -78,6 +78,84 @@
             "properties": {
                 "acq_date": "2022-03-18"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.34701,
+                    -38.01612
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.53699999999999,
+                    -38.42733
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.50708,
+                    -38.43433
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.43948,
+                    -38.5094
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.44474,
+                    -38.52299
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.44682,
+                    -38.51318
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-18"
+            }
         }
     ]
 }
