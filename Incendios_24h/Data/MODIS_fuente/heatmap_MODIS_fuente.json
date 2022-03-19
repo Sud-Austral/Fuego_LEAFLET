@@ -29783,6 +29783,32 @@
             "properties": {
                 "acq_date": "2022-03-18"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.68603,
+                    -33.15334
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.68757,
+                    -33.14271
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-19"
+            }
         }
     ]
 }
