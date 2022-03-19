@@ -195,6 +195,45 @@
             "properties": {
                 "acq_date": "2022-03-19"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.97628,
+                    -28.2021
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.26357,
+                    -27.41618
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.26333000000001,
+                    -27.41631
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-19"
+            }
         }
     ]
 }
