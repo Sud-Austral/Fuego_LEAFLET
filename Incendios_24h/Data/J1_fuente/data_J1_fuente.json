@@ -61801,5 +61801,41 @@
         "region": "REGI\u00d3N DE ATACAMA",
         "provincia": "COPIAP\u00d3",
         "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-03-21",
+        "lat": -36.73822,
+        "lng": -73.09904,
+        "location": "Err\u00e1zuriz, Santa Clara, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-03-21",
+        "lat": -35.26064,
+        "lng": -70.70094,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-21",
+        "lat": -34.10971,
+        "lng": -70.45489,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-21",
+        "lat": -23.82626,
+        "lng": -70.31373,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
     }
 ]
