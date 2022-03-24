@@ -1508,6 +1508,19 @@
             "properties": {
                 "acq_date": "2022-03-23"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.45116,
+                    -34.10204
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-24"
+            }
         }
     ]
 }
