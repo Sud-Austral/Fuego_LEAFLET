@@ -2080,6 +2080,32 @@
             "properties": {
                 "acq_date": "2022-03-27"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.45519,
+                    -38.29891
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.45676,
+                    -38.28607
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-27"
+            }
         }
     ]
 }
