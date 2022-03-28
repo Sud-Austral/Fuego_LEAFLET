@@ -1,1 +1,632 @@
-[]
+[
+    {
+        "acq_date": "2022-03-28",
+        "lat": -27.4139,
+        "lng": -70.26218,
+        "location": "Cruce Ruta 31 CH - Fundici\u00f3n Paipote - Cruce C-33, Tierra Amarilla, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -32.79865,
+        "lng": -70.95144,
+        "location": "Camino San Jos\u00e9, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -32.75727,
+        "lng": -71.47973,
+        "location": "Cruce Ruta 5 (Quinquimo) - Papudo - Cruce Ruta 64 (Re\u00f1aca Alto), Loncura Bajo, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -32.75845,
+        "lng": -71.47516999999999,
+        "location": "Cruce Ruta 5 (Quinquimo) - Papudo - Cruce Ruta 64 (Re\u00f1aca Alto), Loncura Bajo, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -32.75918,
+        "lng": -71.47896999999999,
+        "location": "Cruce Ruta 5 (Quinquimo) - Papudo - Cruce Ruta 64 (Re\u00f1aca Alto), Loncura Bajo, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -34.10348,
+        "lng": -70.4576,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -34.1044,
+        "lng": -70.45393,
+        "location": "Fundicion de Caletones, Tramo 3, Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.05833,
+        "lng": -71.05466,
+        "location": "Romeral, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Romeral"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.05944,
+        "lng": -71.0503,
+        "location": "Romeral, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Romeral"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.06363,
+        "lng": -71.05595,
+        "location": "Romeral, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Romeral"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.06458,
+        "lng": -71.05221999999999,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.06545999999999,
+        "lng": -71.04874000000001,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.06633,
+        "lng": -71.04533,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07041,
+        "lng": -71.05142,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07116,
+        "lng": -71.04849,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07199,
+        "lng": -71.0452,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.06874000000001,
+        "lng": -71.058,
+        "location": "Romeral, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Romeral"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.0696,
+        "lng": -71.05458,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07292,
+        "lng": -71.04157,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07694,
+        "lng": -71.0479,
+        "location": "La Packing, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07373,
+        "lng": -71.0605,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07456,
+        "lng": -71.05723,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07537,
+        "lng": -71.05404,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07615,
+        "lng": -71.05096999999999,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07857,
+        "lng": -71.06361,
+        "location": "El Holl\u00edn, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07944000000001,
+        "lng": -71.06017,
+        "location": "El Holl\u00edn, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.08029000000001,
+        "lng": -71.05686,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.08334,
+        "lng": -71.06707,
+        "location": "El Holl\u00edn, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.08428,
+        "lng": -71.06331999999999,
+        "location": "El Holl\u00edn, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.08235999999999,
+        "lng": -71.07093,
+        "location": "Cruce J-645 - El Holl\u00edn Al Rinc\u00f3n, El Holl\u00edn, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.08518,
+        "lng": -71.05978,
+        "location": "La Packing, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07759,
+        "lng": -71.06268,
+        "location": "El Holl\u00edn, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.07845,
+        "lng": -71.05935,
+        "location": "El Holl\u00edn, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.0793,
+        "lng": -71.05606,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.08015,
+        "lng": -71.05282,
+        "location": "La Packing, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.08234,
+        "lng": -71.06608,
+        "location": "El Holl\u00edn, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.0833,
+        "lng": -71.0624,
+        "location": "El Holl\u00edn, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.08134,
+        "lng": -71.06995,
+        "location": "El Holl\u00edn, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.08419,
+        "lng": -71.05895,
+        "location": "La Packing, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.08716,
+        "lng": -71.06923,
+        "location": "Manzanares camping, Cruce J-645 - El Holl\u00edn Al Rinc\u00f3n, El Holl\u00edn, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.14713,
+        "lng": -72.79983,
+        "location": "Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.1483,
+        "lng": -72.79542,
+        "location": "Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.47393,
+        "lng": -72.7085,
+        "location": "Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.47507,
+        "lng": -72.70421999999999,
+        "location": "Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.46791,
+        "lng": -72.81607,
+        "location": "Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 5030000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.46902,
+        "lng": -72.81192,
+        "location": "Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 5030000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.47301,
+        "lng": -72.81837,
+        "location": "Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 5030000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.4741,
+        "lng": -72.81432,
+        "location": "Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 5030000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -52.38565,
+        "lng": -68.41856999999999,
+        "location": "Hito II-I Punta Dungeness, Cruce Ruta 255 CH - Punta Dungeness, Dungeness, San Gregorio, Provincia de Magallanes, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "MAGALLANES",
+        "comuna": "San Gregorio"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -52.38534,
+        "lng": -68.41973,
+        "location": "Cruce Ruta 255 CH - Punta Dungeness, Dungeness, San Gregorio, Provincia de Magallanes, Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+        "region": "REGI\u00d3N DE MAGALLANES Y DE LA ANT\u00c1RTICA CHILENA",
+        "provincia": "MAGALLANES",
+        "comuna": "San Gregorio"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -23.82108,
+        "lng": -70.31716999999999,
+        "location": "Acceso Fundici\u00f3n Altonorte, Fundici\u00f3n Altonorte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -27.4169,
+        "lng": -70.2598,
+        "location": "Cha\u00f1arcillo, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -32.80193,
+        "lng": -70.95193,
+        "location": "Autopista Los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -34.10584,
+        "lng": -70.46271999999999,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -34.10609,
+        "lng": -70.45689,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -34.10489,
+        "lng": -70.46257,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -34.10511,
+        "lng": -70.45668,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.06932,
+        "lng": -71.05569,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.0758,
+        "lng": -71.05358000000001,
+        "location": "Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -35.0817,
+        "lng": -71.06538,
+        "location": "El Holl\u00edn, Curic\u00f3, Provincia de Curic\u00f3, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CURIC\u00d3",
+        "comuna": "Curic\u00f3"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -37.31683,
+        "lng": -73.4801,
+        "location": "Cruce P-40 (Los Chupones) - Lingue - Cruce P-348 (Merilupo), El Lingue, Arauco, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Arauco"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -37.31709,
+        "lng": -73.47536,
+        "location": "Lenco, Arauco, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Arauco"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -37.31275,
+        "lng": -73.47601999999999,
+        "location": "Cruce P-364 (El Lingue) - Virihue, Birihue, Arauco, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Arauco"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -37.31251,
+        "lng": -73.4808,
+        "location": "Cruce P-364 (El Lingue) - Virihue, Birihue, Arauco, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Arauco"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.15248,
+        "lng": -72.80064,
+        "location": "Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.15225,
+        "lng": -72.80595,
+        "location": "Lumaco, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Lumaco"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.47075,
+        "lng": -72.8159,
+        "location": "Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 5030000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.46778,
+        "lng": -72.81232,
+        "location": "Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 5030000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.47354,
+        "lng": -72.81803000000001,
+        "location": "Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 5030000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    },
+    {
+        "acq_date": "2022-03-28",
+        "lat": -38.47374,
+        "lng": -72.81264,
+        "location": "Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 5030000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    }
+]
