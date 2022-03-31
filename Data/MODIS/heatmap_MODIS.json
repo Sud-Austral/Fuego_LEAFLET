@@ -3328,6 +3328,45 @@
             "properties": {
                 "acq_date": "2022-03-31"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.4454,
+                    -34.109809999999996
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.45119,
+                    -34.10472
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.39681999999999,
+                    -37.03846
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-03-31"
+            }
         }
     ]
 }
