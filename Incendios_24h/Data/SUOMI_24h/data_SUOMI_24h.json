@@ -196,5 +196,77 @@
         "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
         "provincia": "MALLECO",
         "comuna": "Collipulli"
+    },
+    {
+        "acq_date": "2022-04-03",
+        "lat": -27.422,
+        "lng": -70.25506999999999,
+        "location": "Cruce Ruta 31 CH - Fundici\u00f3n Paipote - Cruce C-33, Tierra Amarilla, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-04-03",
+        "lat": -23.82226,
+        "lng": -70.31539000000001,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-03",
+        "lat": -23.82349,
+        "lng": -70.31653,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-03",
+        "lat": -22.48904,
+        "lng": -68.84212,
+        "location": "Parque Fotovoltaico Usya, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-04-03",
+        "lat": -22.48187,
+        "lng": -68.84323,
+        "location": "Parque Fotovoltaico Usya, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-04-03",
+        "lat": -35.94978,
+        "lng": -72.33415,
+        "location": "Llanquihue, Villa Las Estrellas, Cauquenes, Provincia de Cauquenes, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CAUQUENES",
+        "comuna": "Cauquenes"
+    },
+    {
+        "acq_date": "2022-04-03",
+        "lat": -35.13194,
+        "lng": -71.76801,
+        "location": "Curepto, Provincia de Talca, Regi\u00f3n del Maule, 3570000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Curepto"
+    },
+    {
+        "acq_date": "2022-04-03",
+        "lat": -34.10918,
+        "lng": -70.45725,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
     }
 ]
