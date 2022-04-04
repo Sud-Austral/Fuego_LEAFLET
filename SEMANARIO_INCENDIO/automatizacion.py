@@ -106,6 +106,7 @@ def getJSON(fuente):
         json.dump(salida, file, indent=4)
     with open(f'Data/{fuente[1]}/data_{fuente[1]}.json', 'w') as file:
         json.dump(features2, file, indent=4)
+    print(f"Se descargo la fuente {fuente}")
     return True
 
 def proceso():
@@ -119,6 +120,7 @@ def proceso():
         file = f'Data/{ruta}/Puntos_Diarios_{ruta}.csv'
         dfaux = pd.read_csv(file)
         dfaux["Fuente"] =  ruta
+        dfaux.to_excel()
         salida.append(dfaux)
     pd.concat(salida).to_excel("Data/Consolidado/ConsolidadoPuntosCalor.xlsx", index=False)
     return
