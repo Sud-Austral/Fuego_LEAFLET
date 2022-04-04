@@ -109,6 +109,24 @@ def getJSON(fuente):
     print(f"Se descargo la fuente {fuente}")
     return True
 
+def getJSON2(df,fuente):
+    features = []
+    features2 = []
+    for i, j in df.iterrows():
+        f = {'type': 'Feature', \
+            'geometry': {'type': 'Point', 'coordinates': [j["longitude"], j["latitude"]]}, \
+            'properties': {'acq_date': j["acq_date"]}}
+        features.append(f.copy())
+        f = {'acq_date': j["acq_date"],"lat":j["latitude"],"lng":j["longitude"]}
+        features2.append(f.copy())
+    salida = {"type":"FeatureCollection","features":features}
+    with open(f'Data/{fuente}/heatmap_{fuente}.json', 'w') as file:
+        json.dump(salida, file, indent=4)
+    with open(f'Data/{fuente}/data_{fuente}.json', 'w') as file:
+        json.dump(features2, file, indent=4)
+    print(f"Se descargo la fuente {fuente}")
+    return True
+
 def proceso():
     for i in fuentes:
         #descarga(i)
@@ -136,6 +154,7 @@ def saveConsolidado():
     for i in fuentes:
         dfaux = pd.read_csv(i[0])
         dfaux["Fuente"] = i[1]
+        getJSON2(dfaux,i[1])
         salida2.append(dfaux)
 
     consolidadoUpdate = pd.concat(salida2)
