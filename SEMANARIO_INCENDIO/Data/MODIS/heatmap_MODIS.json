@@ -49101,6 +49101,45 @@
             "properties": {
                 "acq_date": "2022-04-05"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.20382,
+                    -0.12261
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.20532,
+                    -0.11239
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.21751,
+                    -0.1141
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-05"
+            }
         }
     ]
 }
