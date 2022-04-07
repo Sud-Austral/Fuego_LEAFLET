@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "acq_date": "2022-04-07",
+        "lat": -32.75819,
+        "lng": -71.46733,
+        "location": "Los Maitenes, Puchuncav\u00ed, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Puchuncav\u00ed"
+    },
+    {
+        "acq_date": "2022-04-07",
+        "lat": -32.76479,
+        "lng": -71.47489,
+        "location": "Cruce F-30-E - Los Maitenes, Los Maitenes, Ventanas, Puchuncav\u00ed, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "Ventanas"
+    },
+    {
+        "acq_date": "2022-04-07",
+        "lat": -34.10899000000001,
+        "lng": -70.4534,
+        "location": "Tramo 3, Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-04-07",
+        "lat": -37.46324,
+        "lng": -72.37613,
+        "location": "Lago Vichuqu\u00e9n, Poblaci\u00f3n Lo Elvira, Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 8340422, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    }
+]
