@@ -88,5 +88,32 @@
         "region": "REGI\u00d3N DE ATACAMA",
         "provincia": "COPIAP\u00d3",
         "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-04-08",
+        "lat": -34.10917,
+        "lng": -70.45688,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-04-08",
+        "lat": -36.2361,
+        "lng": -70.67374000000001,
+        "location": "Colb\u00fan, Provincia de Linares, Regi\u00f3n del Maule, 3610000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Colb\u00fan"
+    },
+    {
+        "acq_date": "2022-04-08",
+        "lat": -40.38287,
+        "lng": -73.18200999999999,
+        "location": "San Pablo, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "San Pablo"
     }
 ]

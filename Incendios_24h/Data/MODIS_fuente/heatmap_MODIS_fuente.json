@@ -34190,6 +34190,45 @@
             "properties": {
                 "acq_date": "2022-04-08"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.45688,
+                    -34.10917
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67374000000001,
+                    -36.2361
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.18200999999999,
+                    -40.38287
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-08"
+            }
         }
     ]
 }
