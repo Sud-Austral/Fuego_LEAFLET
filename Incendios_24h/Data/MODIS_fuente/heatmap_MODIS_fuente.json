@@ -34333,6 +34333,32 @@
             "properties": {
                 "acq_date": "2022-04-11"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.39761999999999,
+                    -37.4
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.40827,
+                    -37.40791
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-12"
+            }
         }
     ]
 }
