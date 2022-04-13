@@ -90727,5 +90727,482 @@
         "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
         "provincia": "CAUT\u00cdN",
         "comuna": "Padre Las Casas"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -33.29638,
+        "lng": -70.7282,
+        "location": "Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -33.10213,
+        "lng": -70.86444,
+        "location": "Los Aromos, Tiltil, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Tiltil"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -32.80307,
+        "lng": -70.95268,
+        "location": "Autopista Los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -29.13196,
+        "lng": -70.89301,
+        "location": "La Higuera, Provincia de Elqui, Regi\u00f3n de Coquimbo, Chile",
+        "region": "REGI\u00d3N DE COQUIMBO",
+        "provincia": "ELQUI",
+        "comuna": "La Higuera"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -29.13255,
+        "lng": -70.89784,
+        "location": "La Higuera, Provincia de Elqui, Regi\u00f3n de Coquimbo, Chile",
+        "region": "REGI\u00d3N DE COQUIMBO",
+        "provincia": "ELQUI",
+        "comuna": "La Higuera"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -23.82651,
+        "lng": -70.31544,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -23.8231,
+        "lng": -70.31602,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -22.31794,
+        "lng": -68.87804,
+        "location": "Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -22.31851,
+        "lng": -68.88176999999999,
+        "location": "zona enfriador peque\u00f1o, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -22.01289,
+        "lng": -68.76066999999999,
+        "location": "Mina El Abra, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -19.31024,
+        "lng": -69.02885,
+        "location": "Colchane, Provincia del Tamarugal, Regi\u00f3n de Tarapac\u00e1, Chile",
+        "region": "REGI\u00d3N DE TARAPAC\u00c1",
+        "provincia": "TAMARUGAL",
+        "comuna": "Colchane"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -18.72708,
+        "lng": -69.23265,
+        "location": "Putre, Provincia de Parinacota, Regi\u00f3n de Arica y Parinacota, Chile",
+        "region": "REGI\u00d3N DE ARICA Y PARINACOTA",
+        "provincia": "PARINACOTA",
+        "comuna": "Putre"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -42.42255,
+        "lng": -73.5387,
+        "location": "Curaco de V\u00e9lez, Provincia de Chilo\u00e9, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "CHILO\u00c9",
+        "comuna": "Curaco de V\u00e9lez"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -40.9054,
+        "lng": -73.10085,
+        "location": "Purranque, Provincia de Osorno, Regi\u00f3n de Los Lagos, 506202, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "Purranque"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -40.90111,
+        "lng": -73.10791,
+        "location": "Purranque, Provincia de Osorno, Regi\u00f3n de Los Lagos, 506202, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "Purranque"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -40.89635999999999,
+        "lng": -73.10851,
+        "location": "Cruce Ruta 5 (Enlace Purranque) - Coihueco, Carrasco, Oromo, Purranque, Provincia de Osorno, Regi\u00f3n de Los Lagos, 506202, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "Purranque"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -40.29533,
+        "lng": -72.99817,
+        "location": "Comuna de La Uni\u00f3n, Provincia de Ranco, Regi\u00f3n de Los R\u00edos, Chile",
+        "region": "REGI\u00d3N DE LOS R\u00cdOS",
+        "provincia": "RANCO",
+        "comuna": "Comuna de La Uni\u00f3n"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -40.29369000000001,
+        "lng": -72.9998,
+        "location": "Comuna de La Uni\u00f3n, Provincia de Ranco, Regi\u00f3n de Los R\u00edos, Chile",
+        "region": "REGI\u00d3N DE LOS R\u00cdOS",
+        "provincia": "RANCO",
+        "comuna": "Comuna de La Uni\u00f3n"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -38.97928,
+        "lng": -72.2866,
+        "location": "Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -38.97679,
+        "lng": -72.28761999999999,
+        "location": "Fundo La Sombra - Choroico, Choroico - Santa Isabel, Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -38.5195,
+        "lng": -72.51486,
+        "location": "Fundo Los Pinos, Lautaro, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Lautaro"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.72223,
+        "lng": -72.17804,
+        "location": "El Aromo, Mulch\u00e9n, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Mulch\u00e9n"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.72223,
+        "lng": -72.17804,
+        "location": "El Aromo, Mulch\u00e9n, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Mulch\u00e9n"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.64598,
+        "lng": -72.21783,
+        "location": "Quitralm\u00e1n, Mulch\u00e9n, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Mulch\u00e9n"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.64598,
+        "lng": -72.21783,
+        "location": "Quitralm\u00e1n, Mulch\u00e9n, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Mulch\u00e9n"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.62072,
+        "lng": -71.98647,
+        "location": "Los Lirios, Santa B\u00e1rbara, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Santa B\u00e1rbara"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.61643,
+        "lng": -71.98724,
+        "location": "Villa Corcovado, Santa B\u00e1rbara, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Santa B\u00e1rbara"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.53105,
+        "lng": -71.25711,
+        "location": "Antuco, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Antuco"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.5159,
+        "lng": -71.2741,
+        "location": "Antuco, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Antuco"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.6001,
+        "lng": -72.19809000000001,
+        "location": "Cruce Ruta 5 (San Carlos de Pur\u00e9n) - Cruce Q-61 (Ma\u00f1il), Ma\u00f1il Bajo, Santa B\u00e1rbara, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Santa B\u00e1rbara"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.48088,
+        "lng": -72.54288000000001,
+        "location": "Coyanco, Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.35349,
+        "lng": -71.22936999999999,
+        "location": "Antuco, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Antuco"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.45059000000001,
+        "lng": -72.2536,
+        "location": "Cruce Ruta 177 (Los \u00c1ngeles) - Antuco - Laguna Laja - Paso Pichach\u00e9n, Las Lomas, Ceala, Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 4440000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.45106,
+        "lng": -72.25879,
+        "location": "Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.34938,
+        "lng": -71.22999,
+        "location": "Antuco, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Antuco"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.2456,
+        "lng": -73.3981,
+        "location": "Cruce Ruta 160 (Carampangue) - Arauco - Llico - Punta Lavapi\u00e9, Curaquilla, Arauco, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Arauco"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -36.95016,
+        "lng": -71.2064,
+        "location": "Coihueco, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "Coihueco"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -37.01750999999999,
+        "lng": -72.02192,
+        "location": "Pemuco, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pemuco"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -36.89322,
+        "lng": -71.82933,
+        "location": "El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -36.89369,
+        "lng": -71.83422,
+        "location": "El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -36.77111,
+        "lng": -71.88976,
+        "location": "Cruce N-609 (Lluanco) - Tejer\u00eda - Santo Domingo, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -36.76687,
+        "lng": -71.89041999999999,
+        "location": "Cruce N-609 (Lluanco) - Tejer\u00eda - Santo Domingo, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -36.56479,
+        "lng": -71.95146,
+        "location": "Capilla, Chill\u00e1n, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Chill\u00e1n"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -36.56525,
+        "lng": -71.95626999999999,
+        "location": "Capilla, Capilla Cox, Chill\u00e1n, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Chill\u00e1n"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -36.51765,
+        "lng": -71.95335,
+        "location": "San Carlos, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Carlos"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -36.51430999999999,
+        "lng": -71.96361999999999,
+        "location": "San Carlos, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Carlos"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -36.5115,
+        "lng": -71.9608,
+        "location": "San Carlos, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Carlos"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -36.51197,
+        "lng": -71.96562,
+        "location": "San Carlos, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Carlos"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -36.34219,
+        "lng": -71.06365,
+        "location": "Colb\u00fan, Provincia de Linares, Regi\u00f3n del Maule, 3610000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Colb\u00fan"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -35.63615,
+        "lng": -71.53182,
+        "location": "Camino Vecinal, Nuevo Amanecer, Las Acacias, Yerbas Buenas, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Yerbas Buenas"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -35.52569,
+        "lng": -71.65478,
+        "location": "Maule, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Maule"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -35.52157,
+        "lng": -71.65539,
+        "location": "Callejones, Maule, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Maule"
+    },
+    {
+        "acq_date": "2022-04-13",
+        "lat": -35.52415999999999,
+        "lng": -71.65818,
+        "location": "Maule, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Maule"
     }
 ]
