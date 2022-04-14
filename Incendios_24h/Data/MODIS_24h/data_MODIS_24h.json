@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "acq_date": "2022-04-14",
+        "lat": -36.57757,
+        "lng": -72.02194,
+        "location": "Chill\u00e1n, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Chill\u00e1n"
+    },
+    {
+        "acq_date": "2022-04-14",
+        "lat": -36.57964,
+        "lng": -71.98678000000001,
+        "location": "Santa Guiselle, Coihueco, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "Coihueco"
+    },
+    {
+        "acq_date": "2022-04-14",
+        "lat": -36.70494,
+        "lng": -71.83125,
+        "location": "Villa Amanecer, Coihueco, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "Coihueco"
+    },
+    {
+        "acq_date": "2022-04-14",
+        "lat": -37.46635,
+        "lng": -72.36726,
+        "location": "Liceo Camilo Henr\u00edquez, Galvarino, Villa Lomas de Santa Mar\u00eda, Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 8340422, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-04-14",
+        "lat": -32.79882,
+        "lng": -70.95467,
+        "location": "Galvarino, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    }
+]
