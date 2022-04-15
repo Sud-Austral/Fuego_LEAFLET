@@ -133055,6 +133055,45 @@
             "properties": {
                 "acq_date": "2022-04-15"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.32314000000001,
+                    -23.78193
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.32058,
+                    -23.82568
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.32029,
+                    -23.7832
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-15"
+            }
         }
     ]
 }
