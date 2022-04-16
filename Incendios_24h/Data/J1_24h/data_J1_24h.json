@@ -214,5 +214,392 @@
         "region": "REGI\u00d3N DE ANTOFAGASTA",
         "provincia": "ANTOFAGASTA",
         "comuna": "Taltal"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -35.23271,
+        "lng": -71.24064,
+        "location": "Ruta Mercedes Santa Rosa, Santa Rosa, R\u00edo Claro, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "R\u00edo Claro"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -32.80283,
+        "lng": -70.95124,
+        "location": "Autopista Los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -23.82344,
+        "lng": -70.31477,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -22.31778,
+        "lng": -68.8839,
+        "location": "zona enfriador peque\u00f1o, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -19.67679,
+        "lng": -68.6553,
+        "location": "Colchane, Provincia del Tamarugal, Regi\u00f3n de Tarapac\u00e1, Chile",
+        "region": "REGI\u00d3N DE TARAPAC\u00c1",
+        "provincia": "TAMARUGAL",
+        "comuna": "Colchane"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -17.71259,
+        "lng": -69.62546999999999,
+        "location": "General Lagos, Provincia de Parinacota, Regi\u00f3n de Arica y Parinacota, Chile",
+        "region": "REGI\u00d3N DE ARICA Y PARINACOTA",
+        "provincia": "PARINACOTA",
+        "comuna": "General Lagos"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -41.48574,
+        "lng": -73.15751999999999,
+        "location": "San Antonio - R\u00edo Gato, Puerto Montt, Provincia de Llanquihue, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "LLANQUIHUE",
+        "comuna": "Puerto Montt"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -41.48596,
+        "lng": -73.16162,
+        "location": "Puerto Montt, Provincia de Llanquihue, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "LLANQUIHUE",
+        "comuna": "Puerto Montt"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -41.48999,
+        "lng": -73.15722,
+        "location": "Puerto Montt, Provincia de Llanquihue, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "LLANQUIHUE",
+        "comuna": "Puerto Montt"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -41.48481,
+        "lng": -73.15777,
+        "location": "San Antonio - R\u00edo Gato, Puerto Montt, Provincia de Llanquihue, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "LLANQUIHUE",
+        "comuna": "Puerto Montt"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -40.49606,
+        "lng": -73.15009,
+        "location": "Chacayal - Caracol - Quilacoya, San Pablo, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "San Pablo"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -40.49582,
+        "lng": -73.14622,
+        "location": "Pincoy - Chacayal, Estaci\u00f3n Chacayal, Osorno, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "Osorno"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -39.36353,
+        "lng": -72.1212,
+        "location": "Llau Lllau - El Pirao, Conquil, Villarrica, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Villarrica"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -39.12972,
+        "lng": -72.53291999999999,
+        "location": "Cuarta Faja, Gorbea, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Gorbea"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -39.12972,
+        "lng": -72.53291999999999,
+        "location": "Cuarta Faja, Gorbea, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Gorbea"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.81419,
+        "lng": -72.37873,
+        "location": "Vilc\u00fan, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Vilc\u00fan"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.81466,
+        "lng": -72.38548,
+        "location": "Vilc\u00fan, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Vilc\u00fan"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.81178,
+        "lng": -72.38644000000001,
+        "location": "Vilc\u00fan, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Vilc\u00fan"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.7435,
+        "lng": -72.32008,
+        "location": "Comunidad Juan Pichunleo, Vilc\u00fan, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Vilc\u00fan"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.74398,
+        "lng": -72.32672,
+        "location": "Codinhue - El Tesoro - La Granja, Codinhue, Vilc\u00fan, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Vilc\u00fan"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.65294,
+        "lng": -72.33001,
+        "location": "Vilc\u00fan, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Vilc\u00fan"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.65343,
+        "lng": -72.33667,
+        "location": "Comunidad Santo Curinao, Vilc\u00fan, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Vilc\u00fan"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.52146,
+        "lng": -72.51396,
+        "location": "Fundo Los Pinos, Lautaro, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Lautaro"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.52193,
+        "lng": -72.52076,
+        "location": "Fundo Los Pinos, Lautaro, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Lautaro"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.51659,
+        "lng": -72.51456,
+        "location": "Cruce Ruta 5 - Galvarino, Los Pinos, Lautaro, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, 4860000, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Lautaro"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.34385,
+        "lng": -72.3082,
+        "location": "Pua - Selva Oscura por El Salto, El Molino, Victoria, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Victoria"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.17602,
+        "lng": -72.74622,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.0583,
+        "lng": -71.06165,
+        "location": "Alto Biob\u00edo, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Alto Biob\u00edo"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -38.17942,
+        "lng": -72.74633,
+        "location": "Traigu\u00e9n, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Traigu\u00e9n"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -37.5276,
+        "lng": -71.27866,
+        "location": "Antuco, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Antuco"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -37.52803,
+        "lng": -71.28366,
+        "location": "Antuco, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Antuco"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -37.51835999999999,
+        "lng": -71.27674,
+        "location": "Antuco, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Antuco"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -37.43354,
+        "lng": -71.23743,
+        "location": "Antuco, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Antuco"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -37.43171,
+        "lng": -71.2404,
+        "location": "Antuco, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Antuco"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -37.08456,
+        "lng": -71.82961999999999,
+        "location": "Yungay, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Yungay"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -36.89431,
+        "lng": -71.86994,
+        "location": "El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -36.81358,
+        "lng": -71.89358,
+        "location": "Cruce N-59-Q (Variante San Ignacio) - San Ignacio - Cruce N-681 (Puente Zapallar), San Miguel, San Ignacio, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "San Ignacio"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -36.80897,
+        "lng": -71.89418,
+        "location": "Cruce N-607 (Los Maquis) - Las Cifuentes - Cruce N-621 (Paso El Mudo), San Ignacio, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "San Ignacio"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -36.80195,
+        "lng": -71.86541,
+        "location": "Cruce N-605 (La Callana) - Lluanco - Los Canelos - Cruce N-655 (Mayulermo), Los Canelos, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -36.79736,
+        "lng": -71.86607,
+        "location": "Cruce N-605 (La Callana) - Lluanco - Los Canelos - Cruce N-655 (Mayulermo), Los Canelos, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -36.77542,
+        "lng": -71.94046,
+        "location": "Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -36.04126,
+        "lng": -71.71392,
+        "location": "Paine, Longav\u00ed, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Longav\u00ed"
+    },
+    {
+        "acq_date": "2022-04-16",
+        "lat": -36.03674,
+        "lng": -71.71452,
+        "location": "Paine, Longav\u00ed, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Longav\u00ed"
     }
 ]
