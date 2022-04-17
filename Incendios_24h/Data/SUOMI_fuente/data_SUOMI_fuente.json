@@ -93562,5 +93562,356 @@
         "region": "REGI\u00d3N DE ANTOFAGASTA",
         "provincia": "ANTOFAGASTA",
         "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -34.10544,
+        "lng": -70.45464,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -34.10804,
+        "lng": -70.44628,
+        "location": "Tramo 3, Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -34.1079,
+        "lng": -70.45505,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -34.11075,
+        "lng": -70.44605,
+        "location": "Tramo 3, Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -36.94231,
+        "lng": -71.93085,
+        "location": "Cruce N-777 (El Carmen) - San Isidro - Cruce N-825 (Lo Franco), Nueva Vida, San Isidro Alto, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -38.05545,
+        "lng": -71.0768,
+        "location": "Alto Biob\u00edo, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Alto Biob\u00edo"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -38.05758,
+        "lng": -71.07,
+        "location": "Alto Biob\u00edo, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Alto Biob\u00edo"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -38.96695,
+        "lng": -72.25956,
+        "location": "Los Laureles, Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -38.9646,
+        "lng": -72.26536,
+        "location": "Los Laureles, Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -38.96703,
+        "lng": -72.25797,
+        "location": "Los Laureles, Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -22.31819,
+        "lng": -68.88744,
+        "location": "Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -22.31871,
+        "lng": -68.88294,
+        "location": "zona enfriador peque\u00f1o, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -23.82187,
+        "lng": -70.31557,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -23.82591,
+        "lng": -70.31623,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -23.8258,
+        "lng": -70.31608,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -26.43359,
+        "lng": -69.47869,
+        "location": "Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -27.35674,
+        "lng": -70.22229,
+        "location": "Ruta 31 CH, Planta Inacesa, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -27.41323,
+        "lng": -70.26068000000001,
+        "location": "Cruce Ruta 31 CH - Fundici\u00f3n Paipote - Cruce C-33, Tierra Amarilla, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -27.41798,
+        "lng": -70.25697,
+        "location": "Cha\u00f1arcillo, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -33.82303,
+        "lng": -70.81931,
+        "location": "Cruce G-46 (Santa Filomena) - Las Vertientes, Las Vertientes, Viluco, Buin, Provincia de Maipo, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "SANTIAGO",
+        "comuna": "Buin"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -34.10495,
+        "lng": -70.45938000000001,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -34.10544,
+        "lng": -70.45401,
+        "location": "Fundicion de Caletones, Tramo 3, Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -34.61826,
+        "lng": -70.97483000000001,
+        "location": "Fundo El Carmen, Las Rosas de Antivero, San Fernando, Provincia de Colchagua, Regi\u00f3n del Libertador General Bernardo O'Higgins, 3072197, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "COLCHAGUA",
+        "comuna": "San Fernando"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -36.03674,
+        "lng": -71.71736,
+        "location": "Paine, Longav\u00ed, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Longav\u00ed"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -36.73928,
+        "lng": -73.12695,
+        "location": "Puerto Huachipato, Avenida Juan Antonio R\u00edos, Libertad, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -36.73974,
+        "lng": -73.1226,
+        "location": "Juan Antonio Rios - Gran Bretana / Poniente, Avenida Juan Antonio R\u00edos, Libertad, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -36.74335,
+        "lng": -73.12764,
+        "location": "Puerto Huachipato, Avenida Juan Antonio R\u00edos, Libertad, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -36.74742,
+        "lng": -73.12832,
+        "location": "Avenida Gran Breta\u00f1a, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -36.74667,
+        "lng": -73.12682,
+        "location": "Avenida Gran Breta\u00f1a, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -36.88522,
+        "lng": -72.14675,
+        "location": "Cruce Ruta 5 (Santa Clara) - Los Tilos - Cruce N-59-Q (Pueblo Seco), Los Tilos, Bulnes, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, 3890000, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Bulnes"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -36.94073,
+        "lng": -71.93151999999999,
+        "location": "Cruce N-777 (El Carmen) - San Isidro - Cruce N-825 (Lo Franco), Nueva Vida, San Isidro Alto, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -36.94122,
+        "lng": -71.92645999999999,
+        "location": "Cruce N-777 (El Carmen) - San Isidro - Cruce N-825 (Lo Franco), Nueva Vida, San Isidro Alto, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -36.94557,
+        "lng": -71.92715,
+        "location": "Cruce N-777 (El Carmen) - San Isidro - Cruce N-825 (Lo Franco), Nueva Vida, San Isidro Alto, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -37.78407,
+        "lng": -72.46268,
+        "location": "Cruce Longitudinal (Alto Esperanza) - Mininco - Tijeral, Renaico, Provincia de Malleco, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "MALLECO",
+        "comuna": "Renaico"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -38.05795,
+        "lng": -71.06673,
+        "location": "Alto Biob\u00edo, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Alto Biob\u00edo"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -38.59248,
+        "lng": -73.16306,
+        "location": "Carahue, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Carahue"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -38.59293,
+        "lng": -73.15844,
+        "location": "Carahue - Camarones, Camarones, Carahue, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Carahue"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -38.96427,
+        "lng": -72.26009,
+        "location": "Los Laureles, Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
+    },
+    {
+        "acq_date": "2022-04-17",
+        "lat": -38.96866,
+        "lng": -72.26066999999999,
+        "location": "Los Laureles, Cunco, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Cunco"
     }
 ]
