@@ -205,5 +205,707 @@
         "region": "REGI\u00d3N DE ANTOFAGASTA",
         "provincia": "ANTOFAGASTA",
         "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -40.42460999999999,
+        "lng": -73.23532,
+        "location": "Quilacahu\u00edn Oriente - R\u00edo Rahue, San Pablo, Provincia de Osorno, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "OSORNO",
+        "comuna": "San Pablo"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -38.42215,
+        "lng": -72.87801,
+        "location": "Galvarino, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Galvarino"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.77356,
+        "lng": -71.99707,
+        "location": "Mulch\u00e9n, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Mulch\u00e9n"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.77356,
+        "lng": -71.99707,
+        "location": "Mulch\u00e9n, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Mulch\u00e9n"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.71501,
+        "lng": -72.02774000000001,
+        "location": "Altos de Pemehue, Santa Yolanda, Quilaco, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 4510000, Chile",
+        "region": " ",
+        "provincia": " ",
+        "comuna": "Quilaco"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.71449,
+        "lng": -72.25806999999999,
+        "location": "Ruta 5 Sur, Mulch\u00e9n, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 0000444, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Mulch\u00e9n"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.71449,
+        "lng": -72.25806999999999,
+        "location": "Ruta 5 Sur, Mulch\u00e9n, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 0000444, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Mulch\u00e9n"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.57374,
+        "lng": -71.92951,
+        "location": "Santa B\u00e1rbara, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, 4510000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Santa B\u00e1rbara"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.68646,
+        "lng": -73.62183,
+        "location": "Comunidad Yall, Lebu, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Lebu"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.50046,
+        "lng": -72.44744,
+        "location": "Country Santa Eliana Sur, Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.49641,
+        "lng": -72.44808,
+        "location": "Country Santa Eliana Sur, Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.39452,
+        "lng": -71.65334,
+        "location": "Antuco, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Antuco"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.35662,
+        "lng": -72.12185,
+        "location": "Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Los \u00c1ngeles"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.20847,
+        "lng": -71.79755,
+        "location": "Cruce Q-965 (Puente Hu\u00e9pil) - Las Hijuelas, Las Hijuelas, Tucapel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Tucapel"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.20914,
+        "lng": -71.80386,
+        "location": "Cruce Q-965 (Puente Hu\u00e9pil) - Las Hijuelas, Las Hijuelas, Tucapel, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Tucapel"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -37.06025,
+        "lng": -72.03437,
+        "location": "Yungay, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Yungay"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.96965,
+        "lng": -71.99915,
+        "location": "Maipo Abajo - R\u00edo Maipo, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.95907,
+        "lng": -71.93826999999999,
+        "location": "El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.95515,
+        "lng": -71.93893,
+        "location": "San Isidro Alto, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.95582,
+        "lng": -71.94508,
+        "location": "Maipo Arriba, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.9598,
+        "lng": -71.982,
+        "location": "Cruce N-805 (Mata Redonda) - Fundo El Espino, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.95123,
+        "lng": -71.9396,
+        "location": "San Isidro Alto, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.9519,
+        "lng": -71.94575,
+        "location": "San Isidro Alto, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.94018,
+        "lng": -72.06087,
+        "location": "El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.92838,
+        "lng": -72.02503,
+        "location": "Aguas Azules, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.90741,
+        "lng": -72.01601,
+        "location": "Aguas Azules, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.88674,
+        "lng": -71.85741999999999,
+        "location": "El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.8607,
+        "lng": -71.87419,
+        "location": "Cruce N-677 (Puente Urrutia) - Huemul - Agua Santa - Vergara, Santa Margarita Oriente, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.86111,
+        "lng": -71.86961,
+        "location": "Cruce N-677 (Puente Urrutia) - Huemul - Agua Santa - Vergara, Santa Margarita Oriente, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.86178,
+        "lng": -71.87567,
+        "location": "Cruce N-677 (Puente Urrutia) - Huemul - Agua Santa - Vergara, Santa Margarita Oriente, El Carmen, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "El Carmen"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.8475,
+        "lng": -71.89046,
+        "location": "Cruce N-677 (Santa Juana) - El Calvario - Cruce N-655 (Mayulermo), El Calvario, San Ignacio, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "San Ignacio"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.84816,
+        "lng": -71.89653,
+        "location": "Cruce N-677 (Santa Juana) - El Calvario - Cruce N-655 (Mayulermo), Santa Juana Arriba, San Ignacio, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "San Ignacio"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.81557,
+        "lng": -71.85239,
+        "location": "Cruce N-55 (Las Vegas) - El Cardal - Cruce N-655 (Ciruelito), Cuatro Esquinas, Las Vertientes, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.79543,
+        "lng": -71.88667,
+        "location": "Cruce N-605 (La Callana) - Lluanco - Los Canelos - Cruce N-655 (Mayulermo), Los Canelos, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.79608,
+        "lng": -71.89273,
+        "location": "Cruce N-655 (Mayulermo) - Capilla Madre de Chile - Larqui Chico, Larqui Chico, San Ignacio, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "San Ignacio"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.79673,
+        "lng": -71.8988,
+        "location": "Cruce N-655 (Mayulermo) - Capilla Madre de Chile - Larqui Chico, Larqui Chico, San Ignacio, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "San Ignacio"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.79218,
+        "lng": -71.8934,
+        "location": "Cruce N-605 (La Callana) - Lluanco - Los Canelos - Cruce N-655 (Mayulermo), Los Canelos, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.79282,
+        "lng": -71.89948000000001,
+        "location": "Los Canelos, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.78379,
+        "lng": -71.8518,
+        "location": "Paso Vielma, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.78041,
+        "lng": -71.93254,
+        "location": "Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.7765,
+        "lng": -71.93321999999999,
+        "location": "Cruce N-605 (La Callana) - Lluanco - Los Canelos - Cruce N-655 (Mayulermo), Los Canelos, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.80406,
+        "lng": -72.19878,
+        "location": "Las Vi\u00f1as, Tres Esquinas, Bulnes, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Bulnes"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.80009,
+        "lng": -72.19941999999999,
+        "location": "Las Vi\u00f1as, Tres Esquinas, Bulnes, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Bulnes"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.80074,
+        "lng": -72.20569,
+        "location": "Cruce N-643 (Tres Esquinas) - Los Marcos - Cruce N-773 (Los Tilos), Tres Esquinas Sur, Tres Esquinas, Bulnes, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Bulnes"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.77665,
+        "lng": -71.9286,
+        "location": "Cruce N-605 (La Callana) - Lluanco - Los Canelos - Cruce N-655 (Mayulermo), Los Canelos, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.80238,
+        "lng": -72.20040999999999,
+        "location": "Las Vi\u00f1as, Tres Esquinas, Bulnes, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Bulnes"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.80305,
+        "lng": -72.20665,
+        "location": "Cruce N-643 (Tres Esquinas) - Los Marcos - Cruce N-773 (Los Tilos), Fundo San Javier, Bulnes, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Bulnes"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.79908,
+        "lng": -72.20729,
+        "location": "Cruce N-643 (Tres Esquinas) - Los Marcos - Cruce N-773 (Los Tilos), Tres Esquinas Sur, Tres Esquinas, Bulnes, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Bulnes"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.66386,
+        "lng": -71.10725,
+        "location": "San Fabi\u00e1n, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Fabi\u00e1n"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.7499,
+        "lng": -71.90235,
+        "location": "Cruce N-549 (El Cardal) - Cruce N-615 (Cuatro Esquinas), Pichilluanco, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.73363,
+        "lng": -71.89893000000001,
+        "location": "Boy\u00e9n Chico, Pinto, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Pinto"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.66232,
+        "lng": -71.82551,
+        "location": "Coihueco, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "Coihueco"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.6391,
+        "lng": -71.86171999999999,
+        "location": "Tres Acequias, Coihueco, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "Coihueco"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.66182,
+        "lng": -72.33324,
+        "location": "Autopista del Itata, El Manzanal, Chill\u00e1n Viejo, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, LAS LILAS DE COLLIGUAY, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Chill\u00e1n Viejo"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.59369,
+        "lng": -71.95524,
+        "location": "El Chingue, Coihueco, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "Coihueco"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.4001,
+        "lng": -70.84323,
+        "location": "Colb\u00fan, Provincia de Linares, Regi\u00f3n del Maule, 3610000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Colb\u00fan"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.53461,
+        "lng": -72.0653,
+        "location": "Chill\u00e1n, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Chill\u00e1n"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.53068,
+        "lng": -72.06593000000001,
+        "location": "Enlace Cocharcas, Estaci\u00f3n Cocharcas, Nueva Esperanza, San Carlos, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Carlos"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.49351,
+        "lng": -71.94265,
+        "location": "Menelhue - Cuadrapangue - Puente Monteverde, Chorrillos, Nueva Esperanza, San Carlos, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Carlos"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.47799000000001,
+        "lng": -71.87209,
+        "location": "El Torre\u00f3n, San Carlos, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Carlos"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.44944,
+        "lng": -71.90114,
+        "location": "Los Lirios, San Carlos, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Carlos"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.45004,
+        "lng": -71.90176,
+        "location": "Los Lirios, San Carlos, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Carlos"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.22108,
+        "lng": -71.07649,
+        "location": "Longav\u00ed, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Longav\u00ed"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.14997,
+        "lng": -70.7616,
+        "location": "Colb\u00fan, Provincia de Linares, Regi\u00f3n del Maule, 3610000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Colb\u00fan"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.15511,
+        "lng": -70.80502,
+        "location": "Colb\u00fan, Provincia de Linares, Regi\u00f3n del Maule, 3610000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Colb\u00fan"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -36.18478,
+        "lng": -72.04665,
+        "location": "Cruce Ruta 5 (San Gregorio) - \u00d1iqu\u00e9n - Cruce M-750 (San Pedro), Sector: San Gregorio - L\u00edmite Regional (R\u00edo \u00d1iqu\u00e9n), Comilla\u00fan, \u00d1iqu\u00e9n, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "\u00d1iqu\u00e9n"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -35.84585999999999,
+        "lng": -71.63359,
+        "location": "Linares, Provincia de Linares, Regi\u00f3n del Maule, 430000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Linares"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -35.79011,
+        "lng": -71.51706,
+        "location": "Linares, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Linares"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -35.48582,
+        "lng": -71.35686,
+        "location": "Santa Regina, San Clemente, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "San Clemente"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -34.27197,
+        "lng": -70.81821,
+        "location": "David del Curto, Caletera Ruta 5 Sur, Los Canelos, Requ\u00ednoa, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, 2920000, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Requ\u00ednoa"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -33.91304,
+        "lng": -71.57098,
+        "location": "San Pedro, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "MELIPILLA",
+        "comuna": "San Pedro"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -32.80283,
+        "lng": -70.95079,
+        "location": "Autopista Los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -32.80513,
+        "lng": -70.95335,
+        "location": "Caletera Autopista los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -32.80157,
+        "lng": -70.95401,
+        "location": "Caletera Autopista los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -26.65063,
+        "lng": -68.95603,
+        "location": "Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, 1500000, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -26.43393,
+        "lng": -69.47702,
+        "location": "Bernardo O'Higgins, Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -23.82517,
+        "lng": -70.31676999999999,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-18",
+        "lat": -22.31626,
+        "lng": -68.8837,
+        "location": "zona enfriador peque\u00f1o, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
     }
 ]
