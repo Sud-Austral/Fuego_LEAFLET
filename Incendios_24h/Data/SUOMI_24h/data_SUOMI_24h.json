@@ -1,1 +1,299 @@
-[]
+[
+    {
+        "acq_date": "2022-04-19",
+        "lat": -22.31672,
+        "lng": -68.88587,
+        "location": "Torre de refrigeraci\u00f3n, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -23.36189,
+        "lng": -67.73056,
+        "location": "San Pedro de Atacama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "San Pedro de Atacama"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -23.82277,
+        "lng": -70.31509,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -23.82249,
+        "lng": -70.31783,
+        "location": "Acceso Fundici\u00f3n Altonorte, Fundici\u00f3n Altonorte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -26.43184,
+        "lng": -69.47776,
+        "location": "Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -26.43534,
+        "lng": -69.47841,
+        "location": "Bernardo O'Higgins, Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -27.35681,
+        "lng": -70.22294000000001,
+        "location": "Ruta 31 CH, Planta Inacesa, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -27.41219,
+        "lng": -70.26399,
+        "location": "Cruce Ruta 31 CH - Fundici\u00f3n Paipote - Cruce C-33, Tierra Amarilla, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -27.41573,
+        "lng": -70.26479,
+        "location": "Pasaje 4, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -27.41654,
+        "lng": -70.26026999999999,
+        "location": "Cha\u00f1arcillo, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -33.29374,
+        "lng": -70.72896999999999,
+        "location": "DHL, Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -33.36152,
+        "lng": -70.76252,
+        "location": "Pasaje R\u00edo \u00d1uble, San Ignacio de Loyola II, Quilicura, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 9030950, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "SANTIAGO",
+        "comuna": "Quilicura"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -34.10468,
+        "lng": -70.45881999999999,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -34.1054,
+        "lng": -70.45453,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -34.10804,
+        "lng": -70.4597,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -34.10876,
+        "lng": -70.45541,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -34.18525,
+        "lng": -70.80801,
+        "location": "Parque Safari de Rancagua, Enrique Molina, El Suspiro, Rancagua, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, 2820000, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Rancagua"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -34.34452,
+        "lng": -71.30286,
+        "location": "Calle El Silo, La Torina Uno, La Torina, Pichidegua, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, 2980000, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Pichidegua"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -35.49615,
+        "lng": -71.7284,
+        "location": "Villa Froil\u00e1n M\u00e9ndez, Santa Clara, Loteo Don Humberto, Maule, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Maule"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -35.49957,
+        "lng": -71.72929,
+        "location": "Loteo Don Humberto, Maule, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Maule"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -35.98829,
+        "lng": -71.80508,
+        "location": "Retiro, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Retiro"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -36.02737,
+        "lng": -71.72535,
+        "location": "Maitenes, Retiro, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Retiro"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -36.30064,
+        "lng": -71.26283000000001,
+        "location": "Longav\u00ed, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Longav\u00ed"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -36.3772,
+        "lng": -71.50976,
+        "location": "Parral, Provincia de Linares, Regi\u00f3n del Maule, 3630000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Parral"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -36.74629,
+        "lng": -71.20051,
+        "location": "San Fabi\u00e1n, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Fabi\u00e1n"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -36.75035,
+        "lng": -71.19716,
+        "location": "San Fabi\u00e1n, Provincia de Punilla, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "PUNILLA",
+        "comuna": "San Fabi\u00e1n"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -36.91633,
+        "lng": -72.40281,
+        "location": "Quill\u00f3n, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Quill\u00f3n"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -37.3255,
+        "lng": -73.48191,
+        "location": "Cruce P-40 (Los Chupones) - Lingue - Cruce P-348 (Merilupo), El Lingue, Arauco, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Arauco"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -39.41787,
+        "lng": -71.94041999999999,
+        "location": "Puc\u00f3n, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Puc\u00f3n"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -39.42122,
+        "lng": -71.94124000000001,
+        "location": "Villarrica, Provincia de Caut\u00edn, Regi\u00f3n de la Araucan\u00eda, Chile",
+        "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
+        "provincia": "CAUT\u00cdN",
+        "comuna": "Villarrica"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -40.44467,
+        "lng": -72.70163000000001,
+        "location": "Cruce T-87 (Chaichay\u00e9n) - Folilco - Cruce T-849 (Los Maitenes), Chaichayen, R\u00edo Bueno, Provincia de Ranco, Regi\u00f3n de Los R\u00edos, Chile",
+        "region": "REGI\u00d3N DE LOS R\u00cdOS",
+        "provincia": "RANCO",
+        "comuna": "R\u00edo Bueno"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -41.81852,
+        "lng": -73.12012,
+        "location": "Chidguapi, Calbuco, Provincia de Llanquihue, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "LLANQUIHUE",
+        "comuna": "Calbuco"
+    },
+    {
+        "acq_date": "2022-04-19",
+        "lat": -41.82188,
+        "lng": -73.12115,
+        "location": "Chidguapi, Calbuco, Provincia de Llanquihue, Regi\u00f3n de Los Lagos, Chile",
+        "region": "REGI\u00d3N DE LOS LAGOS",
+        "provincia": "LLANQUIHUE",
+        "comuna": "Calbuco"
+    }
+]
