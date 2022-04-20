@@ -1,1 +1,281 @@
-[]
+[
+    {
+        "acq_date": "2022-04-20",
+        "lat": -22.31557,
+        "lng": -68.88403000000001,
+        "location": "zona enfriador peque\u00f1o, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -23.36317,
+        "lng": -67.73568,
+        "location": "San Pedro de Atacama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "San Pedro de Atacama"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -23.77827,
+        "lng": -70.31957,
+        "location": "Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -23.78196,
+        "lng": -70.32018000000001,
+        "location": "Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -23.78061,
+        "lng": -70.31724,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -23.78431,
+        "lng": -70.31783,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -23.82252,
+        "lng": -70.31441,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -23.82622,
+        "lng": -70.31503000000001,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -28.48075,
+        "lng": -71.25061,
+        "location": "Villa Guacolda, Huasco, Provincia de Huasco, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "HUASCO",
+        "comuna": "Huasco"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -31.88288,
+        "lng": -71.45047,
+        "location": "Caracas, Los Vilos, Provincia de Choapa, Regi\u00f3n de Coquimbo, Chile",
+        "region": "REGI\u00d3N DE COQUIMBO",
+        "provincia": "CHOAPA",
+        "comuna": "Los Vilos"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -32.80325,
+        "lng": -70.95075,
+        "location": "Autopista Los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -32.80258,
+        "lng": -70.95671999999999,
+        "location": "Cruce Ruta 60 CH (Chagres) - Cruce E-615 (Catemu), Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -32.78584,
+        "lng": -71.48671999999999,
+        "location": "Central Quintero, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -33.15039,
+        "lng": -70.83189,
+        "location": "Camino Cerro Blanco, Tiltil, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Tiltil"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -33.29376,
+        "lng": -70.72763,
+        "location": "Camino Coquimbo, Las Mercedes, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -33.29316,
+        "lng": -70.72955999999999,
+        "location": "DHL, Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -33.29723,
+        "lng": -70.73017,
+        "location": "Avenida Presidente Eduardo Frei Montalva, Carretera Panamericana, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Colina"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -33.87715,
+        "lng": -70.73444,
+        "location": "El Azufradero, Hospital, Paine, Provincia de Maipo, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "SANTIAGO",
+        "comuna": "Hospital"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -35.81407,
+        "lng": -71.59739,
+        "location": "Alonso de Ercilla, Linares, Provincia de Linares, Regi\u00f3n del Maule, 43000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Linares"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -35.88849,
+        "lng": -71.63471,
+        "location": "Las Motas Poniente, Longav\u00ed, Provincia de Linares, Regi\u00f3n del Maule, 3580000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "Longav\u00ed"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -36.79325,
+        "lng": -72.22255,
+        "location": "Malabar, Tres Esquinas, Bulnes, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Bulnes"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -36.74543,
+        "lng": -73.12605,
+        "location": "Avenida Gran Breta\u00f1a, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -36.88158,
+        "lng": -72.78004,
+        "location": "Cangrejillo, Florida, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Florida"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -37.2714,
+        "lng": -72.95512,
+        "location": "Purgatorio - Poduco Bajo, Santa Juana, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Santa Juana"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -37.28928,
+        "lng": -73.32858,
+        "location": "Cruce P-20 (Arauco) - Curihuill\u00edn - Cruce P-40, Arauco, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Arauco"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -37.29301,
+        "lng": -73.32935,
+        "location": "Cruce P-20 (Arauco) - Curihuill\u00edn - Cruce P-40, Arauco, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Arauco"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -37.28967,
+        "lng": -73.32938,
+        "location": "Cruce P-20 (Arauco) - Curihuill\u00edn - Cruce P-40, Arauco, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Arauco"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -37.29340999999999,
+        "lng": -73.33013000000001,
+        "location": "Cruce P-20 (Arauco) - Curihuill\u00edn - Cruce P-40, Arauco, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Arauco"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -37.30088,
+        "lng": -73.33156,
+        "location": "Cruce P-20 (Arauco) - Curihuill\u00edn - Cruce P-40, Arauco, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Arauco"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -37.3539,
+        "lng": -73.43249,
+        "location": "Arauco, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, 0000045, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Arauco"
+    },
+    {
+        "acq_date": "2022-04-20",
+        "lat": -37.68394,
+        "lng": -73.62253,
+        "location": "Comunidad Yall, Lebu, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Lebu"
+    }
+]
