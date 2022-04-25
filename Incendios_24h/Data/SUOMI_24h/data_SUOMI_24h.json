@@ -97,5 +97,50 @@
         "region": "REGI\u00d3N DE ATACAMA",
         "provincia": "HUASCO",
         "comuna": "Huasco"
+    },
+    {
+        "acq_date": "2022-04-25",
+        "lat": -27.41585,
+        "lng": -70.26115,
+        "location": "Cha\u00f1arcillo, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-04-25",
+        "lat": -26.43589,
+        "lng": -69.47457,
+        "location": "Potrerillos, Diego de Almagro, Provincia de Cha\u00f1aral, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "CHA\u00d1ARAL",
+        "comuna": "Diego de Almagro"
+    },
+    {
+        "acq_date": "2022-04-25",
+        "lat": -24.65109,
+        "lng": -69.38789,
+        "location": "Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-25",
+        "lat": -23.82486,
+        "lng": -70.31651,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-04-25",
+        "lat": -32.80556,
+        "lng": -70.95237,
+        "location": "Caletera Autopista los Andes, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
     }
 ]
