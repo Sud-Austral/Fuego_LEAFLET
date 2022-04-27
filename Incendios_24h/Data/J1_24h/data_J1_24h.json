@@ -106,5 +106,41 @@
         "region": "REGI\u00d3N DEL BIOB\u00cdO",
         "provincia": "CONCEPCI\u00d3N",
         "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-04-27",
+        "lat": -22.31852,
+        "lng": -68.87894,
+        "location": "Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-04-27",
+        "lat": -20.45864,
+        "lng": -69.53043000000001,
+        "location": "Las Vizcachas, Pozo Almonte, Provincia del Tamarugal, Regi\u00f3n de Tarapac\u00e1, 100000, Chile",
+        "region": "REGI\u00d3N DE TARAPAC\u00c1",
+        "provincia": "TAMARUGAL",
+        "comuna": "Pozo Almonte"
+    },
+    {
+        "acq_date": "2022-04-27",
+        "lat": -20.45743,
+        "lng": -69.5293,
+        "location": "Las Vizcachas, Pozo Almonte, Provincia del Tamarugal, Regi\u00f3n de Tarapac\u00e1, 100000, Chile",
+        "region": "REGI\u00d3N DE TARAPAC\u00c1",
+        "provincia": "TAMARUGAL",
+        "comuna": "Pozo Almonte"
+    },
+    {
+        "acq_date": "2022-04-27",
+        "lat": -20.45382,
+        "lng": -69.52985,
+        "location": "Cruce A-755 (Salar de Pintados) - Sector La Huayca, Las Vizcachas, Pozo Almonte, Provincia del Tamarugal, Regi\u00f3n de Tarapac\u00e1, 100000, Chile",
+        "region": "REGI\u00d3N DE TARAPAC\u00c1",
+        "provincia": "TAMARUGAL",
+        "comuna": "Pozo Almonte"
     }
 ]

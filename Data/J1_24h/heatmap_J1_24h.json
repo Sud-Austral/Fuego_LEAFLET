@@ -403,6 +403,45 @@
             "properties": {
                 "acq_date": "2022-04-27"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.53043000000001,
+                    -20.45864
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.5293,
+                    -20.45743
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.52985,
+                    -20.45382
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-04-27"
+            }
         }
     ]
 }
