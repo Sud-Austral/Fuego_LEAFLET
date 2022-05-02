@@ -52013,6 +52013,32 @@
             "properties": {
                 "acq_date": "2022-05-02"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.32946,
+                    -1.99453
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.28448,
+                    -2.00088
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-02"
+            }
         }
     ]
 }
