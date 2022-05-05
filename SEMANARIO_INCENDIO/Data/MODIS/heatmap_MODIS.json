@@ -60775,6 +60775,58 @@
             "properties": {
                 "acq_date": "2022-05-05"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.21024,
+                    -0.10778
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.19985,
+                    -0.10934
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.20599,
+                    -0.11302999999999999
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.19561999999999,
+                    -0.11452999999999999
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-05"
+            }
         }
     ]
 }
