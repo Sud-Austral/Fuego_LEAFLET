@@ -64610,6 +64610,32 @@
             "properties": {
                 "acq_date": "2022-05-07"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.10033,
+                    12.51995
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.09118000000001,
+                    12.51858
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-07"
+            }
         }
     ]
 }
