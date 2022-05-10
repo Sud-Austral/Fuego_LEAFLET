@@ -6,64 +6,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.81967,
-                    -36.86078
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-05-08"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.4621,
-                    -34.1064
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-05-08"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.31409000000001,
-                    -23.82701
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-05-08"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.81744,
-                    -36.865159999999996
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-05-08"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -70.45682,
                     -34.10103
                 ]
             },
             "properties": {
                 "acq_date": "2022-05-09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.45925,
+                    -34.10458
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-10"
             }
         }
     ]
