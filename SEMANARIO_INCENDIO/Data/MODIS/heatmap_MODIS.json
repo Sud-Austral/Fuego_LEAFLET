@@ -66612,6 +66612,45 @@
             "properties": {
                 "acq_date": "2022-05-10"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.24398,
+                    -20.23969
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.88912,
+                    -21.62637
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.72931,
+                    -22.90883
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-10"
+            }
         }
     ]
 }
