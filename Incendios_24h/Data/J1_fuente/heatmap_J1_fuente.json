@@ -122317,6 +122317,84 @@
             "properties": {
                 "acq_date": "2022-05-11"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.88667,
+                    -22.31483
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.88716,
+                    -22.31823
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.3209,
+                    -23.78229
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.31711,
+                    -23.78288
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.31525,
+                    -23.82325
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.22015,
+                    -27.35873
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-12"
+            }
         }
     ]
 }
