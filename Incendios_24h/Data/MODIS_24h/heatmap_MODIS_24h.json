@@ -13,6 +13,19 @@
             "properties": {
                 "acq_date": "2022-05-14"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.88051999999999,
+                    -22.31111
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-14"
+            }
         }
     ]
 }
