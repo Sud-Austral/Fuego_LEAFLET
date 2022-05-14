@@ -65598,6 +65598,45 @@
             "properties": {
                 "acq_date": "2022-05-14"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.58522,
+                    -5.01558
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.23128,
+                    -4.8823099999999995
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.20982,
+                    -4.88649
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-14"
+            }
         }
     ]
 }
