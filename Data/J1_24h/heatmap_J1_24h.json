@@ -1209,6 +1209,162 @@
             "properties": {
                 "acq_date": "2022-05-16"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.31985,
+                    -23.7849
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.31548000000001,
+                    -23.8217
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.31618,
+                    -23.82616
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.31779,
+                    -23.8238
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.95052,
+                    -32.80438
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.45926,
+                    -34.10672
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.12550999999999,
+                    -36.74472
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.80468,
+                    -37.27203
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.7985,
+                    -37.27251
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.28755,
+                    -37.36487
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.96395,
+                    -37.52882
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.09647,
+                    -37.8217
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-16"
+            }
         }
     ]
 }
