@@ -1430,6 +1430,45 @@
             "properties": {
                 "acq_date": "2022-05-17"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.45954,
+                    -34.103120000000004
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.44804,
+                    -34.10502
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.84782,
+                    -38.62056
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-18"
+            }
         }
     ]
 }
