@@ -2015,6 +2015,45 @@
             "properties": {
                 "acq_date": "2022-05-19"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.24924,
+                    -28.48133
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.319,
+                    -23.78306
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.31493,
+                    -23.82486
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-20"
+            }
         }
     ]
 }
