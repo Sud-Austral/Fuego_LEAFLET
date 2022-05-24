@@ -8723,6 +8723,19 @@
             "properties": {
                 "acq_date": "2022-05-23"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.97523000000001,
+                    -17.21889
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-23"
+            }
         }
     ]
 }
