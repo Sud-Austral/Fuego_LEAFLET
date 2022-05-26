@@ -1,1 +1,65 @@
-[]
+[
+    {
+        "acq_date": "2022-05-26",
+        "lat": -33.60744,
+        "lng": -70.52766,
+        "location": "Los Filtros, Sauce 1, Puente Alto, Provincia de Cordillera, Regi\u00f3n Metropolitana de Santiago, 9480018, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CORDILLERA",
+        "comuna": "Puente Alto"
+    },
+    {
+        "acq_date": "2022-05-26",
+        "lat": -34.1027,
+        "lng": -70.45213000000001,
+        "location": "Fundicion de Caletones, Tramo 3, Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-05-26",
+        "lat": -23.81883,
+        "lng": -70.31565,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-05-26",
+        "lat": -27.41436,
+        "lng": -70.26688,
+        "location": "Pasaje 5, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-05-26",
+        "lat": -27.41602,
+        "lng": -70.26057,
+        "location": "Cha\u00f1arcillo, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-05-26",
+        "lat": -27.41482,
+        "lng": -70.26054,
+        "location": "Cruce Ruta 31 CH - Fundici\u00f3n Paipote - Cruce C-33, Tierra Amarilla, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Tierra Amarilla"
+    },
+    {
+        "acq_date": "2022-05-26",
+        "lat": -32.80036,
+        "lng": -70.95340999999999,
+        "location": "Fundici\u00f3n Chagres, Cruce Ruta 60 CH (Chagres) - Llayqu\u00e9n - Cruce Ruta 60 CH (Lo Campo), Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    }
+]
