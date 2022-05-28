@@ -232,5 +232,59 @@
         "region": "REGI\u00d3N DE ANTOFAGASTA",
         "provincia": "EL LOA",
         "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-05-28",
+        "lat": -35.29461,
+        "lng": -72.14079,
+        "location": "Constituci\u00f3n, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Constituci\u00f3n"
+    },
+    {
+        "acq_date": "2022-05-28",
+        "lat": -35.30082,
+        "lng": -72.14973,
+        "location": "Cruce K-20 (Aguas Buenas) - Cruce K-700 (Risco Afuera), Agua Buena, Constituci\u00f3n, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Constituci\u00f3n"
+    },
+    {
+        "acq_date": "2022-05-28",
+        "lat": -35.3201,
+        "lng": -72.1579,
+        "location": "Agua Buena, Constituci\u00f3n, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Constituci\u00f3n"
+    },
+    {
+        "acq_date": "2022-05-28",
+        "lat": -35.32034,
+        "lng": -72.15146,
+        "location": "Cruce K-20 (Aguas Buenas) - Cruce K-700 (Risco Afuera), Agua Buena, Constituci\u00f3n, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Constituci\u00f3n"
+    },
+    {
+        "acq_date": "2022-05-28",
+        "lat": -37.42845,
+        "lng": -73.37223,
+        "location": "Colcha, La (20029), Curanilahue, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, 4370000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Curanilahue"
+    },
+    {
+        "acq_date": "2022-05-28",
+        "lat": -37.42868,
+        "lng": -73.36625,
+        "location": "La Colcha, Curanilahue, Provincia de Arauco, Regi\u00f3n del Biob\u00edo, 4370000, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "ARAUCO",
+        "comuna": "Curanilahue"
     }
 ]
