@@ -38376,6 +38376,19 @@
             "properties": {
                 "acq_date": "2022-05-27"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.37052,
+                    -37.42942
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-05-28"
+            }
         }
     ]
 }
