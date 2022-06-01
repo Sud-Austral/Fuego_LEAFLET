@@ -103525,5 +103525,365 @@
         "region": "REGI\u00d3N DE LA ARAUCAN\u00cdA",
         "provincia": "CAUT\u00cdN",
         "comuna": "Villarrica"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -32.80336,
+        "lng": -70.95149,
+        "location": "Fundici\u00f3n Chagres, Cruce Ruta 60 CH (Chagres) - Llayqu\u00e9n - Cruce Ruta 60 CH (Lo Campo), Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -32.76096,
+        "lng": -71.47789,
+        "location": "Cruce Ruta 5 (Quinquimo) - Papudo - Cruce Ruta 64 (Re\u00f1aca Alto), Loncura Bajo, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -32.75956,
+        "lng": -71.4787,
+        "location": "Cruce Ruta 5 (Quinquimo) - Papudo - Cruce Ruta 64 (Re\u00f1aca Alto), Loncura Bajo, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -32.76331,
+        "lng": -71.47971,
+        "location": "Cruce Ruta 5 (Quinquimo) - Papudo - Cruce Ruta 64 (Re\u00f1aca Alto), Loncura Bajo, Quintero, Provincia de Valpara\u00edso, Regi\u00f3n de Valpara\u00edso, 840000, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "VALPARA\u00cdSO",
+        "comuna": "Quintero"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -33.29374,
+        "lng": -70.72759,
+        "location": "Gerdau Aza, Ruta 5 Norte, Chicauma, Lampa, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Lampa"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -33.29733,
+        "lng": -70.72856,
+        "location": "Gerdau Aza, Ruta 5 Norte, Chicauma, Lampa, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Lampa"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -33.72248,
+        "lng": -71.36491,
+        "location": "Huilco, Melipilla, Provincia de Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "MELIPILLA",
+        "comuna": "Melipilla"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -34.10768,
+        "lng": -70.45448,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.05908,
+        "lng": -72.10576999999999,
+        "location": "Pununqu\u00e9n, Curepto, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Curepto"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.06175,
+        "lng": -72.11208,
+        "location": "Pununqu\u00e9n, Curepto, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Curepto"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.0733,
+        "lng": -72.13296,
+        "location": "Curepto, Provincia de Talca, Regi\u00f3n del Maule, 3570000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Curepto"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.07973,
+        "lng": -72.10025999999999,
+        "location": "Curepto, Provincia de Talca, Regi\u00f3n del Maule, 3570000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Curepto"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.07599,
+        "lng": -72.13919,
+        "location": "Curepto, Provincia de Talca, Regi\u00f3n del Maule, 3570000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Curepto"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.07708,
+        "lng": -72.13365,
+        "location": "Curepto, Provincia de Talca, Regi\u00f3n del Maule, 3570000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Curepto"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.38975,
+        "lng": -71.11488,
+        "location": "San Clemente, Provincia de Talca, Regi\u00f3n del Maule, 3380000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "San Clemente"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.31091,
+        "lng": -72.37879000000001,
+        "location": "Ruta J-52-K, Constituci\u00f3n, Provincia de Talca, Regi\u00f3n del Maule, 3560000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Constituci\u00f3n"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.30989,
+        "lng": -72.37991,
+        "location": "Ruta J-52-K, Constituci\u00f3n, Provincia de Talca, Regi\u00f3n del Maule, 3560000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Constituci\u00f3n"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.66706,
+        "lng": -71.87691,
+        "location": "San Javier, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "San Javier"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.66796,
+        "lng": -71.87223,
+        "location": "San Javier, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "San Javier"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.67068,
+        "lng": -71.87804,
+        "location": "San Javier, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "San Javier"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.66967,
+        "lng": -71.88328,
+        "location": "San Javier, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "San Javier"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.67159,
+        "lng": -71.87335,
+        "location": "San Javier, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "San Javier"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.67519,
+        "lng": -71.87453000000001,
+        "location": "San Javier, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "San Javier"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.67325,
+        "lng": -71.88457,
+        "location": "San Javier, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "San Javier"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.67685,
+        "lng": -71.88582,
+        "location": "Cruce Ruta 126 N (Las Campanas) - Botacura - Cruce L-320 (San Francisco), Casa Blanca, Luis Cruz Mart\u00ednez, San Javier, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "San Javier"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.68046,
+        "lng": -71.887,
+        "location": "Cruce Ruta 126 N (Las Campanas) - Botacura - Cruce L-320 (San Francisco), Casa Blanca, Luis Cruz Mart\u00ednez, San Javier, Provincia de Linares, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "LINARES",
+        "comuna": "San Javier"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.7201,
+        "lng": -72.46455,
+        "location": "Cruce Ruta 128 (Cauquenes) - Cruce M-50 (Chanco Por Molco), El Peral, Chanco, Provincia de Cauquenes, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CAUQUENES",
+        "comuna": "Chanco"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.72274,
+        "lng": -72.47116,
+        "location": "Cruce Ruta 128 (Cauquenes) - Cruce M-50 (Chanco Por Molco), El Peral, Chanco, Provincia de Cauquenes, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CAUQUENES",
+        "comuna": "Chanco"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -35.72381,
+        "lng": -72.46568,
+        "location": "Cruce Ruta 128 (Cauquenes) - Cruce M-50 (Chanco Por Molco), El Peral, Chanco, Provincia de Cauquenes, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "CAUQUENES",
+        "comuna": "Chanco"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -36.5001,
+        "lng": -72.82975,
+        "location": "El Pill\u00edn - El Peral, El Ajenjo, Tom\u00e9, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Tom\u00e9"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -36.75497,
+        "lng": -72.67102,
+        "location": "Cruce N-48-O (El Rosario) - Cruce O-66-N (Conuco), Florida, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Florida"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -36.75605,
+        "lng": -72.66553,
+        "location": "Cruce N-48-O (El Rosario) - Cruce O-66-N (Conuco), Florida, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Florida"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -36.76081,
+        "lng": -72.66116,
+        "location": "Cruce N-48-O (El Rosario) - Cruce O-66-N (Conuco), Florida, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Florida"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -36.76189,
+        "lng": -72.65567,
+        "location": "Cruce N-48-O (El Rosario) - Cruce O-66-N (Conuco), Florida, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Florida"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -36.74644,
+        "lng": -73.12727,
+        "location": "Avenida Gran Breta\u00f1a, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -37.16934000000001,
+        "lng": -72.15038,
+        "location": "Cruce Ruta 5 (Escuela Saltos del Laja) - Pangal del Laja - Cruce Q-97-N (Cholgu\u00e1n), Pangal del Laja, Cholgu\u00e1n, Yungay, Provincia de Diguill\u00edn, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "DIGUILL\u00cdN",
+        "comuna": "Yungay"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -37.36158,
+        "lng": -72.71221,
+        "location": "Cruce Ruta 156 (Culenco) - Chequenal - Cruce Q-340 (Diuqu\u00edn), Los Litres, Nacimiento, Provincia de B\u00edo-B\u00edo, Regi\u00f3n del Biob\u00edo, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "BIOB\u00cdO",
+        "comuna": "Nacimiento"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -22.31501,
+        "lng": -68.88318000000001,
+        "location": "zona enfriador peque\u00f1o, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -22.316,
+        "lng": -68.87785,
+        "location": "Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-06-01",
+        "lat": -22.31883,
+        "lng": -68.88432,
+        "location": "Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
     }
 ]
