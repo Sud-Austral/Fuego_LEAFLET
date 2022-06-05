@@ -150254,6 +150254,58 @@
             "properties": {
                 "acq_date": "2022-06-04"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.12439,
+                    -17.45316
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.67851999999999,
+                    -26.19913
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.68284,
+                    -26.20282
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.74797,
+                    -32.82317
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-05"
+            }
         }
     ]
 }
