@@ -6,32 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.99,
-                    -33.7305
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-06-05"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.53455,
-                    -38.211240000000004
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-06-05"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -70.95033000000001,
                     -32.8013
                 ]
