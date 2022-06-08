@@ -1,4 +1,161 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.95396,
+                    -32.80363
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.48633000000001,
+                    -32.78685
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.72713,
+                    -33.2953
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.21025,
+                    -33.731590000000004
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.46053,
+                    -34.10655
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.4562,
+                    -34.10717
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.45873,
+                    -34.106970000000004
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.45438,
+                    -34.10759
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.52129000000001,
+                    -34.56351
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5262,
+                    -34.56622
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.37682,
+                    -36.86522
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.12867,
+                    -36.74511
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-08"
+            }
+        }
+    ]
 }
