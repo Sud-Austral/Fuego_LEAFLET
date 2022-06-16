@@ -39260,6 +39260,19 @@
             "properties": {
                 "acq_date": "2022-06-14"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63264000000001,
+                    -32.28716
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-16"
+            }
         }
     ]
 }
