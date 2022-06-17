@@ -81900,6 +81900,32 @@
             "properties": {
                 "acq_date": "2022-06-17"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.3103,
+                    -1.98616
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.32330999999999,
+                    -2.00051
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-17"
+            }
         }
     ]
 }
