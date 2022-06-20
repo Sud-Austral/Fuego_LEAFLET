@@ -2548,6 +2548,58 @@
             "properties": {
                 "acq_date": "2022-06-19"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.35621,
+                    -17.49338
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.26133,
+                    -27.414
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.80516999999999,
+                    -20.66139
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.01829000000001,
+                    -19.29844
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-19"
+            }
         }
     ]
 }
