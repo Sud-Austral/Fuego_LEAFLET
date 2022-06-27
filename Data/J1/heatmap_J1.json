@@ -962,6 +962,32 @@
             "properties": {
                 "acq_date": "2022-06-26"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.65539,
+                    -37.1563
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.65645,
+                    -37.153459999999995
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-26"
+            }
         }
     ]
 }
