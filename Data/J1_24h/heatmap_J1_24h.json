@@ -91,6 +91,58 @@
             "properties": {
                 "acq_date": "2022-06-27"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.20222,
+                    -50.14562
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.45505,
+                    -17.642310000000002
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.3578,
+                    -17.4933
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.06004,
+                    -36.81261
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-06-27"
+            }
         }
     ]
 }
