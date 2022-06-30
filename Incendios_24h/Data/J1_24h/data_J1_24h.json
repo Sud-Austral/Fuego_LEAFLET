@@ -1,353 +1,83 @@
 [
     {
         "acq_date": "2022-06-30",
-        "lat": -16.61724,
-        "lng": -66.61569,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -16.56579,
-        "lng": -67.60043,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -16.58224,
-        "lng": -67.61171,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -16.66658,
-        "lng": -67.41496,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -16.68407,
-        "lng": -67.41911999999999,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -16.68475,
-        "lng": -67.41519,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -17.03208,
-        "lng": -66.10477,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -17.03268,
-        "lng": -66.1011,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -17.03605,
-        "lng": -66.10166,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -16.86495,
-        "lng": -67.54847,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -17.4513,
-        "lng": -65.7896,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -17.72475,
-        "lng": -66.29269000000001,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
         "lat": -23.36366,
         "lng": -67.73116,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -27.45716,
-        "lng": -66.35423,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
+        "location": "San Pedro de Atacama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "San Pedro de Atacama"
     },
     {
         "acq_date": "2022-06-30",
         "lat": -27.41557,
         "lng": -70.26125,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
+        "location": "Cha\u00f1arcillo, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
     },
     {
         "acq_date": "2022-06-30",
         "lat": -27.41638,
         "lng": -70.25674000000001,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
+        "location": "Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
     },
     {
         "acq_date": "2022-06-30",
         "lat": -29.80511,
         "lng": -71.24995,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -32.77456,
-        "lng": -68.41098000000001,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -33.13551,
-        "lng": -66.07305,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -32.73755,
-        "lng": -68.84383000000001,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
+        "location": "Juan Soldado, La Serena, Provincia de Elqui, Regi\u00f3n de Coquimbo, Chile",
+        "region": "REGI\u00d3N DE COQUIMBO",
+        "provincia": "ELQUI",
+        "comuna": "La Serena"
     },
     {
         "acq_date": "2022-06-30",
         "lat": -32.8014,
         "lng": -70.95260999999999,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
+        "location": "Fundici\u00f3n Chagres, Cruce Ruta 60 CH (Chagres) - Llayqu\u00e9n - Cruce Ruta 60 CH (Lo Campo), Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
     },
     {
         "acq_date": "2022-06-30",
         "lat": -34.67382,
         "lng": -72.04621999999999,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
+        "location": "Paredones, Provincia de Cardenal Caro, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CARDENAL CARO",
+        "comuna": "Paredones"
     },
     {
         "acq_date": "2022-06-30",
         "lat": -35.38727,
         "lng": -71.11616,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
+        "location": "San Clemente, Provincia de Talca, Regi\u00f3n del Maule, 3380000, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "San Clemente"
     },
     {
         "acq_date": "2022-06-30",
         "lat": -35.37888,
         "lng": -71.20623,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
+        "location": "Ruta K-455, Astillero Alto, Pelarco, Provincia de Talca, Regi\u00f3n del Maule, Chile",
+        "region": "REGI\u00d3N DEL MAULE",
+        "provincia": "TALCA",
+        "comuna": "Pelarco"
     },
     {
         "acq_date": "2022-06-30",
         "lat": -36.74351,
         "lng": -73.12853,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.04284000000001,
-        "lng": -68.52705,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.0997,
-        "lng": -68.66805,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.23583,
-        "lng": -68.66924,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.2392,
-        "lng": -68.67000999999999,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.28189,
-        "lng": -68.59053,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.23005,
-        "lng": -69.02271,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.34899,
-        "lng": -68.68365,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.35236,
-        "lng": -68.68445,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.36147,
-        "lng": -68.74284,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.39239,
-        "lng": -68.59917,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.33383,
-        "lng": -69.05418,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.38954,
-        "lng": -68.69274,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.45630999999999,
-        "lng": -68.49283,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
-    },
-    {
-        "acq_date": "2022-06-30",
-        "lat": -38.82898,
-        "lng": -67.91959,
-        "location": NaN,
-        "region": " ",
-        "provincia": " ",
-        "comuna": NaN
+        "location": "Puerto Huachipato, Avenida Juan Antonio R\u00edos, Libertad, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
     }
 ]
