@@ -106126,5 +106126,41 @@
         "region": "REGI\u00d3N DEL BIOB\u00cdO",
         "provincia": "CONCEPCI\u00d3N",
         "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-07-01",
+        "lat": -32.80082,
+        "lng": -70.95413,
+        "location": "Fundici\u00f3n Chagres, Cruce Ruta 60 CH (Chagres) - Llayqu\u00e9n - Cruce Ruta 60 CH (Lo Campo), Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-07-01",
+        "lat": -33.29363,
+        "lng": -70.72794,
+        "location": "Gerdau Aza, Ruta 5 Norte, Chicauma, Lampa, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Lampa"
+    },
+    {
+        "acq_date": "2022-07-01",
+        "lat": -36.34174,
+        "lng": -72.84136,
+        "location": "Cruce Ruta 126 S (Trehuaco) - Boca Itata - Mela - Colmuyao - Cruce N-40 (Cobquecura), La Orilla, Cobquecura, Provincia de Itata, Regi\u00f3n de \u00d1uble, Chile",
+        "region": "REGI\u00d3N DE \u00d1UBLE",
+        "provincia": "ITATA",
+        "comuna": "Cobquecura"
+    },
+    {
+        "acq_date": "2022-07-01",
+        "lat": -23.36156,
+        "lng": -67.73286,
+        "location": "San Pedro de Atacama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "San Pedro de Atacama"
     }
 ]
