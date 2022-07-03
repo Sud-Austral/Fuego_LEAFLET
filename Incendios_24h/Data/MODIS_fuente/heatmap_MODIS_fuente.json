@@ -39650,6 +39650,19 @@
             "properties": {
                 "acq_date": "2022-07-02"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.87765999999999,
+                    -22.31275
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-03"
+            }
         }
     ]
 }
