@@ -131300,6 +131300,45 @@
             "properties": {
                 "acq_date": "2022-07-03"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.88136,
+                    -22.3159
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.73146,
+                    -23.36336
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.31873,
+                    -23.78041
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-04"
+            }
         }
     ]
 }
