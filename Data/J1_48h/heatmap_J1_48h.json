@@ -247,6 +247,32 @@
             "properties": {
                 "acq_date": "2022-07-03"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.26846,
+                    -35.214459999999995
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.26123,
+                    -27.414170000000002
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-03"
+            }
         }
     ]
 }
