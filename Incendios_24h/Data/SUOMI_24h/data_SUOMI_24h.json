@@ -1,1 +1,191 @@
-[]
+[
+    {
+        "acq_date": "2022-07-07",
+        "lat": -27.41315,
+        "lng": -70.26498000000001,
+        "location": "Juan Godoy, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -27.41373,
+        "lng": -70.26093,
+        "location": "Juan Godoy, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -27.41772,
+        "lng": -70.25749,
+        "location": "Cha\u00f1arcillo, Villa Las Industrias, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1535590, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -27.42113,
+        "lng": -70.25811999999999,
+        "location": "Arquitecto, Paipote, Copiap\u00f3, Provincia de Copiap\u00f3, Regi\u00f3n de Atacama, 1580000, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "COPIAP\u00d3",
+        "comuna": "Copiap\u00f3"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -28.47966,
+        "lng": -71.24924,
+        "location": "Villa Guacolda, Huasco, Provincia de Huasco, Regi\u00f3n de Atacama, Chile",
+        "region": "REGI\u00d3N DE ATACAMA",
+        "provincia": "HUASCO",
+        "comuna": "Huasco"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -32.80148,
+        "lng": -70.95441,
+        "location": "Fundici\u00f3n Chagres, Ruta E-611, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -32.80209,
+        "lng": -70.94997,
+        "location": "Autopista Los Andes, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -32.80495,
+        "lng": -70.95509,
+        "location": "Fundici\u00f3n Chagres, Ruta E-611, Chagres, Catemu, Provincia de San Felipe de Aconcagua, Regi\u00f3n de Valpara\u00edso, Chile",
+        "region": "REGI\u00d3N DE VALPARA\u00cdSO",
+        "provincia": "SAN FELIPE DE ACONCAGUA",
+        "comuna": "Catemu"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -33.15371,
+        "lng": -70.89520999999999,
+        "location": "Amancay, Tiltil, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Tiltil"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -33.29549,
+        "lng": -70.72646,
+        "location": "Gerdau Aza, Ruta 5 Norte, Chicauma, Lampa, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, 9391481, Chile",
+        "region": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+        "provincia": "CHACABUCO",
+        "comuna": "Lampa"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -34.10505,
+        "lng": -70.4547,
+        "location": "Fundicion de Caletones, Tramo 3, Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -34.10864,
+        "lng": -70.45521,
+        "location": "Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -36.74454,
+        "lng": -73.13025999999999,
+        "location": "Puerto Huachipato, Avenida Juan Antonio R\u00edos, Libertad, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -36.74519,
+        "lng": -73.12581999999999,
+        "location": "Avenida Gran Breta\u00f1a, Talcahuano, Provincia de Concepci\u00f3n, Regi\u00f3n del Biob\u00edo, 4261172, Chile",
+        "region": "REGI\u00d3N DEL BIOB\u00cdO",
+        "provincia": "CONCEPCI\u00d3N",
+        "comuna": "Talcahuano"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -22.31445,
+        "lng": -68.88261,
+        "location": "zona enfriador peque\u00f1o, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -22.31388,
+        "lng": -68.88651,
+        "location": "precipitadores Electrostaticos, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -22.31787,
+        "lng": -68.88309,
+        "location": "zona enfriador peque\u00f1o, Quilo, Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -23.78482,
+        "lng": -70.31981999999999,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -23.82522,
+        "lng": -70.31470999999999,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -23.82464,
+        "lng": -70.31853000000001,
+        "location": "Ruta 5 Norte, Antofagasta, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Antofagasta"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -24.98713,
+        "lng": -70.46629,
+        "location": "Ruta 1, El Gaucho, Paposo, Taltal, Provincia de Antofagasta, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "ANTOFAGASTA",
+        "comuna": "Taltal"
+    }
+]
