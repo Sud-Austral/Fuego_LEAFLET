@@ -1,1 +1,29 @@
-[]
+[
+    {
+        "acq_date": "2022-07-07",
+        "lat": -30.55131,
+        "lng": -71.24874,
+        "location": "Ovalle, Provincia de Limar\u00ed, Regi\u00f3n de Coquimbo, Chile",
+        "region": "REGI\u00d3N DE COQUIMBO",
+        "provincia": "LIMAR\u00cd",
+        "comuna": "Ovalle"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -34.10872,
+        "lng": -70.45101,
+        "location": "Tramo 3, Planta Caletones Divisi\u00f3n El Teniente de Codelco, Caletones, Machal\u00ed, Provincia de Cachapoal, Regi\u00f3n del Libertador General Bernardo O'Higgins, Chile",
+        "region": "REGI\u00d3N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "provincia": "CACHAPOAL",
+        "comuna": "Machal\u00ed"
+    },
+    {
+        "acq_date": "2022-07-07",
+        "lat": -22.31323,
+        "lng": -68.87604,
+        "location": "Divisi\u00f3n Chuquicamata, Calama, Provincia de El Loa, Regi\u00f3n de Antofagasta, Chile",
+        "region": "REGI\u00d3N DE ANTOFAGASTA",
+        "provincia": "EL LOA",
+        "comuna": "Calama"
+    }
+]
