@@ -468,6 +468,84 @@
             "properties": {
                 "acq_date": "2022-07-07"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.04691,
+                    -34.82731
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.4572,
+                    -34.10711
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.72827,
+                    -33.296890000000005
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.95234,
+                    -32.8032
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.85381,
+                    -31.8884
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.12545,
+                    -36.74564
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-07"
+            }
         }
     ]
 }
