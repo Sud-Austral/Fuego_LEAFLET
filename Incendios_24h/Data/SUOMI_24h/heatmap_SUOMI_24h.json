@@ -1,4 +1,83 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.42052,
+                    -52.38879
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.88112,
+                    -22.31577
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.45976999999999,
+                    -34.10691
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.12226,
+                    -36.73862
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.12921999999999,
+                    -36.74474
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.94207,
+                    -39.42003
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-08"
+            }
+        }
+    ]
 }
