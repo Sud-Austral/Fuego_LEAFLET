@@ -6,45 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.24874,
-                    -30.551309999999997
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-07-07"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.45101,
-                    -34.10872
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-07-07"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.95857,
-                    -32.81094
-                ]
-            },
-            "properties": {
-                "acq_date": "2022-07-07"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -70.46200999999999,
                     -34.11625
                 ]
