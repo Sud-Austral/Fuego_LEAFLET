@@ -132431,6 +132431,71 @@
             "properties": {
                 "acq_date": "2022-07-16"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.88173,
+                    -22.31594
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.32151,
+                    -23.7839
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.3177,
+                    -23.8209
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.25992,
+                    -27.41078
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.25703,
+                    -27.42099
+                ]
+            },
+            "properties": {
+                "acq_date": "2022-07-17"
+            }
         }
     ]
 }
